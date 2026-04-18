@@ -104,14 +104,6 @@
 
 ---
 
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vincenzo-afk&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
-
 ## 📈 Contribution Activity
 
 <p align="center">
@@ -125,6 +117,14 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/vincenzo-afk/vincenzo-afk/output/github-contribution-grid-snake.svg" />
 </p>
+
+---
+
+## ⚡ Developer Snapshot
+
+- 🚀 Building real-world AI systems  
+- 🧠 Focused on scalable backend + intelligent workflows  
+- ⚡ Actively experimenting with multi-model AI systems  
 
 ---
 
