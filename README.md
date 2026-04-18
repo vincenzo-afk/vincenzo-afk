@@ -1,75 +1,88 @@
-<!-- 🔥 TOP ANIMATION -->
+<!-- 🔥 TOP GIF -->
 
 <img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif" width="100%" />
 
-<!-- 🔷 HEADER -->
+<!-- 🔥 NAME (HALF STYLE LIKE BEFORE) -->
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?size=40&duration=2500&pause=800&color=00E0FF&center=true&vCenter=true&width=700&lines=BHARANI;BHARANI+KUMAR+S" />
+</h1>
+
+<h3 align="center">Full Stack Developer • AI Systems Builder • Creating Intelligent Digital Experiences</h3>
+
+---
+
+## 🚀 What I Build
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,100:00E0FF&height=200&section=header&text=BHARANI&fontSize=50&fontColor=00E0FF&animation=fadeIn" />
-
-<h3>Full Stack Developer • AI Builder • System Thinker</h3>
-
-<img src="https://readme-typing-svg.demolab.com?size=22&duration=3000&color=00E0FF&center=true&vCenter=true&width=500&lines=Building+AI+Systems;Creating+Smart+Experiences;Full+Stack+Engineering;Future+Focused+Builder" />
+⚡ Modern Web Applications
+🧠 AI-Powered Systems
+🚀 Real-World Digital Products
 
 </div>
 
 ---
 
-## 🚀 What I Do
+## 🔥 Core Projects
 
 <div align="center">
 
-⚡ Build modern web apps
-🧠 Create AI-powered systems
-🚀 Turn ideas into real products
+### 🧠 NOVA *(Flagship — Building)*
+
+Autonomous AI assistant (Voice • Vision • Action)
+
+### 🧬 VANTA V2 *(Research)*
+
+Advanced multi-model AI system
+
+### 🛡️ SocialGuard-RL *(Live)*
+
+👉 https://huggingface.co/spaces/bk2007/SocialGuard-RL
 
 </div>
 
 ---
 
-## 🔥 Current Focus
+## 🧪 In Development
 
 <div align="center">
 
-🧠 AI Systems
-🎙️ Voice + Vision Projects
-⚙️ Automation
-🔐 Smart Moderation
+📡 WIFI-based Human Presence Detection
+🍔 FoodieXZ (Swiggy-level platform)
+🚨 Crowd Detection AI (Safety System)
 
 </div>
 
 ---
 
-## 🌟 Featured Work
+## 🌐 Live Projects
 
 <div align="center">
 
-🔥 **NOVA** — Autonomous AI System *(Building)*
-🧬 **VANTA V2** — Multi-model Intelligence *(Research)*
-🛡️ **SocialGuard-RL** — AI Moderation *(Live)*
+⚡ VANTA → https://vanta-exe.vercel.app
+🧠 PERSONA → https://askpersona.vercel.app/
+🎓 KingstonConnect → https://kingston-connect.vercel.app
+📊 Attendance Hub → https://attendencehub.vercel.app/login
+🛍️ Ethos Wear → https://ethos-wear.vercel.app/
 
 </div>
 
 ---
 
-## 🧪 In Progress
-
-<div align="center">
-
-📡 WiFi Human Detection
-🍔 FoodieXZ (Food Platform)
-🚨 Crowd Detection AI
-
-</div>
-
----
-
-## 📊 GitHub Activity
+## 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=vincenzo-afk&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-<img src="https://streak-stats.demolab.com?user=vincenzo-afk&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://skillicons.dev/icons?i=python,js,react,nextjs,nodejs,mysql,git,github,vscode" height="60"/>
+</p>
+
+---
+
+## 📊 GitHub Power
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vincenzo-afk&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=vincenzo-afk&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 ---
@@ -77,12 +90,12 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/vincenzo-afk/vincenzo-afk/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/vincenzo-afk/vincenzo-afk/output/github-contribution-grid-snake.svg" width="100%"/>
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## 🌍 Connect Everywhere
 
 <div align="center">
 
@@ -94,12 +107,16 @@
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://discord.gg/jmk4rg9M">
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-</a>
-
 <a href="https://dev.to/bharani_2007">
 <img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/>
+</a>
+
+<a href="https://huggingface.co/bk2007">
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge"/>
+</a>
+
+<a href="https://discord.gg/jmk4rg9M">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
 <a href="https://x.com/abnormal84662">
@@ -123,7 +140,7 @@
 </a>
 
 <a href="https://www.threads.com/@vinzo.verse">
-<img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white"/>
+<img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge"/>
 </a>
 
 <a href="https://www.twitch.tv/lumoraworks">
@@ -135,7 +152,7 @@
 </a>
 
 <a href="https://mastodon.social/@vincenzoafk25">
-<img src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white"/>
+<img src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge"/>
 </a>
 
 <a href="https://www.clubhouse.com/@bharani71">
@@ -146,10 +163,12 @@
 
 ---
 
-## ✨ Final Line
+## ✨ Final
 
 <div align="center">
 
-**Design. Build. Evolve. 🚀**
+🚀 Building systems that think
+⚡ Creating products that scale
+🧠 Engineering intelligence into software
 
 </div>
