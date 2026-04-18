@@ -1,27 +1,30 @@
-name: Generate Snake
+name: 🐍 Generate Contribution Snake
 
 on:
   push:
     branches:
       - main
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 */12 * * *"
   workflow_dispatch:
 
 jobs:
-  build:
+  generate-snake:
     runs-on: ubuntu-latest
     permissions:
       contents: write
 
     steps:
-      - uses: Platane/snk@v3
+      - name: Generate Snake (Light Mode)
+        uses: Platane/snk@v3
         with:
           github_user_name: vincenzo-afk
           outputs: |
-            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake.svg?color_snake=7ee787&color_dots=#1a1b27,#2d2f45,#3d4166,#58a6ff,#7ee787
+            dist/github-contribution-grid-snake-dark.svg?color_snake=58a6ff&color_dots=#161b22,#0d1117,#1a1b27,#2d2f45,#58a6ff&color_bg=#0d1117
 
-      - uses: crazy-max/ghaction-github-pages@v3
+      - name: Push to Output Branch
+        uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
