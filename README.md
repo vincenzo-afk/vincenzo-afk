@@ -1,3 +1,6 @@
+<img
+
+src="https://user-images.githubusercontent.com/22107794/13 9580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif" width="100%" />
 <!-- Header Wave -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E0FF,100:005F73&height=200&section=header&text=BHARANI%20KUMAR%20S&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Systems%20Builder&descAlignY=58&descSize=20" width="100%"/>
