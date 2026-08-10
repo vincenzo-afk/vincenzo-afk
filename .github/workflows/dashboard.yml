@@ -1,0 +1,49 @@
+name: 📊 Update Live Dashboard
+
+# Regenerates every data-driven card used in README.md:
+#   feature stats, animated stats (with real month-over-month deltas),
+#   Steam-style project cards, the "NOW BUILDING" card, the skill radar,
+#   and the 7-day coding activity timeline.
+#
+# No setup required — it uses the automatically-provided GITHUB_TOKEN.
+# To change what the cards show, edit the files in data/*.json and either
+# wait for the next scheduled run or trigger it manually from the Actions tab.
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "data/**"
+      - "scripts/generate-dashboard.mjs"
+      - ".github/workflows/dashboard.yml"
+  schedule:
+    - cron: "0 */6 * * *" # every 6 hours, so commit counts/stars/streaks stay fresh
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build-dashboard:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Generate dashboard SVGs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USERNAME: vincenzo-afk
+        run: node scripts/generate-dashboard.mjs
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/generated data/prev_stats.json
+          git diff --cached --quiet && echo "No changes to commit" && exit 0
+          git commit -m "📊 Auto-update live dashboard"
+          git push

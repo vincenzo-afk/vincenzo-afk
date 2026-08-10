@@ -1,0 +1,294 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="768" viewBox="0 0 1024 768">
+  <defs>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#00E0FF"/>
+      <stop offset="100%" stop-color="#58A6FF"/>
+    </linearGradient>
+    <style>
+      .card-bg { fill: #111826; stroke: #1f2937; stroke-width: 1; }
+      .title { fill: #c9d1d9; font-family: 'Segoe UI', Helvetica, Arial, sans-serif; font-weight: 700; }
+      .dim { fill: #8b949e; font-family: 'Segoe UI', Helvetica, Arial, sans-serif; }
+      .accent { fill: #00E0FF; font-family: 'Segoe UI', Helvetica, Arial, sans-serif; font-weight: 700; }
+      .num { font-family: 'Segoe UI', Helvetica, Arial, sans-serif; font-weight: 800; }
+      text { dominant-baseline: middle; }
+    </style>
+  </defs>
+  <rect width="1024" height="768" fill="#0d1117"/>
+  
+  
+    <g transform="translate(16,16)">
+      <rect class="card-bg" width="320" height="172" rx="12"/>
+      <rect x="0" y="0" width="320" height="34" rx="12" fill="#0b1220"/>
+      <rect x="0" y="22" width="320" height="12" fill="#0b1220"/>
+      <text x="16" y="18" class="title" font-size="15">NOVA</text>
+      <circle cx="302" cy="17" r="5" fill="#ff7b72"/>
+
+      <rect x="20" y="48" width="280" height="10" rx="5" fill="#1c2333"/>
+      <rect x="20" y="48" width="202" height="10" rx="5" fill="url(#glow)"/>
+      <text x="300" y="70" text-anchor="end" class="dim" font-size="11">72%</text>
+
+      <text x="20" y="96" class="dim" font-size="11">Language</text>
+      <text x="20" y="112" class="accent" font-size="12">Python</text>
+
+      <text x="170" y="96" class="dim" font-size="11">Status</text>
+      <text x="170" y="112" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#ff7b72">Building</text>
+
+      <text x="20" y="136" class="dim" font-size="11">Modules</text>
+      <text x="20" y="152" class="title" font-size="12">41</text>
+
+      <text x="170" y="136" class="dim" font-size="11">Stars</text>
+      <text x="170" y="152" class="title" font-size="12">★ 0</text>
+
+      <text x="300" y="152" text-anchor="end" class="dim" font-size="10">Updated —</text>
+    </g>
+    <g transform="translate(352,16)">
+      <rect class="card-bg" width="320" height="172" rx="12"/>
+      <rect x="0" y="0" width="320" height="34" rx="12" fill="#0b1220"/>
+      <rect x="0" y="22" width="320" height="12" fill="#0b1220"/>
+      <text x="16" y="18" class="title" font-size="15">IRIS</text>
+      <circle cx="302" cy="17" r="5" fill="#ff7b72"/>
+
+      <rect x="20" y="48" width="280" height="10" rx="5" fill="#1c2333"/>
+      <rect x="20" y="48" width="162" height="10" rx="5" fill="url(#glow)"/>
+      <text x="300" y="70" text-anchor="end" class="dim" font-size="11">58%</text>
+
+      <text x="20" y="96" class="dim" font-size="11">Language</text>
+      <text x="20" y="112" class="accent" font-size="12">Python</text>
+
+      <text x="170" y="96" class="dim" font-size="11">Status</text>
+      <text x="170" y="112" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#ff7b72">Building</text>
+
+      <text x="20" y="136" class="dim" font-size="11">Modules</text>
+      <text x="20" y="152" class="title" font-size="12">23</text>
+
+      <text x="170" y="136" class="dim" font-size="11">Stars</text>
+      <text x="170" y="152" class="title" font-size="12">★ 0</text>
+
+      <text x="300" y="152" text-anchor="end" class="dim" font-size="10">Updated —</text>
+    </g>
+    <g transform="translate(688,16)">
+      <rect class="card-bg" width="320" height="172" rx="12"/>
+      <rect x="0" y="0" width="320" height="34" rx="12" fill="#0b1220"/>
+      <rect x="0" y="22" width="320" height="12" fill="#0b1220"/>
+      <text x="16" y="18" class="title" font-size="15">OMNI</text>
+      <circle cx="302" cy="17" r="5" fill="#ff7b72"/>
+
+      <rect x="20" y="48" width="280" height="10" rx="5" fill="#1c2333"/>
+      <rect x="20" y="48" width="123" height="10" rx="5" fill="url(#glow)"/>
+      <text x="300" y="70" text-anchor="end" class="dim" font-size="11">44%</text>
+
+      <text x="20" y="96" class="dim" font-size="11">Language</text>
+      <text x="20" y="112" class="accent" font-size="12">Python</text>
+
+      <text x="170" y="96" class="dim" font-size="11">Status</text>
+      <text x="170" y="112" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#ff7b72">Building</text>
+
+      <text x="20" y="136" class="dim" font-size="11">Modules</text>
+      <text x="20" y="152" class="title" font-size="12">17</text>
+
+      <text x="170" y="136" class="dim" font-size="11">Stars</text>
+      <text x="170" y="152" class="title" font-size="12">★ 0</text>
+
+      <text x="300" y="152" text-anchor="end" class="dim" font-size="10">Updated —</text>
+    </g>
+    <g transform="translate(16,204)">
+      <rect class="card-bg" width="320" height="172" rx="12"/>
+      <rect x="0" y="0" width="320" height="34" rx="12" fill="#0b1220"/>
+      <rect x="0" y="22" width="320" height="12" fill="#0b1220"/>
+      <text x="16" y="18" class="title" font-size="15">CircuitWeaver</text>
+      <circle cx="302" cy="17" r="5" fill="#ff7b72"/>
+
+      <rect x="20" y="48" width="280" height="10" rx="5" fill="#1c2333"/>
+      <rect x="20" y="48" width="143" height="10" rx="5" fill="url(#glow)"/>
+      <text x="300" y="70" text-anchor="end" class="dim" font-size="11">51%</text>
+
+      <text x="20" y="96" class="dim" font-size="11">Language</text>
+      <text x="20" y="112" class="accent" font-size="12">Python</text>
+
+      <text x="170" y="96" class="dim" font-size="11">Status</text>
+      <text x="170" y="112" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#ff7b72">Building</text>
+
+      <text x="20" y="136" class="dim" font-size="11">Modules</text>
+      <text x="20" y="152" class="title" font-size="12">19</text>
+
+      <text x="170" y="136" class="dim" font-size="11">Stars</text>
+      <text x="170" y="152" class="title" font-size="12">★ 0</text>
+
+      <text x="300" y="152" text-anchor="end" class="dim" font-size="10">Updated —</text>
+    </g>
+    <g transform="translate(352,204)">
+      <rect class="card-bg" width="320" height="172" rx="12"/>
+      <rect x="0" y="0" width="320" height="34" rx="12" fill="#0b1220"/>
+      <rect x="0" y="22" width="320" height="12" fill="#0b1220"/>
+      <text x="16" y="18" class="title" font-size="15">H.O.M.E.R.</text>
+      <circle cx="302" cy="17" r="5" fill="#58A6FF"/>
+
+      <rect x="20" y="48" width="280" height="10" rx="5" fill="#1c2333"/>
+      <rect x="20" y="48" width="182" height="10" rx="5" fill="url(#glow)"/>
+      <text x="300" y="70" text-anchor="end" class="dim" font-size="11">65%</text>
+
+      <text x="20" y="96" class="dim" font-size="11">Language</text>
+      <text x="20" y="112" class="accent" font-size="12">Python</text>
+
+      <text x="170" y="96" class="dim" font-size="11">Status</text>
+      <text x="170" y="112" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#58A6FF">Prototype</text>
+
+      <text x="20" y="136" class="dim" font-size="11">Modules</text>
+      <text x="20" y="152" class="title" font-size="12">14</text>
+
+      <text x="170" y="136" class="dim" font-size="11">Stars</text>
+      <text x="170" y="152" class="title" font-size="12">★ 0</text>
+
+      <text x="300" y="152" text-anchor="end" class="dim" font-size="10">Updated —</text>
+    </g>
+    <g transform="translate(688,204)">
+      <rect class="card-bg" width="320" height="172" rx="12"/>
+      <rect x="0" y="0" width="320" height="34" rx="12" fill="#0b1220"/>
+      <rect x="0" y="22" width="320" height="12" fill="#0b1220"/>
+      <text x="16" y="18" class="title" font-size="15">NEXUS-ENGINE</text>
+      <circle cx="302" cy="17" r="5" fill="#7ee787"/>
+
+      <rect x="20" y="48" width="280" height="10" rx="5" fill="#1c2333"/>
+      <rect x="20" y="48" width="280" height="10" rx="5" fill="url(#glow)"/>
+      <text x="300" y="70" text-anchor="end" class="dim" font-size="11">100%</text>
+
+      <text x="20" y="96" class="dim" font-size="11">Language</text>
+      <text x="20" y="112" class="accent" font-size="12">Rust</text>
+
+      <text x="170" y="96" class="dim" font-size="11">Status</text>
+      <text x="170" y="112" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#7ee787">Live</text>
+
+      <text x="20" y="136" class="dim" font-size="11">Modules</text>
+      <text x="20" y="152" class="title" font-size="12">28</text>
+
+      <text x="170" y="136" class="dim" font-size="11">Stars</text>
+      <text x="170" y="152" class="title" font-size="12">★ 0</text>
+
+      <text x="300" y="152" text-anchor="end" class="dim" font-size="10">Updated —</text>
+    </g>
+    <g transform="translate(16,392)">
+      <rect class="card-bg" width="320" height="172" rx="12"/>
+      <rect x="0" y="0" width="320" height="34" rx="12" fill="#0b1220"/>
+      <rect x="0" y="22" width="320" height="12" fill="#0b1220"/>
+      <text x="16" y="18" class="title" font-size="15">SocialGuard-RL</text>
+      <circle cx="302" cy="17" r="5" fill="#7ee787"/>
+
+      <rect x="20" y="48" width="280" height="10" rx="5" fill="#1c2333"/>
+      <rect x="20" y="48" width="280" height="10" rx="5" fill="url(#glow)"/>
+      <text x="300" y="70" text-anchor="end" class="dim" font-size="11">100%</text>
+
+      <text x="20" y="96" class="dim" font-size="11">Language</text>
+      <text x="20" y="112" class="accent" font-size="12">Python</text>
+
+      <text x="170" y="96" class="dim" font-size="11">Status</text>
+      <text x="170" y="112" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#7ee787">Live</text>
+
+      <text x="20" y="136" class="dim" font-size="11">Modules</text>
+      <text x="20" y="152" class="title" font-size="12">12</text>
+
+      <text x="170" y="136" class="dim" font-size="11">Stars</text>
+      <text x="170" y="152" class="title" font-size="12">★ 0</text>
+
+      <text x="300" y="152" text-anchor="end" class="dim" font-size="10">Updated —</text>
+    </g>
+    <g transform="translate(352,392)">
+      <rect class="card-bg" width="320" height="172" rx="12"/>
+      <rect x="0" y="0" width="320" height="34" rx="12" fill="#0b1220"/>
+      <rect x="0" y="22" width="320" height="12" fill="#0b1220"/>
+      <text x="16" y="18" class="title" font-size="15">Zen-2</text>
+      <circle cx="302" cy="17" r="5" fill="#7ee787"/>
+
+      <rect x="20" y="48" width="280" height="10" rx="5" fill="#1c2333"/>
+      <rect x="20" y="48" width="280" height="10" rx="5" fill="url(#glow)"/>
+      <text x="300" y="70" text-anchor="end" class="dim" font-size="11">100%</text>
+
+      <text x="20" y="96" class="dim" font-size="11">Language</text>
+      <text x="20" y="112" class="accent" font-size="12">Python</text>
+
+      <text x="170" y="96" class="dim" font-size="11">Status</text>
+      <text x="170" y="112" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#7ee787">Live</text>
+
+      <text x="20" y="136" class="dim" font-size="11">Modules</text>
+      <text x="20" y="152" class="title" font-size="12">9</text>
+
+      <text x="170" y="136" class="dim" font-size="11">Stars</text>
+      <text x="170" y="152" class="title" font-size="12">★ 0</text>
+
+      <text x="300" y="152" text-anchor="end" class="dim" font-size="10">Updated —</text>
+    </g>
+    <g transform="translate(688,392)">
+      <rect class="card-bg" width="320" height="172" rx="12"/>
+      <rect x="0" y="0" width="320" height="34" rx="12" fill="#0b1220"/>
+      <rect x="0" y="22" width="320" height="12" fill="#0b1220"/>
+      <text x="16" y="18" class="title" font-size="15">AgentWeb</text>
+      <circle cx="302" cy="17" r="5" fill="#7ee787"/>
+
+      <rect x="20" y="48" width="280" height="10" rx="5" fill="#1c2333"/>
+      <rect x="20" y="48" width="280" height="10" rx="5" fill="url(#glow)"/>
+      <text x="300" y="70" text-anchor="end" class="dim" font-size="11">100%</text>
+
+      <text x="20" y="96" class="dim" font-size="11">Language</text>
+      <text x="20" y="112" class="accent" font-size="12">TypeScript</text>
+
+      <text x="170" y="96" class="dim" font-size="11">Status</text>
+      <text x="170" y="112" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#7ee787">Live</text>
+
+      <text x="20" y="136" class="dim" font-size="11">Modules</text>
+      <text x="20" y="152" class="title" font-size="12">15</text>
+
+      <text x="170" y="136" class="dim" font-size="11">Stars</text>
+      <text x="170" y="152" class="title" font-size="12">★ 0</text>
+
+      <text x="300" y="152" text-anchor="end" class="dim" font-size="10">Updated —</text>
+    </g>
+    <g transform="translate(16,580)">
+      <rect class="card-bg" width="320" height="172" rx="12"/>
+      <rect x="0" y="0" width="320" height="34" rx="12" fill="#0b1220"/>
+      <rect x="0" y="22" width="320" height="12" fill="#0b1220"/>
+      <text x="16" y="18" class="title" font-size="15">TN Land Tracker</text>
+      <circle cx="302" cy="17" r="5" fill="#7ee787"/>
+
+      <rect x="20" y="48" width="280" height="10" rx="5" fill="#1c2333"/>
+      <rect x="20" y="48" width="280" height="10" rx="5" fill="url(#glow)"/>
+      <text x="300" y="70" text-anchor="end" class="dim" font-size="11">100%</text>
+
+      <text x="20" y="96" class="dim" font-size="11">Language</text>
+      <text x="20" y="112" class="accent" font-size="12">Python/Next.js</text>
+
+      <text x="170" y="96" class="dim" font-size="11">Status</text>
+      <text x="170" y="112" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#7ee787">Live</text>
+
+      <text x="20" y="136" class="dim" font-size="11">Modules</text>
+      <text x="20" y="152" class="title" font-size="12">11</text>
+
+      <text x="170" y="136" class="dim" font-size="11">Stars</text>
+      <text x="170" y="152" class="title" font-size="12">★ 0</text>
+
+      <text x="300" y="152" text-anchor="end" class="dim" font-size="10">Updated —</text>
+    </g>
+    <g transform="translate(352,580)">
+      <rect class="card-bg" width="320" height="172" rx="12"/>
+      <rect x="0" y="0" width="320" height="34" rx="12" fill="#0b1220"/>
+      <rect x="0" y="22" width="320" height="12" fill="#0b1220"/>
+      <text x="16" y="18" class="title" font-size="15">KingstonConnect</text>
+      <circle cx="302" cy="17" r="5" fill="#7ee787"/>
+
+      <rect x="20" y="48" width="280" height="10" rx="5" fill="#1c2333"/>
+      <rect x="20" y="48" width="280" height="10" rx="5" fill="url(#glow)"/>
+      <text x="300" y="70" text-anchor="end" class="dim" font-size="11">100%</text>
+
+      <text x="20" y="96" class="dim" font-size="11">Language</text>
+      <text x="20" y="112" class="accent" font-size="12">TypeScript</text>
+
+      <text x="170" y="96" class="dim" font-size="11">Status</text>
+      <text x="170" y="112" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#7ee787">Live</text>
+
+      <text x="20" y="136" class="dim" font-size="11">Modules</text>
+      <text x="20" y="152" class="title" font-size="12">13</text>
+
+      <text x="170" y="136" class="dim" font-size="11">Stars</text>
+      <text x="170" y="152" class="title" font-size="12">★ 0</text>
+
+      <text x="300" y="152" text-anchor="end" class="dim" font-size="10">Updated —</text>
+    </g>
+</svg>

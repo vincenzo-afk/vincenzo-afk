@@ -1,0 +1,6 @@
+{
+  "_readme": "Skill Radar axes. 'Python', 'Rust' and 'TS/JS' are overwritten automatically from your live repository language mix. 'AI/ML', 'DevOps' and 'Systems' are not derivable from the GitHub API, so set them by hand (0-100).",
+  "ai_ml": 88,
+  "devops": 70,
+  "systems": 75
+}

@@ -1,0 +1,32 @@
+name: 🐍 Generate Cyberpunk Contribution Snake
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate-snake:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Generate Snake (Neon Cyberpunk Palette)
+        uses: Platane/snk@v3
+        with:
+          github_user_name: vincenzo-afk
+          outputs: |
+            dist/github-contribution-grid-snake.svg?color_snake=00E0FF&color_dots=#1a1b27,#2d2f45,#3d4166,#58a6ff,#00E0FF&color_bg=#0d1117
+            dist/github-contribution-grid-snake-dark.svg?color_snake=ff2e63&color_dots=#0d1117,#1a1b27,#3d4166,#58a6ff,#00E0FF&color_bg=#0d1117
+
+      - name: Push to Output Branch
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

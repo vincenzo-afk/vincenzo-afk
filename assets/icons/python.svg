@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="90" height="90" viewBox="0 0 90 90">
+  <defs>
+    <radialGradient id="g-python" cx="35%" cy="30%" r="75%">
+      <stop offset="0%" stop-color="#4B8BBE"/>
+      <stop offset="100%" stop-color="#FFD43B"/>
+    </radialGradient>
+  </defs>
+
+  <!-- pulsing outer glow -->
+  <circle cx="45" cy="45" r="41" fill="none" stroke="#4B8BBE" stroke-width="2" opacity="0.55">
+    <animate attributeName="r" values="35;42;35" dur="2.4s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.6;0.05;0.6" dur="2.4s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- rotating dashed ring -->
+  <g>
+    <circle cx="45" cy="45" r="37" fill="none" stroke="#FFD43B" stroke-width="2" stroke-dasharray="6 7" opacity="0.85"/>
+    <animateTransform attributeName="transform" type="rotate" from="0 45 45" to="360 45 45" dur="6.0s" repeatCount="indefinite"/>
+  </g>
+
+  <!-- core disc -->
+  <circle cx="45" cy="45" r="29" fill="url(#g-python)">
+    <animate attributeName="r" values="28;31;28" dur="2.4s" repeatCount="indefinite"/>
+  </circle>
+
+  <text x="45" y="46" text-anchor="middle" dominant-baseline="central"
+        font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-weight="800"
+        font-size="22" fill="#0d1117" stroke="#ffffff" stroke-width="0.6" paint-order="stroke">
+    Py
+  </text>
+</svg>

@@ -1,0 +1,63 @@
+{
+  "_readme": "Edit this file to control the Steam-style project cards in assets/generated/project-cards.svg. 'repo' must be an exact 'owner/name' on GitHub for live stats (commits/stars/last update) to be pulled automatically. Set 'repo' to null for projects that aren't public yet — the card will then use 'commits'/'stars' fallback values below instead.",
+  "flagship": [
+    {
+      "name": "NOVA",
+      "repo": "vincenzo-afk/NOVA",
+      "language": "Python",
+      "status": "Building",
+      "progress": 72,
+      "modules": 41,
+      "fallback_commits": 1204,
+      "fallback_stars": 0
+    },
+    {
+      "name": "IRIS",
+      "repo": "vincenzo-afk/IRIS",
+      "language": "Python",
+      "status": "Building",
+      "progress": 58,
+      "modules": 23,
+      "fallback_commits": 640,
+      "fallback_stars": 0
+    },
+    {
+      "name": "OMNI",
+      "repo": "vincenzo-afk/OMNI",
+      "language": "Python",
+      "status": "Building",
+      "progress": 44,
+      "modules": 17,
+      "fallback_commits": 310,
+      "fallback_stars": 0
+    },
+    {
+      "name": "CircuitWeaver",
+      "repo": "vincenzo-afk/CircuitWeaver",
+      "language": "Python",
+      "status": "Building",
+      "progress": 51,
+      "modules": 19,
+      "fallback_commits": 385,
+      "fallback_stars": 0
+    },
+    {
+      "name": "H.O.M.E.R.",
+      "repo": "vincenzo-afk/H.O.M.E.R.",
+      "language": "Python",
+      "status": "Prototype",
+      "progress": 65,
+      "modules": 14,
+      "fallback_commits": 220,
+      "fallback_stars": 0
+    }
+  ],
+  "major": [
+    { "name": "NEXUS-ENGINE", "repo": "vincenzo-afk/NEXUS-ENGINE", "language": "Rust", "status": "Live", "progress": 100, "modules": 28 },
+    { "name": "SocialGuard-RL", "repo": "vincenzo-afk/SocialGuard-RL", "language": "Python", "status": "Live", "progress": 100, "modules": 12 },
+    { "name": "Zen-2", "repo": "vincenzo-afk/Zen-2", "language": "Python", "status": "Live", "progress": 100, "modules": 9 },
+    { "name": "AgentWeb", "repo": "vincenzo-afk/AgentWeb", "language": "TypeScript", "status": "Live", "progress": 100, "modules": 15 },
+    { "name": "TN Land Tracker", "repo": "vincenzo-afk/tn-land-tracker", "language": "Python/Next.js", "status": "Live", "progress": 100, "modules": 11 },
+    { "name": "KingstonConnect", "repo": "vincenzo-afk/KingstonConnect", "language": "TypeScript", "status": "Live", "progress": 100, "modules": 13 }
+  ]
+}

@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="990" height="124" viewBox="0 0 990 124">
+  <defs>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#00E0FF"/>
+      <stop offset="100%" stop-color="#58A6FF"/>
+    </linearGradient>
+    <style>
+      .card-bg { fill: #111826; stroke: #1f2937; stroke-width: 1; }
+      .title { fill: #c9d1d9; font-family: 'Segoe UI', Helvetica, Arial, sans-serif; font-weight: 700; }
+      .dim { fill: #8b949e; font-family: 'Segoe UI', Helvetica, Arial, sans-serif; }
+      .accent { fill: #00E0FF; font-family: 'Segoe UI', Helvetica, Arial, sans-serif; font-weight: 700; }
+      .num { font-family: 'Segoe UI', Helvetica, Arial, sans-serif; font-weight: 800; }
+      text { dominant-baseline: middle; }
+    </style>
+  </defs>
+  <rect width="990" height="124" fill="#0d1117"/>
+  
+  
+    <g transform="translate(14,14)">
+      <rect class="card-bg" width="230" height="96" rx="12"/>
+      <text x="20" y="38" class="num" font-size="30" fill="#00E0FF">
+        1,421
+        <animate attributeName="opacity" values="0;1" dur="0.6s" begin="0s" fill="freeze"/>
+      </text>
+      <text x="20" y="64" class="dim" font-size="13">Total Commits (1y)</text>
+      <text x="20" y="84" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" fill="#8b949e">no change this month</text>
+    </g>
+    <g transform="translate(258,14)">
+      <rect class="card-bg" width="230" height="96" rx="12"/>
+      <text x="20" y="38" class="num" font-size="30" fill="#00E0FF">
+        55
+        <animate attributeName="opacity" values="0;1" dur="0.6s" begin="0s" fill="freeze"/>
+      </text>
+      <text x="20" y="64" class="dim" font-size="13">Repositories</text>
+      <text x="20" y="84" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" fill="#8b949e">no change this month</text>
+    </g>
+    <g transform="translate(502,14)">
+      <rect class="card-bg" width="230" height="96" rx="12"/>
+      <text x="20" y="38" class="num" font-size="30" fill="#00E0FF">
+        95
+        <animate attributeName="opacity" values="0;1" dur="0.6s" begin="0s" fill="freeze"/>
+      </text>
+      <text x="20" y="64" class="dim" font-size="13">Stars Earned</text>
+      <text x="20" y="84" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" fill="#8b949e">no change this month</text>
+    </g>
+    <g transform="translate(746,14)">
+      <rect class="card-bg" width="230" height="96" rx="12"/>
+      <text x="20" y="38" class="num" font-size="30" fill="#00E0FF">
+        28
+        <animate attributeName="opacity" values="0;1" dur="0.6s" begin="0s" fill="freeze"/>
+      </text>
+      <text x="20" y="64" class="dim" font-size="13">Followers</text>
+      <text x="20" y="84" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" fill="#8b949e">no change this month</text>
+    </g>
+</svg>

@@ -1,0 +1,9 @@
+{
+  "_readme": "Edit this file any time — it drives the 'NOW BUILDING' card. It re-renders on every push to main and on the daily schedule.",
+  "project": "NOVA",
+  "emoji": "🧠",
+  "progress": 72,
+  "current_module": "Authentication & Memory Layer",
+  "eta_days": 14,
+  "status_label": "In Active Development"
+}

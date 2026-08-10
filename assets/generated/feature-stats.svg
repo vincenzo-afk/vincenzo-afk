@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1022" height="220" viewBox="0 0 1022 220">
+  <defs>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#00E0FF"/>
+      <stop offset="100%" stop-color="#58A6FF"/>
+    </linearGradient>
+    <style>
+      .card-bg { fill: #111826; stroke: #1f2937; stroke-width: 1; }
+      .title { fill: #c9d1d9; font-family: 'Segoe UI', Helvetica, Arial, sans-serif; font-weight: 700; }
+      .dim { fill: #8b949e; font-family: 'Segoe UI', Helvetica, Arial, sans-serif; }
+      .accent { fill: #00E0FF; font-family: 'Segoe UI', Helvetica, Arial, sans-serif; font-weight: 700; }
+      .num { font-family: 'Segoe UI', Helvetica, Arial, sans-serif; font-weight: 800; }
+      text { dominant-baseline: middle; }
+    </style>
+  </defs>
+  <rect width="1022" height="220" fill="#0d1117"/>
+  
+  
+    <g transform="translate(12,12)">
+      <rect class="card-bg" width="190" height="92" rx="10"/>
+      <rect x="0" y="0" width="4" height="92" rx="2" fill="url(#glow)"/>
+      <text x="18" y="34" class="num accent" font-size="26">70+</text>
+      <text x="18" y="64" class="dim" font-size="12">Projects Built</text>
+    </g>
+    <g transform="translate(214,12)">
+      <rect class="card-bg" width="190" height="92" rx="10"/>
+      <rect x="0" y="0" width="4" height="92" rx="2" fill="url(#glow)"/>
+      <text x="18" y="34" class="num accent" font-size="26">55</text>
+      <text x="18" y="64" class="dim" font-size="12">Repositories</text>
+    </g>
+    <g transform="translate(416,12)">
+      <rect class="card-bg" width="190" height="92" rx="10"/>
+      <rect x="0" y="0" width="4" height="92" rx="2" fill="url(#glow)"/>
+      <text x="18" y="34" class="num accent" font-size="26">4+</text>
+      <text x="18" y="64" class="dim" font-size="12">Years Coding</text>
+    </g>
+    <g transform="translate(618,12)">
+      <rect class="card-bg" width="190" height="92" rx="10"/>
+      <rect x="0" y="0" width="4" height="92" rx="2" fill="url(#glow)"/>
+      <text x="18" y="34" class="num accent" font-size="26">12</text>
+      <text x="18" y="64" class="dim" font-size="12">AI Projects</text>
+    </g>
+    <g transform="translate(820,12)">
+      <rect class="card-bg" width="190" height="92" rx="10"/>
+      <rect x="0" y="0" width="4" height="92" rx="2" fill="url(#glow)"/>
+      <text x="18" y="34" class="num accent" font-size="26">10</text>
+      <text x="18" y="64" class="dim" font-size="12">Languages</text>
+    </g>
+    <g transform="translate(12,116)">
+      <rect class="card-bg" width="190" height="92" rx="10"/>
+      <rect x="0" y="0" width="4" height="92" rx="2" fill="url(#glow)"/>
+      <text x="18" y="34" class="num accent" font-size="26">3</text>
+      <text x="18" y="64" class="dim" font-size="12">Hackathons</text>
+    </g>
+    <g transform="translate(214,116)">
+      <rect class="card-bg" width="190" height="92" rx="10"/>
+      <rect x="0" y="0" width="4" height="92" rx="2" fill="url(#glow)"/>
+      <text x="18" y="34" class="num accent" font-size="26">—</text>
+      <text x="18" y="64" class="dim" font-size="12">Certificates</text>
+    </g>
+    <g transform="translate(416,116)">
+      <rect class="card-bg" width="190" height="92" rx="10"/>
+      <rect x="0" y="0" width="4" height="92" rx="2" fill="url(#glow)"/>
+      <text x="18" y="34" class="num accent" font-size="26">—</text>
+      <text x="18" y="64" class="dim" font-size="12">Models Built</text>
+    </g>
+    <g transform="translate(618,116)">
+      <rect class="card-bg" width="190" height="92" rx="10"/>
+      <rect x="0" y="0" width="4" height="92" rx="2" fill="url(#glow)"/>
+      <text x="18" y="34" class="num accent" font-size="26">40+</text>
+      <text x="18" y="64" class="dim" font-size="12">APIs Integrated</text>
+    </g>
+    <g transform="translate(820,116)">
+      <rect class="card-bg" width="190" height="92" rx="10"/>
+      <rect x="0" y="0" width="4" height="92" rx="2" fill="url(#glow)"/>
+      <text x="18" y="34" class="num accent" font-size="26">95</text>
+      <text x="18" y="64" class="dim" font-size="12">Stars Earned</text>
+    </g>
+</svg>
