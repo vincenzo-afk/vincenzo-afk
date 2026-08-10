@@ -19,7 +19,7 @@
     <g transform="translate(14,14)">
       <rect class="card-bg" width="230" height="96" rx="12"/>
       <text x="20" y="38" class="num" font-size="30" fill="#00E0FF">
-        1,421
+        368
         <animate attributeName="opacity" values="0;1" dur="0.6s" begin="0s" fill="freeze"/>
       </text>
       <text x="20" y="64" class="dim" font-size="13">Total Commits (1y)</text>
@@ -28,7 +28,7 @@
     <g transform="translate(258,14)">
       <rect class="card-bg" width="230" height="96" rx="12"/>
       <text x="20" y="38" class="num" font-size="30" fill="#00E0FF">
-        55
+        64
         <animate attributeName="opacity" values="0;1" dur="0.6s" begin="0s" fill="freeze"/>
       </text>
       <text x="20" y="64" class="dim" font-size="13">Repositories</text>
@@ -37,7 +37,7 @@
     <g transform="translate(502,14)">
       <rect class="card-bg" width="230" height="96" rx="12"/>
       <text x="20" y="38" class="num" font-size="30" fill="#00E0FF">
-        95
+        1,763
         <animate attributeName="opacity" values="0;1" dur="0.6s" begin="0s" fill="freeze"/>
       </text>
       <text x="20" y="64" class="dim" font-size="13">Stars Earned</text>
@@ -46,7 +46,7 @@
     <g transform="translate(746,14)">
       <rect class="card-bg" width="230" height="96" rx="12"/>
       <text x="20" y="38" class="num" font-size="30" fill="#00E0FF">
-        28
+        59
         <animate attributeName="opacity" values="0;1" dur="0.6s" begin="0s" fill="freeze"/>
       </text>
       <text x="20" y="64" class="dim" font-size="13">Followers</text>
