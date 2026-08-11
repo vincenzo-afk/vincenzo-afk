@@ -264,7 +264,7 @@
       <text x="170" y="136" class="dim" font-size="11">Stars</text>
       <text x="170" y="152" class="title" font-size="12">★ 30</text>
 
-      <text x="300" y="152" text-anchor="end" class="dim" font-size="10">Updated 8 days ago</text>
+      <text x="300" y="152" text-anchor="end" class="dim" font-size="10">Updated 9 days ago</text>
     </g>
     <g transform="translate(352,580)">
       <rect class="card-bg" width="320" height="172" rx="12"/>
