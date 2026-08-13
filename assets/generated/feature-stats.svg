@@ -73,7 +73,7 @@
     <g transform="translate(820,116)">
       <rect class="card-bg" width="190" height="92" rx="10"/>
       <rect x="0" y="0" width="4" height="92" rx="2" fill="url(#glow)"/>
-      <text x="18" y="34" class="num accent" font-size="26">1888</text>
+      <text x="18" y="34" class="num accent" font-size="26">1889</text>
       <text x="18" y="64" class="dim" font-size="12">Stars Earned</text>
     </g>
 </svg>
