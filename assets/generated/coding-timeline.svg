@@ -24,9 +24,9 @@
       <text x="167.71428571428572" y="210" text-anchor="middle" class="dim" font-size="12">Sun</text>
       <text x="167.71428571428572" y="170" text-anchor="middle" class="accent" font-size="12">7</text>
     
-      <rect x="222.28571428571428" y="178" width="73.14285714285714" height="12" rx="6" fill="url(#glow)"/>
+      <rect x="222.28571428571428" y="176" width="73.14285714285714" height="14" rx="6" fill="url(#glow)"/>
       <text x="258.85714285714283" y="210" text-anchor="middle" class="dim" font-size="12">Mon</text>
-      <text x="258.85714285714283" y="170" text-anchor="middle" class="accent" font-size="12">7</text>
+      <text x="258.85714285714283" y="168" text-anchor="middle" class="accent" font-size="12">8</text>
     
       <rect x="313.42857142857144" y="179" width="73.14285714285714" height="11" rx="6" fill="url(#glow)"/>
       <text x="350" y="210" text-anchor="middle" class="dim" font-size="12">Tue</text>
@@ -40,8 +40,8 @@
       <text x="532.2857142857142" y="210" text-anchor="middle" class="dim" font-size="12">Thu</text>
       <text x="532.2857142857142" y="117" text-anchor="middle" class="accent" font-size="12">37</text>
     
-      <rect x="586.8571428571429" y="129" width="73.14285714285714" height="61" rx="6" fill="url(#glow)"/>
+      <rect x="586.8571428571429" y="88" width="73.14285714285714" height="102" rx="6" fill="url(#glow)"/>
       <text x="623.4285714285714" y="210" text-anchor="middle" class="dim" font-size="12">Fri</text>
-      <text x="623.4285714285714" y="121" text-anchor="middle" class="accent" font-size="12">35</text>
-    <text x="40" y="234" class="dim" font-size="12">Today: 35 · This week: 185 · Streak: 7 days · Busiest month: May 2026 · Most active repo: Developer-OS</text>
+      <text x="623.4285714285714" y="80" text-anchor="middle" class="accent" font-size="12">58</text>
+    <text x="40" y="234" class="dim" font-size="12">Today: 58 · This week: 209 · Streak: 7 days · Busiest month: May 2026 · Most active repo: Developer-OS</text>
 </svg>
