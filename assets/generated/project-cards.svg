@@ -164,7 +164,7 @@
       <text x="170" y="136" class="dim" font-size="11">Stars</text>
       <text x="170" y="152" class="title" font-size="12">★ 32</text>
 
-      <text x="300" y="152" text-anchor="end" class="dim" font-size="10">Updated Today</text>
+      <text x="300" y="152" text-anchor="end" class="dim" font-size="10">Updated Yesterday</text>
     </g>
     <g transform="translate(16,392)">
       <rect class="card-bg" width="320" height="172" rx="12"/>
@@ -214,7 +214,7 @@
       <text x="170" y="136" class="dim" font-size="11">Stars</text>
       <text x="170" y="152" class="title" font-size="12">★ 31</text>
 
-      <text x="300" y="152" text-anchor="end" class="dim" font-size="10">Updated 12 days ago</text>
+      <text x="300" y="152" text-anchor="end" class="dim" font-size="10">Updated 13 days ago</text>
     </g>
     <g transform="translate(688,392)">
       <rect class="card-bg" width="320" height="172" rx="12"/>
@@ -239,7 +239,7 @@
       <text x="170" y="136" class="dim" font-size="11">Stars</text>
       <text x="170" y="152" class="title" font-size="12">★ 30</text>
 
-      <text x="300" y="152" text-anchor="end" class="dim" font-size="10">Updated 12 days ago</text>
+      <text x="300" y="152" text-anchor="end" class="dim" font-size="10">Updated 13 days ago</text>
     </g>
     <g transform="translate(16,580)">
       <rect class="card-bg" width="320" height="172" rx="12"/>
