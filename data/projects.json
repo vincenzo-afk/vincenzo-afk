@@ -1,5 +1,5 @@
 {
-  "_readme": "Edit this file to control the Steam-style project cards in assets/generated/project-cards.svg. 'repo' must be an exact 'owner/name' on GitHub for live stats (commits/stars/last update) to be pulled automatically. Set 'repo' to null for projects that aren't public yet — the card will then use 'commits'/'stars' fallback values below instead.",
+  "_readme": "Edit this file to control the Steam-style project cards in assets/generated/project-cards.svg. 'repo' must be an exact 'owner/name' on GitHub for live stats (commits/stars/last update) to be pulled automatically. Set 'repo' to null for projects that aren't public yet — the card will then use 'fallback_commits'/'fallback_stars' values below instead. 'flagship' and 'major' are core groups; 'new_builds' is the fresh-work row.",
   "flagship": [
     {
       "name": "NOVA",
@@ -59,5 +59,11 @@
     { "name": "AgentWeb", "repo": "vincenzo-afk/AgentWeb", "language": "TypeScript", "status": "Live", "progress": 100, "modules": 15 },
     { "name": "TN Land Tracker", "repo": "vincenzo-afk/tn-land-tracker", "language": "Python/Next.js", "status": "Live", "progress": 100, "modules": 11 },
     { "name": "KingstonConnect", "repo": "vincenzo-afk/KingstonConnect", "language": "TypeScript", "status": "Live", "progress": 100, "modules": 13 }
+  ],
+  "new_builds": [
+    { "name": "MeshOS", "repo": "vincenzo-afk/MeshOS", "language": "JavaScript", "status": "Live", "progress": 60, "modules": 8 },
+    { "name": "PenFlow", "repo": "vincenzo-afk/PenFlow", "language": "JavaScript", "status": "Building", "progress": 35, "modules": 6 },
+    { "name": "Developer-OS", "repo": "vincenzo-afk/Developer-OS", "language": "TypeScript", "status": "Building", "progress": 45, "modules": 9 },
+    { "name": "OpenAgentNet", "repo": "vincenzo-afk/OpenAgentNet", "language": "Python", "status": "Live", "progress": 80, "modules": 11 }
   ]
 }

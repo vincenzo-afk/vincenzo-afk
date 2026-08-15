@@ -47,6 +47,7 @@
   <a href="#-core-systems">Core Systems</a> ·
   <a href="#-project-dashboards">Projects</a> ·
   <a href="#-hackathons--achievements">Achievements</a> ·
+  <a href="#-latest-builds">Latest Builds</a> ·
   <a href="#-github-power">Stats</a> ·
   <a href="#-connect-everywhere">Contact</a>
 </p>
@@ -58,7 +59,7 @@
   <img src="https://readme-typing-svg.demolab.com?size=20&duration=2500&pause=800&color=00E0FF&center=true&width=600&lines=Modern+Web+Applications;AI+Powered+Systems;Real+World+Digital+Products;Privacy-First+Architecture;Systems+Programming+in+Rust" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/🔨%20Currently%20Building-IRIS%20%7C%20NOVA%20%7C%20CircuitWeaver-00E0FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🔨%20Currently%20Building-IRIS%20%7C%20NOVA%20%7C%20CircuitWeaver%20%7C%20MeshOS%20%7C%20PenFlow-00E0FF?style=for-the-badge" />
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/📚%20Currently%20Learning-LLM%20Agents%20%7C%20RL%20%7C%20Vision%20Models-58A6FF?style=for-the-badge" />
@@ -80,6 +81,11 @@
 <h4 align="center">⚡ Animated Stats — real month-over-month deltas</h4>
 <p align="center">
   <img src="https://raw.githubusercontent.com/vincenzo-afk/vincenzo-afk/main/assets/generated/animated-stats.svg" width="100%"/>
+</p>
+
+<h4 align="center">⭐ Top Repositories — pulled live from the GitHub API</h4>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vincenzo-afk/vincenzo-afk/main/assets/generated/top-repos.svg" width="50%"/>
 </p>
 
 <h4 align="center">🔥 Live Development Status</h4>
@@ -126,6 +132,9 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 <h2 align="center">🧪 In Development</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/MeshOS%20%7C%20PenFlow%20%7C%20Developer--OS%20%7C%20foodiexz%20%7C%203D%20%7C%20Crowd%20Detection%20%7C%20Cheater%20%7C%20Exam%20Corrector%20%7C%20Meeting%20Manager%20%7C%20TripPlanner%20%7C%20Nyaya%20Vaani%20%7C%20WiFi%20Presence-00E0FF?style=for-the-badge&logo=github&label=Active%20In%20Development" />
+</p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?size=18&duration=2500&pause=800&color=ff7b72&center=true&width=900&lines=IRIS+%E2%80%94+Real-Time+AI+Screen+Assistant;CircuitWeaver+%E2%80%94+Circuit+Board+Reverse+Engineer;OMNI+%E2%80%94+Full+Codebase+Bug+Detector;WiFi+Human+Presence+Detection;FoodieXZ+%E2%80%94+Food+Delivery+Platform;Crowd+Detection+AI+%E2%80%94+Safety+System;Cheater+%E2%80%94+AI+Handwriting+Notes+Creator;Nyaya+Vaani+%E2%80%94+AI+Legal+Assistant;Meeting+Manager+%E2%80%94+Smart+Scheduler;TripPlanner+%E2%80%94+AI+Travel+Itinerary" />
 </p>
@@ -187,7 +196,7 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
-<h2 align="center">🧩 All Projects (55 Repositories)</h2>
+<h2 align="center">🧩 All Projects (73+ Repositories)</h2>
 <div align="center">
 
 ### 🔥 Core AI Systems
@@ -229,7 +238,7 @@
 | 23 | 💕 <a href="https://github.com/vincenzo-afk/Lucie-AI"><b>Lucie-AI</b></a> | Late-night voice chats with Live2D AI companion | JavaScript | 🟢 Live | ⭐ 20 |
 | 24 | 🎙️ <a href="https://github.com/vincenzo-afk/Infera"><b>Infera (ChaosVoice)</b></a> | Real-time mobile voice changer with 14-stage DSP | Kotlin/Dart | 🟢 Live | ⭐ 20 |
 | 25 | 🏏 <a href="https://github.com/vincenzo-afk/xithsense"><b>xithsense</b></a> | AI fantasy cricket with ensemble ML (22K+ matches) | Python | 🟢 Live | ⭐ 20 |
-| 26 | 🤝 <a href="https://github.com/vincenzo-afk/OpenAgentNet"><b>OpenAgentNet</b></a> | Open infrastructure standard for AI agent networks | Python | 🟢 Live | ⭐ 19 |
+| 26 | 🤝 <a href="https://github.com/vincenzo-afk/OpenAgentNet"><b>OpenAgentNet</b></a> | Open infrastructure standard for AI agent networks | Python | 🟢 Live | ⭐ 31 |
 | 27 | 🎛️ <a href="https://github.com/vincenzo-afk/DEVNEXUS"><b>DEVNEXUS</b></a> | AI-Powered Creator Command Center with daily narratives | TypeScript | 🟢 Live | ⭐ 20 |
 | 28 | 🎤 <a href="https://github.com/vincenzo-afk/chaos-vpn"><b>chaos-vpn</b></a> | System-wide voice changer for Android/iOS (10-layer DSP) | Dart | 🟢 Live | ⭐ 20 |
 | 29 | 🔥 <a href="https://github.com/vincenzo-afk/roastmycode"><b>roastmycode</b></a> | Paste code → get brutally roasted by AI → refactored | HTML | 🟢 Live | ⭐ 19 |
@@ -255,6 +264,30 @@
 | 44 | 🍔 <a href="https://github.com/vincenzo-afk/FoodieXZ"><b>FoodieXZ</b></a> | Swiggy-like food ordering app | — | 🔨 Building |
 | 45 | ⚖️ <a href="https://github.com/vincenzo-afk/Nyaya-Vaani"><b>Nyaya Vaani</b></a> | Voice-based AI legal aid | — | 🔨 Building |
 | 46 | 📡 <a href="https://github.com/vincenzo-afk/WiFi-Presence-Detection"><b>WiFi Presence Detection</b></a> | Human presence via WiFi signals (no cameras) | — | 🔨 Building |
+| 47 | 🌐 <a href="https://github.com/vincenzo-afk/MeshOS"><b>MeshOS</b></a> | Browser-based P2P LAN collaboration workspace | JavaScript | 🟢 Live |
+| 48 | 🖥️ <a href="https://github.com/vincenzo-afk/Developer-OS"><b>Developer-OS</b></a> | Developer-focused OS experience | TypeScript | 🔨 Building |
+| 49 | 🖊️ <a href="https://github.com/vincenzo-afk/PenFlow"><b>PenFlow</b></a> | New creative build | JavaScript | 🔨 Building |
+| 50 | 🎮 <a href="https://github.com/vincenzo-afk/NIGHTFALL"><b>NIGHTFALL</b></a> | Browser-based multiplayer FPS with 10 hero classes | TypeScript | 🔨 Building |
+| 51 | ⚔️ <a href="https://github.com/vincenzo-afk/brawl-royale"><b>brawl-royale</b></a> | 2D battle royale arena, up to 64 players | JavaScript | 🔨 Building |
+| 52 | ♟️ <a href="https://github.com/vincenzo-afk/XOTrix"><b>XOTrix</b></a> | Unbeatable Tic-Tac-Toe with Master-level AI | JavaScript | 🟢 Live |
+| 53 | 🎵 <a href="https://github.com/vincenzo-afk/clubhouse-dj"><b>Clubhouse DJ</b></a> | Your room's personal DJ — non-stop beats, smooth transitions | Python | 🟢 Live |
+
+<p align="center"><sub>…and 73+ public repositories in total — the complete list lives on <a href="https://github.com/vincenzo-afk?tab=repositories">my GitHub profile</a>.</sub></p>
+
+</div>
+
+<h2 align="center">⚡ Latest Builds — Pushed This Week</h2>
+<p align="center"><i>Fetched live from the GitHub API on August 15, 2026 — these are the repos I pushed code to most recently.</i></p>
+<div align="center">
+
+| # | Project | Description | Tech | Status |
+|---|---------|-------------|------|--------|
+| 01 | 🌐 <a href="https://github.com/vincenzo-afk/MeshOS"><b>MeshOS</b></a> | Browser-based P2P LAN collaboration workspace | JavaScript | 🟢 Live |
+| 02 | 🛡️ <a href="https://github.com/vincenzo-afk/OpenAgentNet"><b>OpenAgentNet</b></a> | Open infrastructure standard for AI agent networks | Python | 🟢 Live |
+| 03 | 🖥️ <a href="https://github.com/vincenzo-afk/Developer-OS"><b>Developer-OS</b></a> | A full operating experience built for developers | TypeScript | 🔨 Building |
+| 04 | 🍔 <a href="https://github.com/vincenzo-afk/foodiexz"><b>FoodieXZ</b></a> | Swiggy-like food ordering platform | JavaScript | 🔨 Building |
+| 05 | 🖊️ <a href="https://github.com/vincenzo-afk/PenFlow"><b>PenFlow</b></a> | New creative build | JavaScript | 🔨 Building |
+| 06 | 🧱 <a href="https://github.com/vincenzo-afk/3d"><b>3D</b></a> | 3D experiments & interactive scenes | JavaScript | 🔨 Building |
 
 </div>
 
@@ -373,7 +406,8 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
-<h2 align="center">⏱️ This Week I Coded</h2>
+<h2 align="center">⏱️ Coding Activity</h2>
+<p align="center"><i>The "This Week I Coded" block below is powered by WakaTime. To switch it on: create a free account at <a href="https://wakatime.com">wakatime.com</a>, install the IDE plugin, add the <code>WAKATIME_API_KEY</code> secret to this repo, then uncomment the <code>schedule</code> trigger in <code>.github/workflows/waka.yml</code>.</i></p>
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
@@ -382,6 +416,14 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/vincenzo-afk/vincenzo-afk/main/assets/generated/coding-timeline.svg" width="100%"/>
 </p>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+
+<h2 align="center">⚡ Latest GitHub Activity</h2>
+<p align="center"><i>Auto-updated daily by <code>.github/workflows/activity.yml</code> — my most recent commits, PRs and issues across all repositories.</i></p>
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
@@ -398,7 +440,7 @@
   <img src="https://streak-stats.demolab.com?user=vincenzo-afk&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vincenzo-afk&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vincenzo-afk&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" height="180"/>
 </p>
 
 <h2 align="center">📈 Contribution Activity</h2>
@@ -427,6 +469,7 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+<p align="center"><sub>This feed needs the `blog-post-list` action wired to a dev.to/Medium RSS feed — the badge below works right now in the meantime.</sub></p>
 <p align="center">
   <a href="https://dev.to/bharani_2007">
     <img src="https://img.shields.io/badge/Read%20More%20on-Dev.to-ffffff?style=for-the-badge&logo=devdotto&logoColor=black"/>
@@ -439,7 +482,7 @@
 <summary>🔒 Secret — Click if you dare...</summary>
 <br>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?size=18&duration=2000&pause=500&color=00E0FF&center=true&width=700&lines=You+found+the+secret+%F0%9F%91%80;I+build+things+that+shouldn't+exist+yet.;NOVA+is+watching.;IRIS+sees+everything.;The+future+is+autonomous.;55+repos+and+counting..." />
+  <img src="https://readme-typing-svg.demolab.com?size=18&duration=2000&pause=500&color=00E0FF&center=true&width=700&lines=You+found+the+secret+%F0%9F%91%80;I+build+things+that+shouldn't+exist+yet.;NOVA+is+watching.;IRIS+sees+everything.;The+future+is+autonomous.;73%2B+repos+and+counting..." />
 </p>
 <p align="center"><i>"The ones who are crazy enough to think they can change the world, are the ones who do." — Steve Jobs</i></p>
 </details>
@@ -609,7 +652,7 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?size=20&duration=3000&pause=1000&color=00E0FF&center=true&width=600&lines=Design.+Build.+Evolve.;Engineering+Intelligence+Into+Systems;55+Repositories+%7C+70+AI+Projects+%7C+Real-World+Impact" />
+  <img src="https://readme-typing-svg.demolab.com?size=20&duration=3000&pause=1000&color=00E0FF&center=true&width=600&lines=Design.+Build.+Evolve.;Engineering+Intelligence+Into+Systems;73%2B+Repositories+%7C+1900%2B+Stars+%7C+23%2B+AI+Projects+%7C+Real-World+Impact" />
 </p>
 
 <p align="center">

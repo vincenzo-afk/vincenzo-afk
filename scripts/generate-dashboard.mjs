@@ -368,8 +368,14 @@ function relativeDate(iso) {
 }
 
 async function buildProjectCards() {
-  const cfg = readJSON(path.join(DATA_DIR, "projects.json"), { flagship: [], major: [] });
-  const projects = [...cfg.flagship, ...cfg.major];
+  const cfg = readJSON(path.join(DATA_DIR, "projects.json"), { flagship: [], major: [], new_builds: [] });
+  const groups = [
+    { title: "FLAGSHIP SYSTEMS", items: cfg.flagship || [] },
+    { title: "MAJOR LIVE PROJECTS", items: cfg.major || [] },
+    { title: "FRESH BUILDS", items: cfg.new_builds || [] },
+  ];
+  const projects = groups.flatMap(g => g.items);
+  if (projects.length === 0) { writeFile(path.join(OUT_DIR, "project-cards.svg", ""), ""); return; }
 
   const cw = 320, ch = 172, gap = 16, cols = 3, pad = 16;
   const rows = Math.ceil(projects.length / cols);
@@ -497,7 +503,39 @@ function buildSkillRadar() {
   writeFile(path.join(OUT_DIR, "skill-radar.svg"), svgWrap(size, size + 10, body, "🎯 Skill Radar"));
 }
 
-// ---------- 9. coding-timeline.svg (last 7 days, real data) ----------
+// ---------- 9. top-repos.svg (top repositories by stars, live data) ----------
+function buildTopRepos() {
+  const top = [...repos].sort((a, b) => b.stargazerCount - a.stargazerCount).slice(0, 8);
+  const cw = 420, ch = 44, gap = 10, pad = 16;
+  const width = pad * 2 + cw;
+  const height = pad * 2 + top.length * (ch + gap) - gap;
+
+  let body = "";
+  top.forEach((r, i) => {
+    const y = pad + i * (ch + gap);
+    const pct = top[0].stargazerCount > 0 ? (r.stargazerCount / top[0].stargazerCount) * 100 : 0;
+    const barW = 160;
+    const filled = Math.round((pct / 100) * barW);
+    const name = r.name.length > 26 ? r.name.slice(0, 25) + "…" : r.name;
+    const lang = r.primaryLanguage?.name ?? "—";
+    const forks = r.forkCount ?? 0;
+    const stars = r.stargazerCount ?? 0;
+    const updated = relativeDate(r.pushedAt);
+    body += `
+    <g transform="translate(${pad},${y})">
+      <rect class="card-bg" width="${cw}" height="${ch}" rx="8"/>
+      <rect x="0" y="0" width="4" height="${ch}" rx="2" fill="url(#glow)"/>
+      <text x="16" y="22" class="title" font-size="13">${esc(name)}</text>
+      <text x="${cw - 34}" y="22" text-anchor="end" class="accent" font-size="12">★ ${stars} · forks ${forks}</text>
+      <rect x="16" y="30" width="${barW}" height="5" rx="2.5" fill="#1c2333"/>
+      <rect x="16" y="30" width="${filled}" height="5" rx="2.5" fill="url(#glow)"/>
+      <text x="${16 + barW + 8}" y="34" class="dim" font-size="10">${esc(lang)} · ${esc(updated)}</text>
+    </g>`;
+  });
+  writeFile(path.join(OUT_DIR, "top-repos.svg"), svgWrap(width, height, body, "⭐ Top Repositories by Stars"));
+}
+
+// ---------- 10. coding-timeline.svg (last 7 days, real data) ----------
 function buildCodingTimeline() {
   const days = calendarDays.slice(-7);
   const width = 700, height = 250;
@@ -528,6 +566,7 @@ buildAnimatedStats();
 await buildProjectCards();
 buildLiveStatus();
 buildSkillRadar();
+await buildTopRepos();
 buildCodingTimeline();
 
 console.log(MOCK ? "\nDone (mock data — set GITHUB_TOKEN for live data)." : "\nDone (live GitHub data).");

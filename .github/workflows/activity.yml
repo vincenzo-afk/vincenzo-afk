@@ -11,7 +11,7 @@ jobs:
     name: Update README with Recent Activity
 
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
 
       - name: Update Activity Feed
         uses: jamesgeorge007/github-activity-readme@master
@@ -20,3 +20,4 @@ jobs:
         with:
           COMMIT_MSG: "⚡ Update README with recent GitHub activity"
           MAX_LINES: 8
+          SECTION: "activity"

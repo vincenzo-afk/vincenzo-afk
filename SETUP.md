@@ -8,9 +8,9 @@ itself (WakaTime is optional, see `waka.yml`).
 
 | Workflow | Trigger | What it does |
 |---|---|---|
-| `.github/workflows/dashboard.yml` | every 6h, on push to `data/**`/scripts, or manual | Regenerates all 6 live SVG cards in `assets/generated/` from real GitHub data and commits them back to `main` |
+| `.github/workflows/dashboard.yml` | every 6h, on push to `data/**`/scripts, or manual | Regenerates all 7 live SVG cards in `assets/generated/` from real GitHub data and commits them back to `main` (includes the new **Top Repositories** card) |
 | `.github/workflows/snake.yml` | on push to `main`, every 12h, or manual | Regenerates the neon contribution snake, pushes to the `output` branch |
-| `.github/workflows/activity.yml` | daily, or manual | Updates the recent-activity feed section in README.md |
+| `.github/workflows/activity.yml` | daily, or manual | Updates the "⚡ Latest GitHub Activity" feed section in README.md |
 | `.github/workflows/waka.yml` | manual only until you enable it | Optional WakaTime coding-time stats — see the comment block at the top of the file for the 4 setup steps |
 
 No workflow needs a token you have to create — they all use the

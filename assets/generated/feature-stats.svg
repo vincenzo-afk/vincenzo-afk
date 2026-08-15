@@ -19,7 +19,7 @@
     <g transform="translate(12,12)">
       <rect class="card-bg" width="190" height="92" rx="10"/>
       <rect x="0" y="0" width="4" height="92" rx="2" fill="url(#glow)"/>
-      <text x="18" y="34" class="num accent" font-size="26">70+</text>
+      <text x="18" y="34" class="num accent" font-size="26">73+</text>
       <text x="18" y="64" class="dim" font-size="12">Projects Built</text>
     </g>
     <g transform="translate(214,12)">
@@ -37,7 +37,7 @@
     <g transform="translate(618,12)">
       <rect class="card-bg" width="190" height="92" rx="10"/>
       <rect x="0" y="0" width="4" height="92" rx="2" fill="url(#glow)"/>
-      <text x="18" y="34" class="num accent" font-size="26">12</text>
+      <text x="18" y="34" class="num accent" font-size="26">23+</text>
       <text x="18" y="64" class="dim" font-size="12">AI Projects</text>
     </g>
     <g transform="translate(820,12)">
