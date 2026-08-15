@@ -16,17 +16,17 @@
   <rect width="700" height="250" fill="#0d1117"/>
   <text x="18" y="26" class="title" font-size="15">💻 Coding Activity — Last 7 Days</text>
   
-      <rect x="40" y="178" width="73.14285714285714" height="12" rx="6" fill="url(#glow)"/>
+      <rect x="40" y="180" width="73.14285714285714" height="10" rx="6" fill="url(#glow)"/>
       <text x="76.57142857142857" y="210" text-anchor="middle" class="dim" font-size="12">Sun</text>
-      <text x="76.57142857142857" y="170" text-anchor="middle" class="accent" font-size="12">8</text>
+      <text x="76.57142857142857" y="172" text-anchor="middle" class="accent" font-size="12">7</text>
     
-      <rect x="131.14285714285714" y="180" width="73.14285714285714" height="10" rx="6" fill="url(#glow)"/>
+      <rect x="131.14285714285714" y="178" width="73.14285714285714" height="12" rx="6" fill="url(#glow)"/>
       <text x="167.71428571428572" y="210" text-anchor="middle" class="dim" font-size="12">Mon</text>
-      <text x="167.71428571428572" y="172" text-anchor="middle" class="accent" font-size="12">7</text>
+      <text x="167.71428571428572" y="170" text-anchor="middle" class="accent" font-size="12">8</text>
     
-      <rect x="222.28571428571428" y="180" width="73.14285714285714" height="10" rx="6" fill="url(#glow)"/>
+      <rect x="222.28571428571428" y="181" width="73.14285714285714" height="9" rx="6" fill="url(#glow)"/>
       <text x="258.85714285714283" y="210" text-anchor="middle" class="dim" font-size="12">Tue</text>
-      <text x="258.85714285714283" y="172" text-anchor="middle" class="accent" font-size="12">7</text>
+      <text x="258.85714285714283" y="173" text-anchor="middle" class="accent" font-size="12">6</text>
     
       <rect x="313.42857142857144" y="83" width="73.14285714285714" height="107" rx="6" fill="url(#glow)"/>
       <text x="350" y="210" text-anchor="middle" class="dim" font-size="12">Wed</text>
@@ -40,8 +40,8 @@
       <text x="532.2857142857142" y="210" text-anchor="middle" class="dim" font-size="12">Fri</text>
       <text x="532.2857142857142" y="52" text-anchor="middle" class="accent" font-size="12">90</text>
     
-      <rect x="586.8571428571429" y="151" width="73.14285714285714" height="39" rx="6" fill="url(#glow)"/>
+      <rect x="586.8571428571429" y="150" width="73.14285714285714" height="40" rx="6" fill="url(#glow)"/>
       <text x="623.4285714285714" y="210" text-anchor="middle" class="dim" font-size="12">Sat</text>
-      <text x="623.4285714285714" y="143" text-anchor="middle" class="accent" font-size="12">27</text>
-    <text x="40" y="234" class="dim" font-size="12">Today: 27 · This week: 254 · Streak: 8 days · Busiest month: August 2026 · Most active repo: Developer-OS</text>
+      <text x="623.4285714285714" y="142" text-anchor="middle" class="accent" font-size="12">28</text>
+    <text x="40" y="234" class="dim" font-size="12">Today: 28 · This week: 254 · Streak: 8 days · Busiest month: August 2026 · Most active repo: Developer-OS</text>
 </svg>
