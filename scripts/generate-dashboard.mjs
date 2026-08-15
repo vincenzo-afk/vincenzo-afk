@@ -389,7 +389,7 @@ async function buildProjectCards() {
     const stars = live?.stars ?? p.fallback_stars ?? 0;
     const lastUpdate = relativeDate(live?.lastUpdate);
     const progress = p.progress ?? 0;
-    const statusColor = p.status === "Live" ? THEME.green : p.status === "Prototype" ? THEME.accent2 : THEME.pink;
+    const statusColor = p.status === "Archived" ? THEME.dim : p.status === "Live" ? THEME.green : p.status === "Prototype" ? THEME.accent2 : THEME.pink;
 
     const col = i % cols, row = Math.floor(i / cols);
     const x = pad + col * (cw + gap), y = pad + row * (ch + gap);
@@ -421,6 +421,7 @@ async function buildProjectCards() {
       <text x="${cw / 2 + 10}" y="152" class="title" font-size="12">★ ${stars}</text>
 
       <text x="${cw - 20}" y="152" text-anchor="end" class="dim" font-size="10">Updated ${esc(lastUpdate)}</text>
+      ${p.status === "Archived" ? `<text x="${cw / 2 + 10}" y="${112 + 16}" text-anchor="middle" class="dim" font-size="9" opacity="0.8">🗄️ Read-only — archived</text>` : ""}
     </g>`;
   }
   writeFile(path.join(OUT_DIR, "project-cards.svg"), svgWrap(width, height, body));

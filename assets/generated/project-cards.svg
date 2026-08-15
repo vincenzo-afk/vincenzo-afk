@@ -40,6 +40,7 @@
       <text x="170" y="152" class="title" font-size="12">★ 31</text>
 
       <text x="300" y="152" text-anchor="end" class="dim" font-size="10">Updated 4 mo ago</text>
+      
     </g>
     <g transform="translate(352,16)">
       <rect class="card-bg" width="320" height="172" rx="12"/>
@@ -65,6 +66,7 @@
       <text x="170" y="152" class="title" font-size="12">★ 20</text>
 
       <text x="300" y="152" text-anchor="end" class="dim" font-size="10">Updated 3 mo ago</text>
+      
     </g>
     <g transform="translate(688,16)">
       <rect class="card-bg" width="320" height="172" rx="12"/>
@@ -90,6 +92,7 @@
       <text x="170" y="152" class="title" font-size="12">★ 31</text>
 
       <text x="300" y="152" text-anchor="end" class="dim" font-size="10">Updated 3 mo ago</text>
+      
     </g>
     <g transform="translate(16,204)">
       <rect class="card-bg" width="320" height="172" rx="12"/>
@@ -115,6 +118,7 @@
       <text x="170" y="152" class="title" font-size="12">★ 0</text>
 
       <text x="300" y="152" text-anchor="end" class="dim" font-size="10">Updated —</text>
+      
     </g>
     <g transform="translate(352,204)">
       <rect class="card-bg" width="320" height="172" rx="12"/>
@@ -140,6 +144,7 @@
       <text x="170" y="152" class="title" font-size="12">★ 1</text>
 
       <text x="300" y="152" text-anchor="end" class="dim" font-size="10">Updated 9 mo ago</text>
+      
     </g>
     <g transform="translate(688,204)">
       <rect class="card-bg" width="320" height="172" rx="12"/>
@@ -165,6 +170,7 @@
       <text x="170" y="152" class="title" font-size="12">★ 32</text>
 
       <text x="300" y="152" text-anchor="end" class="dim" font-size="10">Updated Yesterday</text>
+      
     </g>
     <g transform="translate(16,392)">
       <rect class="card-bg" width="320" height="172" rx="12"/>
@@ -190,6 +196,7 @@
       <text x="170" y="152" class="title" font-size="12">★ 31</text>
 
       <text x="300" y="152" text-anchor="end" class="dim" font-size="10">Updated 4 mo ago</text>
+      
     </g>
     <g transform="translate(352,392)">
       <rect class="card-bg" width="320" height="172" rx="12"/>
@@ -215,6 +222,7 @@
       <text x="170" y="152" class="title" font-size="12">★ 31</text>
 
       <text x="300" y="152" text-anchor="end" class="dim" font-size="10">Updated 13 days ago</text>
+      
     </g>
     <g transform="translate(688,392)">
       <rect class="card-bg" width="320" height="172" rx="12"/>
@@ -240,13 +248,14 @@
       <text x="170" y="152" class="title" font-size="12">★ 30</text>
 
       <text x="300" y="152" text-anchor="end" class="dim" font-size="10">Updated 13 days ago</text>
+      
     </g>
     <g transform="translate(16,580)">
       <rect class="card-bg" width="320" height="172" rx="12"/>
       <rect x="0" y="0" width="320" height="34" rx="12" fill="#0b1220"/>
       <rect x="0" y="22" width="320" height="12" fill="#0b1220"/>
       <text x="16" y="18" class="title" font-size="15">TN Land Tracker</text>
-      <circle cx="302" cy="17" r="5" fill="#7ee787"/>
+      <circle cx="302" cy="17" r="5" fill="#8b949e"/>
 
       <rect x="20" y="48" width="280" height="10" rx="5" fill="#1c2333"/>
       <rect x="20" y="48" width="280" height="10" rx="5" fill="url(#glow)"/>
@@ -256,7 +265,7 @@
       <text x="20" y="112" class="accent" font-size="12">Python/Next.js</text>
 
       <text x="170" y="96" class="dim" font-size="11">Status</text>
-      <text x="170" y="112" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#7ee787">Live</text>
+      <text x="170" y="112" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#8b949e">Archived</text>
 
       <text x="20" y="136" class="dim" font-size="11">Modules</text>
       <text x="20" y="152" class="title" font-size="12">11</text>
@@ -265,6 +274,7 @@
       <text x="170" y="152" class="title" font-size="12">★ 31</text>
 
       <text x="300" y="152" text-anchor="end" class="dim" font-size="10">Updated Yesterday</text>
+      <text x="170" y="128" text-anchor="middle" class="dim" font-size="9" opacity="0.8">🗄️ Read-only — archived</text>
     </g>
     <g transform="translate(352,580)">
       <rect class="card-bg" width="320" height="172" rx="12"/>
@@ -290,6 +300,7 @@
       <text x="170" y="152" class="title" font-size="12">★ 31</text>
 
       <text x="300" y="152" text-anchor="end" class="dim" font-size="10">Updated Today</text>
+      
     </g>
     <g transform="translate(688,580)">
       <rect class="card-bg" width="320" height="172" rx="12"/>
@@ -315,6 +326,7 @@
       <text x="170" y="152" class="title" font-size="12">★ 25</text>
 
       <text x="300" y="152" text-anchor="end" class="dim" font-size="10">Updated Today</text>
+      
     </g>
     <g transform="translate(16,768)">
       <rect class="card-bg" width="320" height="172" rx="12"/>
@@ -340,6 +352,7 @@
       <text x="170" y="152" class="title" font-size="12">★ 2</text>
 
       <text x="300" y="152" text-anchor="end" class="dim" font-size="10">Updated Today</text>
+      
     </g>
     <g transform="translate(352,768)">
       <rect class="card-bg" width="320" height="172" rx="12"/>
@@ -365,6 +378,7 @@
       <text x="170" y="152" class="title" font-size="12">★ 3</text>
 
       <text x="300" y="152" text-anchor="end" class="dim" font-size="10">Updated Today</text>
+      
     </g>
     <g transform="translate(688,768)">
       <rect class="card-bg" width="320" height="172" rx="12"/>
@@ -390,5 +404,6 @@
       <text x="170" y="152" class="title" font-size="12">★ 31</text>
 
       <text x="300" y="152" text-anchor="end" class="dim" font-size="10">Updated Today</text>
+      
     </g>
 </svg>
