@@ -273,7 +273,7 @@
       <text x="170" y="136" class="dim" font-size="11">Stars</text>
       <text x="170" y="152" class="title" font-size="12">★ 31</text>
 
-      <text x="300" y="152" text-anchor="end" class="dim" font-size="10">Updated Yesterday</text>
+      <text x="300" y="152" text-anchor="end" class="dim" font-size="10">Updated 2 days ago</text>
       <text x="170" y="128" text-anchor="middle" class="dim" font-size="9" opacity="0.8">🗄️ Read-only — archived</text>
     </g>
     <g transform="translate(352,580)">
