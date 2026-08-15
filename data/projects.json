@@ -57,7 +57,7 @@
     { "name": "SocialGuard-RL", "repo": "vincenzo-afk/SocialGuard-RL", "language": "Python", "status": "Live", "progress": 100, "modules": 12 },
     { "name": "Zen-2", "repo": "vincenzo-afk/Zen-2", "language": "Python", "status": "Live", "progress": 100, "modules": 9 },
     { "name": "AgentWeb", "repo": "vincenzo-afk/AgentWeb", "language": "TypeScript", "status": "Live", "progress": 100, "modules": 15 },
-    { "name": "TN Land Tracker", "repo": "vincenzo-afk/tn-land-tracker", "language": "Python/Next.js", "status": "Live", "progress": 100, "modules": 11 },
+    { "name": "TN Land Tracker", "repo": "vincenzo-afk/tn-land-tracker", "language": "Python/Next.js", "status": "Archived", "progress": 100, "modules": 11 },
     { "name": "KingstonConnect", "repo": "vincenzo-afk/KingstonConnect", "language": "TypeScript", "status": "Live", "progress": 100, "modules": 13 }
   ],
   "new_builds": [

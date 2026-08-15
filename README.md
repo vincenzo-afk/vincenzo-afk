@@ -227,7 +227,7 @@
 | 12 | 🔎 <a href="https://github.com/vincenzo-afk/NEXUS-ENGINE"><b>NEXUS-ENGINE</b></a> | Full-featured search engine in Rust (BM25, PageRank, Tor) | Rust | 🟢 Live | ⭐ 19 |
 | 13 | 👁️ <a href="https://github.com/vincenzo-afk/VisionX"><b>VisionX</b></a> | Real-time object detection & video intelligence (YOLO) | Python | 🟢 Live | ⭐ 12 |
 | 14 | 📰 <a href="https://github.com/vincenzo-afk/TruthNet"><b>TruthNet</b></a> | AI misinformation detection & news credibility analysis | Python | 🟢 Live | ⭐ 12 |
-| 15 | 🏠 <a href="https://github.com/vincenzo-afk/tn-land-tracker"><b>TN Land Tracker</b></a> | Free Tamil Nadu land ownership civic tech (₹0/month) | Python/Next.js | 🟢 Live | ⭐ 19 |
+| 15 | 🏠 <a href="https://github.com/vincenzo-afk/tn-land-tracker"><b>TN Land Tracker</b></a> | Free Tamil Nadu land ownership civic tech (₹0/month) | Python/Next.js | 🗄️ Archived | ⭐ 19 |
 | 16 | 🌐 <a href="https://github.com/vincenzo-afk/AgentWeb"><b>AgentWeb</b></a> | Internet Intelligence Platform (search, browse, monitor) | JS/TS | 🟢 Live | ⭐ 17 |
 | 17 | 🧠 <a href="https://github.com/vincenzo-afk/Zen-2"><b>Zen-2</b></a> | 124M-parameter decoder-only LLM built from scratch | Python | 🟢 Live | ⭐ 19 |
 | 18 | 📋 <a href="https://github.com/vincenzo-afk/NOVA_FRAMEWORK"><b>NOVA_FRAMEWORK</b></a> | Persistent AI runtime architecture (50+ doc folders) | Python | 🟢 Live | ⭐ 19 |
@@ -270,7 +270,7 @@
 | 50 | 🎮 <a href="https://github.com/vincenzo-afk/NIGHTFALL"><b>NIGHTFALL</b></a> | Browser-based multiplayer FPS with 10 hero classes | TypeScript | 🔨 Building |
 | 51 | ⚔️ <a href="https://github.com/vincenzo-afk/brawl-royale"><b>brawl-royale</b></a> | 2D battle royale arena, up to 64 players | JavaScript | 🔨 Building |
 | 52 | ♟️ <a href="https://github.com/vincenzo-afk/XOTrix"><b>XOTrix</b></a> | Unbeatable Tic-Tac-Toe with Master-level AI | JavaScript | 🟢 Live |
-| 53 | 🎵 <a href="https://github.com/vincenzo-afk/clubhouse-dj"><b>Clubhouse DJ</b></a> | Your room's personal DJ — non-stop beats, smooth transitions | Python | 🟢 Live |
+| 53 | 🎵 <a href="https://github.com/vincenzo-afk/clubhouse-dj"><b>Clubhouse DJ</b></a> | Your room's personal DJ — non-stop beats, smooth transitions | Python | 🗄️ Archived |
 
 <p align="center"><sub>…and 73+ public repositories in total — the complete list lives on <a href="https://github.com/vincenzo-afk?tab=repositories">my GitHub profile</a>.</sub></p>
 
