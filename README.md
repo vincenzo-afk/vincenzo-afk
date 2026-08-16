@@ -26,7 +26,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/🕐%20Timezone-IST%20(UTC%2B5:30)-005F73?style=flat-square" />
   <img src="https://img.shields.io/badge/📍%20Location-Vellore%2C%20Tamil%20Nadu-005F73?style=flat-square" />
-  <img src="https://img.shields.io/badge/🎓%20B.E.-CSE%20%7C%202nd%20Year%20%40%20KEC-005F73?style=flat-square" />
+  <img src="https://img.shields.io/badge/🎓%20B.E.-CSE%20%7C%203rd%20Year%20%40%20KEC-005F73?style=flat-square" />
 </p>
 
 <!-- Portfolio + Community -->
