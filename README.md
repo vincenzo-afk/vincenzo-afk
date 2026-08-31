@@ -26,7 +26,7 @@
   <a href="https://github.com/vincenzo-afk" target="_blank">
     <img src="https://img.shields.io/badge/⭐_GitHub-vincenzo--afk-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0f0c29" />
   </a>
-  <a href="mailto:contact@bharanikumar.dev" target="_blank">
+  <a href="mailto: itsmebk2007@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/📧_Email-Open-00D4FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f0c29" />
   </a>
 </p>
