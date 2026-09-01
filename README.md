@@ -34,7 +34,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vincenzo-afk&style=for-the-badge&color=00D4FF&label=PROFILE+VIEWS" alt="Profile Views" />
   <img src="https://img.shields.io/badge/📦_Public_Repos-94-00D4FF?style=for-the-badge&labelColor=0f0c29" alt="Public Repos" />
-  <img src="https://img.shields.io/badge/👥_Followers-79-00D4FF?style=for-the-badge&labelColor=0f0c29" alt="Followers" />
+  <img src="https://img.shields.io/badge/👥_Followers-82-00D4FF?style=for-the-badge&labelColor=0f0c29" alt="Followers" />
   <img src="https://img.shields.io/badge/📅_Since-Sept_2025-00D4FF?style=for-the-badge&labelColor=0f0c29" alt="Since" />
   <img src="https://img.shields.io/badge/📍_Location-Tamil_Nadu,_India-00D4FF?style=for-the-badge&labelColor=0f0c29" alt="Location" />
   <img src="https://img.shields.io/badge/💼_Hireable-YES-00FF88?style=for-the-badge&labelColor=0f0c29" alt="Hireable" />
