@@ -1,7 +1,7 @@
 <!-- BK // DEVELOPER OS — living profile. Every dynamic value lives between OS markers and is regenerated from the real GitHub API by scripts/generate-os.mjs (CI every 6h). Edit prose/structure freely; never hand-edit numbers inside markers. -->
 <p align="center"><code>BK // DEVELOPER OS — ● ONLINE</code></p>
 
-![boot](assets/hero.svg)
+[![boot — click to launch portfolio](assets/hero.svg)](https://vincenzo-afk.vercel.app/)
 
 <h1 align="center">BHARANI KUMAR</h1>
 <p align="center"><b>Full Stack Developer · AI Systems Builder · Researcher</b></p>
@@ -17,6 +17,16 @@
   <a href="https://vincenzo-afk.vercel.app/">PORTFOLIO</a>
 </p>
 
+<p align="center">
+  <b>WARP MENU — click anything, everything flies somewhere:</b><br/>
+  🖥️ <a href="https://vincenzo-afk.vercel.app/">Portfolio</a> ·
+  📦 <a href="https://github.com/vincenzo-afk?tab=repositories">All Repos</a> ·
+  ⭐ <a href="https://github.com/vincenzo-afk?tab=stars">Starred</a> ·
+  👥 <a href="https://github.com/vincenzo-afk?tab=followers">Followers</a> ·
+  🏆 <a href="https://github.com/vincenzo-afk?tab=achievements">Achievements</a> ·
+  📊 <a href="https://github.com/vincenzo-afk">Contribution Graph</a>
+</p>
+
 ---
 ## 🎮 PLAYER PROFILE
 
@@ -27,7 +37,7 @@ CLASS ............. Full Stack Developer / AI Engineer
 SPECIALIZATION .... AI Systems · LLMs · Agents · Automation
 LOCATION .......... Tamil Nadu, India
 OBJECTIVE ......... Build useful systems beyond the demo.
-STATUS ............ ● BUILDING (NOVA-exe pushed 5h ago)
+STATUS ............ ● BUILDING (vincenzo-afk pushed 11m ago)
 
 PRIMARY ........... AI Systems
 ACTIVE ............ Full Stack Engineering
@@ -39,7 +49,7 @@ EXPERIMENTAL ...... Speech / Multimodal / Blockchain identity
 ---
 ## 🧠 SKILL TREE
 
-![skill tree](assets/skill-tree.svg)
+[![skill tree — click for loadout](assets/skill-tree.svg)](#-loadout)
 
 <!-- OS:skill-mix -->
 Live language mix behind this tree (real repo data, Sep 2026): **TypeScript 28 · JavaScript 26 · Python 18 · Rust 3 · HTML 3 · CSS 2 · Dart 2 · Kotlin 2 · Java 1** — 97 public repos. Language counts describe the repos, not skill claims.
@@ -48,17 +58,18 @@ Live language mix behind this tree (real repo data, Sep 2026): **TypeScript 28 �
 ---
 ## ⚡ LIVE TELEMETRY
 
-![telemetry](assets/telemetry.svg)
+[![telemetry — click for live profile](assets/telemetry.svg)](https://github.com/vincenzo-afk)
 
 <!-- OS:telemetry-table -->
 | Metric | Live value (2026-09-17) | Source |
 |---|---|---|
 | Public repositories | **97** | `api.github.com/users/vincenzo-afk` |
 | Stars earned | **2,275** | sum of `stargazers_count` over all repos |
-| Followers / Following | **111 / 91** | user profile |
+| Contributions (1y) | **2,177** | public contribution graph (parsed, no auth) |
+| Followers / Following | **112 / 91** | user profile |
 | Forks | **11** | sum of `forks_count` |
-| Last push | **NOVA-exe, 5h ago** | repos sorted by `pushed_at` |
-| Fresh builds | NOVA-exe · Kernel-One · CypherID | last 3 pushes |
+| Last push | **vincenzo-afk, 11m ago** | repos sorted by `pushed_at` |
+| Fresh builds | vincenzo-afk · NOVA-exe · Kernel-One | last 3 pushes |
 
 Regenerated every 6h by `.github/workflows/update-profile.yml`. If the API is unreachable the cards show the last known state instead of an error.
 <!-- /OS:telemetry-table -->
@@ -66,7 +77,7 @@ Regenerated every 6h by `.github/workflows/update-profile.yml`. If the API is un
 ---
 ## 🚀 MISSION CONTROL
 
-![missions](assets/mission-control.svg)
+[![missions — click to browse all repos](assets/mission-control.svg)](https://github.com/vincenzo-afk?tab=repositories)
 
 <!-- OS:missions-table -->
 | # | Mission | Status | Live repo |
@@ -74,7 +85,7 @@ Regenerated every 6h by `.github/workflows/update-profile.yml`. If the API is un
 | 001 | **DEVNEXUS** — AI-powered developer command center: GitHub context, progress narratives, smart TODOs, hackathon planning. | ● OPERATIONAL | [vincenzo-afk/DEVNEXUS](https://github.com/vincenzo-afk/DEVNEXUS) · 34★ · 14d ago |
 | 002 | **NEXUS-ENGINE** — Full-featured search engine in Rust — local filesystem + web crawl with BM25+PageRank ranking. | ● OPERATIONAL | [vincenzo-afk/NEXUS-ENGINE](https://github.com/vincenzo-afk/NEXUS-ENGINE) · 33★ · 25d ago |
 | 003 | **Zen-2** — 124M-parameter decoder-only LLM from scratch — RoPE, RMSNorm, SwiGLU, GQA, KV Cache, BPE. | ● RESEARCH | [vincenzo-afk/Zen-2](https://github.com/vincenzo-afk/Zen-2) · 32★ · 21d ago |
-| 004 | **NOVA-exe** — Local-first desktop AI agent platform. Most recently pushed repo — under active construction. | ● BUILDING | [vincenzo-afk/NOVA-exe](https://github.com/vincenzo-afk/NOVA-exe) · 9★ · 5h ago |
+| 004 | **NOVA-exe** — Local-first desktop AI agent platform. Most recently pushed repo — under active construction. | ● BUILDING | [vincenzo-afk/NOVA-exe](https://github.com/vincenzo-afk/NOVA-exe) · 9★ · 6h ago |
 | 005 | **Kernel-One** — Industrial AI operating environment — every AI action controlled, auditable, permission-aware. | ● BUILDING | [vincenzo-afk/Kernel-One](https://github.com/vincenzo-afk/Kernel-One) · 7★ · 6h ago |
 | 006 | **CypherID** — Blockchain-based secure platform for identity, access control, and digital asset management. | ● BUILDING | [vincenzo-afk/CypherID](https://github.com/vincenzo-afk/CypherID) · 7★ · 18h ago |
 | 007 | **WIFI-SENSE** — WiFi CSI-based human presence, occupancy, zone and activity detection dashboard. No cameras. | ● OPERATIONAL | [vincenzo-afk/WIFI-based-human-presence-detection-system](https://github.com/vincenzo-afk/WIFI-based-human-presence-detection-system) · 35★ · 24d ago |
@@ -87,34 +98,31 @@ Progress bars are manual build estimates; stars + last-push are live from the AP
 ---
 ## 🛰️ SPACE MISSION — CURRENT SEASON
 
-![space mission](assets/contribution-game.svg)
+[![live game — click for the real contribution graph](assets/contribution-game.svg)](https://github.com/vincenzo-afk)
 
-```text
-CURRENT SEASON .... 🚀 SPACE MISSION
-NEXT SEASON ....... 🐍 SNAKE RUN
-UPCOMING .......... 👾 PAC-MAN · 🏎️ CODE RACING · 🌌 GALAXY
-```
-
-Fuel inputs are real (repos + stars + followers). Stage widths are illustrative.
+<!-- OS:season-note -->
+**🌌 NOW PLAYING: GALAXY** — fueled by **2,177 real contributions** across **130 active days**. Season rotates automatically every week: 🚀 SPACE MISSION → 🐍 SNAKE RUN → 👾 PAC-MAN → 🏎️ CODE RACING → 🌌 GALAXY. Next up: **🚀 SPACE MISSION**. The game changes; the grind data never lies.
+<!-- /OS:season-note -->
 
 ## 🎮 LEVEL SYSTEM *(custom profile gamification — not an official GitHub score)*
 
 <!-- OS:level -->
 ```text
-BK // LEVEL 7
+BK // LEVEL 8
 
-XP  ████████████████░░░░░░  71%  (7,155 XP)
+XP  ██████████████████░░░░  81%  (9,337 XP)
 
 REPOS ×97 ............ +20 XP each
 STARS ×2,275 ......... +2 XP each
-FOLLOWERS ×111 ....... +5 XP each
+FOLLOWERS ×112 ....... +5 XP each
+GRIND ×2,177 .... +1 XP each
 ```
 <!-- /OS:level -->
 
 ---
 ## 🏆 ACHIEVEMENTS
 
-![achievements](assets/achievements.svg)
+[![achievements — click for GitHub achievements](assets/achievements.svg)](https://github.com/vincenzo-afk?tab=achievements)
 
 <!-- OS:achievements-note -->
 Rules live in `data/achievements.json` and are evaluated against live data — 11/14 unlocked, `100 REPOSITORIES` still locked. No invented unlocks.
@@ -161,13 +169,13 @@ Real public events, refreshed by the pipeline (`data/transmissions.json`):
 
 <!-- OS:transmissions -->
 ```text
+12:58  pushed to vincenzo-afk
 14:42  pushed to CypherID
 04:22  pushed to NOVA-exe
 06:42  pushed to Kernel-One
 11:46  pushed to NOVA-exe
 14:03  deleted branch in Kernel-One
 14:43  merged PR #6 in kamalesh404/kamalesh404
-14:42  opened PR #6 in kamalesh404/kamalesh404
 ```
 <!-- /OS:transmissions -->
 
@@ -195,7 +203,7 @@ Health is verified read-only by `.github/workflows/health-check.yml` — it fail
 ---
 ## 🌌 PROJECT CONSTELLATION
 
-![constellation](assets/constellation.svg)
+[![constellation — click to explore the repos](assets/constellation.svg)](https://github.com/vincenzo-afk?tab=repositories)
 
 ```text
 AI SYSTEMS → AGENTS → AUTOMATION → FULL-STACK → EXPERIMENTS
@@ -218,7 +226,7 @@ Every node links back to its mission row above — one engineering journey, not 
 └── 97 public repos, 2200+ stars — search engines in Rust, WiFi sensing, RAG, agent infrastructure
 
 NOW
-└── Building systems instead of demos — NOVA-exe, Kernel-One, CypherID in active development
+└── Building systems instead of demos — vincenzo-afk, NOVA-exe, Kernel-One in active development
 ```
 <!-- /OS:lore -->
 
@@ -279,16 +287,16 @@ SIDE QUESTS
 ## 📊 DEVELOPER TELEMETRY
 
 <!-- OS:top-repos -->
-Top repositories by stars (live, 2026-09-17):
+Top repositories by stars (live, 2026-09-17) — click any row to warp in:
 
 | Repo | ★ | Lang | Last push |
 |---|---|---|---|
 | [WIFI-based-human-presence-detection-system](https://github.com/vincenzo-afk/WIFI-based-human-presence-detection-system) | 35 | Python | Aug 23 |
 | [PORTFOLIO](https://github.com/vincenzo-afk/PORTFOLIO) | 35 | HTML | Aug 22 |
+| [vincenzo-afk](https://github.com/vincenzo-afk/vincenzo-afk) | 34 | JavaScript | Sep 17 |
 | [KingstonConnect](https://github.com/vincenzo-afk/KingstonConnect) | 34 | TypeScript | Sep 10 |
 | [xithsense](https://github.com/vincenzo-afk/xithsense) | 34 | Python | Sep 03 |
 | [DEVNEXUS](https://github.com/vincenzo-afk/DEVNEXUS) | 34 | TypeScript | Sep 03 |
-| [vincenzo-afk](https://github.com/vincenzo-afk/vincenzo-afk) | 34 | JavaScript | Sep 01 |
 | [browserbrain](https://github.com/vincenzo-afk/browserbrain) | 33 | TypeScript | Sep 13 |
 <!-- /OS:top-repos -->
 
@@ -326,7 +334,7 @@ Something better was installed.
 ────────────────────────────────────────
 BK.DEV SYSTEM · VERSION 26.09.17
 LAST SYNCHRONIZED 2026-09-17 UTC · SOURCE api.github.com/users/vincenzo-afk
-Built with: GitHub API · GitHub Actions · Node · SVG
+Built with: GitHub API · GitHub Actions · Node · SVG · SMIL
 [ SOURCE ] [ PROJECTS ] [ CONTACT: itsmebk2007@gmail.com ]
 ────────────────────────────────────────
 ```
