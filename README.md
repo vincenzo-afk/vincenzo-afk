@@ -37,7 +37,7 @@ CLASS ............. Full Stack Developer / AI Engineer
 SPECIALIZATION .... AI Systems · LLMs · Agents · Automation
 LOCATION .......... Tamil Nadu, India
 OBJECTIVE ......... Build useful systems beyond the demo.
-STATUS ............ ● BUILDING (vincenzo-afk pushed 13m ago)
+STATUS ............ ● BUILDING (vincenzo-afk pushed just now)
 
 PRIMARY ........... AI Systems
 ACTIVE ............ Full Stack Engineering
@@ -65,10 +65,10 @@ Live language mix behind this tree (real repo data, Sep 2026): **TypeScript 28 �
 |---|---|---|
 | Public repositories | **97** | `api.github.com/users/vincenzo-afk` |
 | Stars earned | **2,275** | sum of `stargazers_count` over all repos |
-| Contributions (1y) | **2,177** | public contribution graph (parsed, no auth) |
+| Contributions (1y) | **2,180** | public contribution graph (parsed, no auth) |
 | Followers / Following | **112 / 92** | user profile |
 | Forks | **11** | sum of `forks_count` |
-| Last push | **vincenzo-afk, 13m ago** | repos sorted by `pushed_at` |
+| Last push | **vincenzo-afk, just now** | repos sorted by `pushed_at` |
 | Fresh builds | vincenzo-afk · NOVA-exe · Kernel-One | last 3 pushes |
 
 Regenerated every 6h by `.github/workflows/update-profile.yml`. If the API is unreachable the cards show the last known state instead of an error.
@@ -101,7 +101,7 @@ Progress bars are manual build estimates; stars + last-push are live from the AP
 [![live game — click for the real contribution graph](assets/contribution-game.svg)](https://github.com/vincenzo-afk)
 
 <!-- OS:season-note -->
-**🌌 NOW PLAYING: GALAXY** — fueled by **2,177 real contributions** across **130 active days**. Season rotates automatically every week: 🚀 SPACE MISSION → 🐍 SNAKE RUN → 👾 PAC-MAN → 🏎️ CODE RACING → 🌌 GALAXY. Next up: **🚀 SPACE MISSION**. The game changes; the grind data never lies.
+**🌌 NOW PLAYING: GALAXY** — fueled by **2,180 real contributions** across **130 active days**. Season rotates automatically every week: 🚀 SPACE MISSION → 🐍 SNAKE RUN → 👾 PAC-MAN → 🏎️ CODE RACING → 🌌 GALAXY. Next up: **🚀 SPACE MISSION**. The game changes; the grind data never lies.
 <!-- /OS:season-note -->
 
 ## 🎮 LEVEL SYSTEM *(custom profile gamification — not an official GitHub score)*
@@ -110,12 +110,12 @@ Progress bars are manual build estimates; stars + last-push are live from the AP
 ```text
 BK // LEVEL 8
 
-XP  ██████████████████░░░░  81%  (9,337 XP)
+XP  ██████████████████░░░░  81%  (9,340 XP)
 
 REPOS ×97 ............ +20 XP each
 STARS ×2,275 ......... +2 XP each
 FOLLOWERS ×112 ....... +5 XP each
-GRIND ×2,177 .... +1 XP each
+GRIND ×2,180 .... +1 XP each
 ```
 <!-- /OS:level -->
 
