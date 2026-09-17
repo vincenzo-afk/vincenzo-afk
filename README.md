@@ -65,8 +65,8 @@ Live language mix behind this tree (real repo data, Sep 2026): **TypeScript 28 �
 |---|---|---|
 | Public repositories | **97** | `api.github.com/users/vincenzo-afk` |
 | Stars earned | **2,275** | sum of `stargazers_count` over all repos |
-| Contributions (1y) | **2,180** | public contribution graph (parsed, no auth) |
-| Followers / Following | **112 / 92** | user profile |
+| Contributions (1y) | **2,183** | public contribution graph (parsed, no auth) |
+| Followers / Following | **113 / 92** | user profile |
 | Forks | **11** | sum of `forks_count` |
 | Last push | **vincenzo-afk, just now** | repos sorted by `pushed_at` |
 | Fresh builds | vincenzo-afk · NOVA-exe · Kernel-One | last 3 pushes |
@@ -87,7 +87,7 @@ Regenerated every 6h by `.github/workflows/update-profile.yml`. If the API is un
 | 003 | **Zen-2** — 124M-parameter decoder-only LLM from scratch — RoPE, RMSNorm, SwiGLU, GQA, KV Cache, BPE. | ● RESEARCH | [vincenzo-afk/Zen-2](https://github.com/vincenzo-afk/Zen-2) · 32★ · 21d ago |
 | 004 | **NOVA-exe** — Local-first desktop AI agent platform. Most recently pushed repo — under active construction. | ● BUILDING | [vincenzo-afk/NOVA-exe](https://github.com/vincenzo-afk/NOVA-exe) · 9★ · 6h ago |
 | 005 | **Kernel-One** — Industrial AI operating environment — every AI action controlled, auditable, permission-aware. | ● BUILDING | [vincenzo-afk/Kernel-One](https://github.com/vincenzo-afk/Kernel-One) · 7★ · 6h ago |
-| 006 | **CypherID** — Blockchain-based secure platform for identity, access control, and digital asset management. | ● BUILDING | [vincenzo-afk/CypherID](https://github.com/vincenzo-afk/CypherID) · 7★ · 18h ago |
+| 006 | **CypherID** — Blockchain-based secure platform for identity, access control, and digital asset management. | ● BUILDING | [vincenzo-afk/CypherID](https://github.com/vincenzo-afk/CypherID) · 7★ · 19h ago |
 | 007 | **WIFI-SENSE** — WiFi CSI-based human presence, occupancy, zone and activity detection dashboard. No cameras. | ● OPERATIONAL | [vincenzo-afk/WIFI-based-human-presence-detection-system](https://github.com/vincenzo-afk/WIFI-based-human-presence-detection-system) · 35★ · 24d ago |
 | 008 | **PrivatePulse-AI** — RAG-powered confidential document intelligence with grounded, cited answers. Hackathon-built. | ● OPERATIONAL | [vincenzo-afk/PrivatePulse-AI](https://github.com/vincenzo-afk/PrivatePulse-AI) · 33★ · 14d ago |
 | 009 | **browserbrain** — Browser-first local AI research workspace — on-device inference with free web grounding. | ● EXPERIMENTAL | [vincenzo-afk/browserbrain](https://github.com/vincenzo-afk/browserbrain) · 33★ · 4d ago |
@@ -101,7 +101,7 @@ Progress bars are manual build estimates; stars + last-push are live from the AP
 [![live game — click for the real contribution graph](assets/contribution-game.svg)](https://github.com/vincenzo-afk)
 
 <!-- OS:season-note -->
-**🌌 NOW PLAYING: GALAXY** — fueled by **2,180 real contributions** across **130 active days**. Season rotates automatically every week: 🚀 SPACE MISSION → 🐍 SNAKE RUN → 👾 PAC-MAN → 🏎️ CODE RACING → 🌌 GALAXY. Next up: **🚀 SPACE MISSION**. The game changes; the grind data never lies.
+**🌌 NOW PLAYING: GALAXY** — fueled by **2,183 real contributions** across **130 active days**. Season rotates automatically every week: 🚀 SPACE MISSION → 🐍 SNAKE RUN → 👾 PAC-MAN → 🏎️ CODE RACING → 🌌 GALAXY. Next up: **🚀 SPACE MISSION**. The game changes; the grind data never lies.
 <!-- /OS:season-note -->
 
 ## 🎮 LEVEL SYSTEM *(custom profile gamification — not an official GitHub score)*
@@ -110,12 +110,12 @@ Progress bars are manual build estimates; stars + last-push are live from the AP
 ```text
 BK // LEVEL 8
 
-XP  ██████████████████░░░░  81%  (9,340 XP)
+XP  ██████████████████░░░░  82%  (9,348 XP)
 
 REPOS ×97 ............ +20 XP each
 STARS ×2,275 ......... +2 XP each
-FOLLOWERS ×112 ....... +5 XP each
-GRIND ×2,180 .... +1 XP each
+FOLLOWERS ×113 ....... +5 XP each
+GRIND ×2,183 .... +1 XP each
 ```
 <!-- /OS:level -->
 
@@ -169,13 +169,13 @@ Real public events, refreshed by the pipeline (`data/transmissions.json`):
 
 <!-- OS:transmissions -->
 ```text
+13:38  pushed to vincenzo-afk
 12:58  pushed to vincenzo-afk
 14:42  pushed to CypherID
 04:22  pushed to NOVA-exe
 06:42  pushed to Kernel-One
 11:46  pushed to NOVA-exe
 14:03  deleted branch in Kernel-One
-14:43  merged PR #6 in kamalesh404/kamalesh404
 ```
 <!-- /OS:transmissions -->
 
