@@ -7,10 +7,10 @@
   "stars": 2275,
   "forks": 11,
   "langs": {
+    "JavaScript": 26,
     "TypeScript": 28,
     "Python": 18,
     "Java": 1,
-    "JavaScript": 26,
     "CSS": 2,
     "Dart": 2,
     "Rust": 3,
@@ -31,6 +31,13 @@
       "forks": 0,
       "lang": "HTML",
       "pushed": "2026-08-22T02:00:53Z"
+    },
+    {
+      "name": "vincenzo-afk",
+      "stars": 34,
+      "forks": 0,
+      "lang": "JavaScript",
+      "pushed": "2026-09-17T12:58:05Z"
     },
     {
       "name": "KingstonConnect",
@@ -54,13 +61,6 @@
       "pushed": "2026-09-03T09:44:51Z"
     },
     {
-      "name": "vincenzo-afk",
-      "stars": 34,
-      "forks": 0,
-      "lang": "JavaScript",
-      "pushed": "2026-09-01T12:09:00Z"
-    },
-    {
       "name": "browserbrain",
       "stars": 33,
       "forks": 1,
@@ -69,6 +69,11 @@
     }
   ],
   "fresh": [
+    {
+      "name": "vincenzo-afk",
+      "pushed": "2026-09-17T12:58:05Z",
+      "lang": "JavaScript"
+    },
     {
       "name": "NOVA-exe",
       "pushed": "2026-09-17T07:02:09Z",
@@ -88,20 +93,19 @@
       "name": "browserbrain",
       "pushed": "2026-09-13T11:13:01Z",
       "lang": "TypeScript"
-    },
-    {
-      "name": "SPORTS",
-      "pushed": "2026-09-13T08:18:34Z",
-      "lang": "TypeScript"
     }
   ],
-  "lastPush": "2026-09-17T07:02:09Z",
-  "fetchedAt": "2026-09-17T12:56:15.700Z",
+  "lastPush": "2026-09-17T12:58:05Z",
+  "fetchedAt": "2026-09-17T12:58:16.831Z",
   "live": true,
   "xp": 7155,
   "level": 7,
   "xpPct": 71,
   "transmissions": [
+    {
+      "t": "12:58",
+      "text": "pushed to vincenzo-afk"
+    },
     {
       "t": "14:42",
       "text": "pushed to CypherID"
@@ -125,10 +129,6 @@
     {
       "t": "14:43",
       "text": "merged PR #6 in kamalesh404/kamalesh404"
-    },
-    {
-      "t": "14:42",
-      "text": "opened PR #6 in kamalesh404/kamalesh404"
     }
   ]
 }

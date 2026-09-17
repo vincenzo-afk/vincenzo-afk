@@ -27,7 +27,7 @@ CLASS ............. Full Stack Developer / AI Engineer
 SPECIALIZATION .... AI Systems · LLMs · Agents · Automation
 LOCATION .......... Tamil Nadu, India
 OBJECTIVE ......... Build useful systems beyond the demo.
-STATUS ............ ● BUILDING (NOVA-exe pushed 5h ago)
+STATUS ............ ● BUILDING (vincenzo-afk pushed just now)
 
 PRIMARY ........... AI Systems
 ACTIVE ............ Full Stack Engineering
@@ -57,8 +57,8 @@ Live language mix behind this tree (real repo data, Sep 2026): **TypeScript 28 �
 | Stars earned | **2,275** | sum of `stargazers_count` over all repos |
 | Followers / Following | **111 / 91** | user profile |
 | Forks | **11** | sum of `forks_count` |
-| Last push | **NOVA-exe, 5h ago** | repos sorted by `pushed_at` |
-| Fresh builds | NOVA-exe · Kernel-One · CypherID | last 3 pushes |
+| Last push | **vincenzo-afk, just now** | repos sorted by `pushed_at` |
+| Fresh builds | vincenzo-afk · NOVA-exe · Kernel-One | last 3 pushes |
 
 Regenerated every 6h by `.github/workflows/update-profile.yml`. If the API is unreachable the cards show the last known state instead of an error.
 <!-- /OS:telemetry-table -->
@@ -161,13 +161,13 @@ Real public events, refreshed by the pipeline (`data/transmissions.json`):
 
 <!-- OS:transmissions -->
 ```text
+12:58  pushed to vincenzo-afk
 14:42  pushed to CypherID
 04:22  pushed to NOVA-exe
 06:42  pushed to Kernel-One
 11:46  pushed to NOVA-exe
 14:03  deleted branch in Kernel-One
 14:43  merged PR #6 in kamalesh404/kamalesh404
-14:42  opened PR #6 in kamalesh404/kamalesh404
 ```
 <!-- /OS:transmissions -->
 
@@ -218,7 +218,7 @@ Every node links back to its mission row above — one engineering journey, not 
 └── 97 public repos, 2200+ stars — search engines in Rust, WiFi sensing, RAG, agent infrastructure
 
 NOW
-└── Building systems instead of demos — NOVA-exe, Kernel-One, CypherID in active development
+└── Building systems instead of demos — vincenzo-afk, NOVA-exe, Kernel-One in active development
 ```
 <!-- /OS:lore -->
 
@@ -285,10 +285,10 @@ Top repositories by stars (live, 2026-09-17):
 |---|---|---|---|
 | [WIFI-based-human-presence-detection-system](https://github.com/vincenzo-afk/WIFI-based-human-presence-detection-system) | 35 | Python | Aug 23 |
 | [PORTFOLIO](https://github.com/vincenzo-afk/PORTFOLIO) | 35 | HTML | Aug 22 |
+| [vincenzo-afk](https://github.com/vincenzo-afk/vincenzo-afk) | 34 | JavaScript | Sep 17 |
 | [KingstonConnect](https://github.com/vincenzo-afk/KingstonConnect) | 34 | TypeScript | Sep 10 |
 | [xithsense](https://github.com/vincenzo-afk/xithsense) | 34 | Python | Sep 03 |
 | [DEVNEXUS](https://github.com/vincenzo-afk/DEVNEXUS) | 34 | TypeScript | Sep 03 |
-| [vincenzo-afk](https://github.com/vincenzo-afk/vincenzo-afk) | 34 | JavaScript | Sep 01 |
 | [browserbrain](https://github.com/vincenzo-afk/browserbrain) | 33 | TypeScript | Sep 13 |
 <!-- /OS:top-repos -->
 
