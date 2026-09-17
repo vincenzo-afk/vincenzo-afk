@@ -1,0 +1,42 @@
+name: 🔧 Daily Ops
+
+# Honest daily maintenance: performs REAL checks (portfolio HTTP status +
+# GitHub API status of every mission repo) and commits the results to
+# data/ops-report.json + the README ops region. Green or red — whatever
+# is true. Nothing fabricated, nothing backdated.
+on:
+  schedule:
+    - cron: "0 9 * * *" # daily
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-os
+  cancel-in-progress: true
+
+jobs:
+  ops:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Run daily ops checks
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USERNAME: vincenzo-afk
+        run: node scripts/daily-ops.mjs
+
+      - name: Commit results
+        run: |
+          git config user.name "vincenzo-afk"
+          git config user.email "itsmebk2007@gmail.com"
+          git add README.md data/ops-report.json
+          git diff --cached --quiet && echo "No changes to commit" && exit 0
+          git commit -m "🔧 Daily ops report"
+          git push

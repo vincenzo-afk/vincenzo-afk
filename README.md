@@ -200,6 +200,17 @@ Real public events, refreshed by the pipeline (`data/transmissions.json`):
 Health is verified read-only by `.github/workflows/health-check.yml` — it fails the run rather than ever rendering `undefined`/`NaN` to visitors.
 <!-- /OS:sysstatus -->
 
+### Daily Ops — real checks, committed daily
+
+<!-- OS:ops -->
+```text
+LAST OPS CHECK .... 2026-09-17 UTC
+PORTFOLIO ......... ● ONLINE (HTTP 200, 1549ms)
+MISSIONS .......... 9/9 reachable via API
+VERDICT ........... ● ALL SYSTEMS NOMINAL
+```
+<!-- /OS:ops -->
+
 ---
 ## 🌌 PROJECT CONSTELLATION
 

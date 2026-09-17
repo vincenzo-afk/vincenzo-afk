@@ -39,7 +39,7 @@ jobs:
           if grep -riE "undefined|NaN|API ERROR" assets/*.svg; then
             echo "Leaked placeholder found in SVGs" && exit 1
           fi
-          for r in player skill-mix telemetry-table missions-table season-note level achievements-note research loadout transmissions sysstatus lore currently quests experiment top-repos footer; do
+          for r in player skill-mix telemetry-table missions-table season-note level achievements-note research loadout transmissions sysstatus ops lore currently quests experiment top-repos footer; do
             grep -q "<!-- OS:${r} -->" README.md || (echo "MISSING README MARKER OS:${r}" && exit 1)
           done
           echo "BK // OS health: OK"

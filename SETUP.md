@@ -9,6 +9,7 @@ hand-maintained: everything dynamic is regenerated from the real GitHub API.
 |---|---|---|
 | `.github/workflows/update-profile.yml` | every 6h, on push to `data/**` / `scripts/generate-os.mjs` / `README.md`, or manual | Runs the generator and commits back `README.md` + `assets/*.svg` + `data/telemetry.json` + `data/transmissions.json` |
 | `.github/workflows/update-contributions.yml` | daily, or manual | Same generator on its own cadence for the season / XP / achievements art |
+| `.github/workflows/daily-ops.yml` | daily, or manual | Real checks (portfolio HTTP + mission repo API status) committed to `data/ops-report.json` + README ops region |
 | `.github/workflows/health-check.yml` | daily, or manual | Read-only: asserts all 7 SVGs + all 16 README markers exist with no `undefined`/`NaN` leaks. Never commits |
 | `.github/workflows/snake.yml` | on push to `main`, every 12h, or manual | Contribution snake on the `output` branch |
 | `.github/workflows/waka.yml` | manual until enabled | Optional WakaTime stats — see the file header for setup |
