@@ -1,69 +1,95 @@
 {
-  "_readme": "Edit this file to control the Steam-style project cards in assets/generated/project-cards.svg. 'repo' must be an exact 'owner/name' on GitHub for live stats (commits/stars/last update) to be pulled automatically. Set 'repo' to null for projects that aren't public yet — the card will then use 'fallback_commits'/'fallback_stars' values below instead. 'flagship' and 'major' are core groups; 'new_builds' is the fresh-work row.",
-  "flagship": [
+  "_readme": "BK // MISSION CONTROL. 'repo' must be exact 'owner/name' for live stars/pushed_at. 'status' is one of OPERATIONAL / BUILDING / RESEARCH / EXPERIMENTAL / MAINTENANCE / ARCHIVED. 'progress' is a manual completion estimate — stars/activity stay live from the API.",
+  "missions": [
     {
-      "name": "NOVA",
-      "repo": "vincenzo-afk/NOVA",
-      "language": "Python",
-      "status": "Building",
-      "progress": 72,
-      "modules": 41,
-      "fallback_commits": 1204,
-      "fallback_stars": 0
+      "id": "001",
+      "name": "DEVNEXUS",
+      "repo": "vincenzo-afk/DEVNEXUS",
+      "type": "AI / DEVELOPER TOOLS",
+      "stack": "TypeScript · Next.js · FastAPI · Supabase",
+      "objective": "AI-powered developer command center: GitHub context, progress narratives, smart TODOs, hackathon planning.",
+      "status": "OPERATIONAL",
+      "progress": 92
     },
     {
-      "name": "IRIS",
-      "repo": "vincenzo-afk/IRIS",
-      "language": "Python",
-      "status": "Building",
-      "progress": 58,
-      "modules": 23,
-      "fallback_commits": 640,
-      "fallback_stars": 0
+      "id": "002",
+      "name": "NEXUS-ENGINE",
+      "repo": "vincenzo-afk/NEXUS-ENGINE",
+      "type": "SYSTEMS / SEARCH",
+      "stack": "Rust · BM25 · PageRank",
+      "objective": "Full-featured search engine in Rust — local filesystem + web crawl with BM25+PageRank ranking.",
+      "status": "OPERATIONAL",
+      "progress": 88
     },
     {
-      "name": "OMNI",
-      "repo": "vincenzo-afk/OMNI",
-      "language": "Python",
-      "status": "Building",
-      "progress": 44,
-      "modules": 17,
-      "fallback_commits": 310,
-      "fallback_stars": 0
+      "id": "003",
+      "name": "Zen-2",
+      "repo": "vincenzo-afk/Zen-2",
+      "type": "AI / RESEARCH",
+      "stack": "Python · PyTorch · Transformers",
+      "objective": "124M-parameter decoder-only LLM from scratch — RoPE, RMSNorm, SwiGLU, GQA, KV Cache, BPE.",
+      "status": "RESEARCH",
+      "progress": 85
     },
     {
-      "name": "CircuitWeaver",
-      "repo": "vincenzo-afk/CircuitWeaver",
-      "language": "Python",
-      "status": "Building",
-      "progress": 51,
-      "modules": 19,
-      "fallback_commits": 385,
-      "fallback_stars": 0
+      "id": "004",
+      "name": "NOVA-exe",
+      "repo": "vincenzo-afk/NOVA-exe",
+      "type": "AI / DESKTOP AGENTS",
+      "stack": "TypeScript · Electron · React · SQLite",
+      "objective": "Local-first desktop AI agent platform. Most recently pushed repo — under active construction.",
+      "status": "BUILDING",
+      "progress": 64
     },
     {
-      "name": "H.O.M.E.R.",
-      "repo": "vincenzo-afk/H.O.M.E.R.",
-      "language": "Python",
-      "status": "Prototype",
-      "progress": 65,
-      "modules": 14,
-      "fallback_commits": 220,
-      "fallback_stars": 0
+      "id": "005",
+      "name": "Kernel-One",
+      "repo": "vincenzo-afk/Kernel-One",
+      "type": "AI / SYSTEMS",
+      "stack": "Python · Agents · Permissions",
+      "objective": "Industrial AI operating environment — every AI action controlled, auditable, permission-aware.",
+      "status": "BUILDING",
+      "progress": 58
+    },
+    {
+      "id": "006",
+      "name": "CypherID",
+      "repo": "vincenzo-afk/CypherID",
+      "type": "WEB3 / IDENTITY",
+      "stack": "Java · Blockchain · IAM",
+      "objective": "Blockchain-based secure platform for identity, access control, and digital asset management.",
+      "status": "BUILDING",
+      "progress": 52
+    },
+    {
+      "id": "007",
+      "name": "WIFI-SENSE",
+      "repo": "vincenzo-afk/WIFI-based-human-presence-detection-system",
+      "type": "AI / SIGNAL PROCESSING",
+      "stack": "Python · WiFi CSI · Flask",
+      "objective": "WiFi CSI-based human presence, occupancy, zone and activity detection dashboard. No cameras.",
+      "status": "OPERATIONAL",
+      "progress": 90
+    },
+    {
+      "id": "008",
+      "name": "PrivatePulse-AI",
+      "repo": "vincenzo-afk/PrivatePulse-AI",
+      "type": "AI / RAG",
+      "stack": "TypeScript · RAG · Privacy",
+      "objective": "RAG-powered confidential document intelligence with grounded, cited answers. Hackathon-built.",
+      "status": "OPERATIONAL",
+      "progress": 86
+    },
+    {
+      "id": "009",
+      "name": "browserbrain",
+      "repo": "vincenzo-afk/browserbrain",
+      "type": "AI / RESEARCH",
+      "stack": "TypeScript · WebGPU · WASM",
+      "objective": "Browser-first local AI research workspace — on-device inference with free web grounding.",
+      "status": "EXPERIMENTAL",
+      "progress": 61
     }
-  ],
-  "major": [
-    { "name": "NEXUS-ENGINE", "repo": "vincenzo-afk/NEXUS-ENGINE", "language": "Rust", "status": "Live", "progress": 100, "modules": 28 },
-    { "name": "SocialGuard-RL", "repo": "vincenzo-afk/SocialGuard-RL", "language": "Python", "status": "Live", "progress": 100, "modules": 12 },
-    { "name": "Zen-2", "repo": "vincenzo-afk/Zen-2", "language": "Python", "status": "Live", "progress": 100, "modules": 9 },
-    { "name": "AgentWeb", "repo": "vincenzo-afk/AgentWeb", "language": "TypeScript", "status": "Live", "progress": 100, "modules": 15 },
-    { "name": "TN Land Tracker", "repo": "vincenzo-afk/tn-land-tracker", "language": "Python/Next.js", "status": "Archived", "progress": 100, "modules": 11 },
-    { "name": "KingstonConnect", "repo": "vincenzo-afk/KingstonConnect", "language": "TypeScript", "status": "Live", "progress": 100, "modules": 13 }
-  ],
-  "new_builds": [
-    { "name": "MeshOS", "repo": "vincenzo-afk/MeshOS", "language": "JavaScript", "status": "Live", "progress": 60, "modules": 8 },
-    { "name": "PenFlow", "repo": "vincenzo-afk/PenFlow", "language": "JavaScript", "status": "Building", "progress": 35, "modules": 6 },
-    { "name": "Developer-OS", "repo": "vincenzo-afk/Developer-OS", "language": "TypeScript", "status": "Building", "progress": 45, "modules": 9 },
-    { "name": "OpenAgentNet", "repo": "vincenzo-afk/OpenAgentNet", "language": "Python", "status": "Live", "progress": 80, "modules": 11 }
   ]
 }

@@ -1,0 +1,45 @@
+name: 🌐 Health Check
+
+# Read-only verification that the OS pipeline is green: generator runs,
+# all 7 SVGs + all 16 README regions exist, and no placeholder leaks
+# (undefined/NaN/API ERROR) reach visitors. Never commits.
+on:
+  schedule:
+    - cron: "30 1 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: profile-os-health
+  cancel-in-progress: true
+
+jobs:
+  health:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Run generator (read-only check)
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USERNAME: vincenzo-afk
+        run: node scripts/generate-os.mjs
+
+      - name: Assert OS integrity
+        run: |
+          for f in assets/hero.svg assets/telemetry.svg assets/skill-tree.svg assets/mission-control.svg assets/constellation.svg assets/achievements.svg assets/contribution-game.svg data/telemetry.json; do
+            test -f "$f" || (echo "MISSING $f" && exit 1)
+          done
+          if grep -riE "undefined|NaN|API ERROR" assets/*.svg; then
+            echo "Leaked placeholder found in SVGs" && exit 1
+          fi
+          for r in player skill-mix telemetry-table missions-table level achievements-note research loadout transmissions sysstatus lore currently quests experiment top-repos footer; do
+            grep -q "<!-- OS:${r} -->" README.md || (echo "MISSING README MARKER OS:${r}" && exit 1)
+          done
+          echo "BK // OS health: OK"

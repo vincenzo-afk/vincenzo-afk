@@ -1,0 +1,19 @@
+{
+  "_readme": "BK // ACHIEVEMENTS. Every rule is evaluated against LIVE GitHub data by scripts/generate-os.mjs. Never hand-unlock — the generator decides unlocked/locked from real numbers.",
+  "rules": [
+    { "id": "first-repo", "label": "FIRST REPOSITORY", "test": "repos>=1" },
+    { "id": "ten-repos", "label": "10 REPOSITORIES", "test": "repos>=10" },
+    { "id": "fifty-repos", "label": "50 REPOSITORIES", "test": "repos>=50" },
+    { "id": "hundred-repos", "label": "100 REPOSITORIES", "test": "repos>=100" },
+    { "id": "first-star", "label": "FIRST STAR EARNED", "test": "stars>=1" },
+    { "id": "hundred-stars", "label": "100 STARS", "test": "stars>=100" },
+    { "id": "thousand-stars", "label": "1,000 STARS", "test": "stars>=1000" },
+    { "id": "two-thousand-stars", "label": "2,000 STARS", "test": "stars>=2000" },
+    { "id": "first-follower", "label": "FIRST FOLLOWER", "test": "followers>=1" },
+    { "id": "fifty-followers", "label": "50 FOLLOWERS", "test": "followers>=50" },
+    { "id": "hundred-followers", "label": "100 FOLLOWERS", "test": "followers>=100" },
+    { "id": "polyglot", "label": "POLYGLOT — 5+ LANGUAGES", "test": "languages>=5" },
+    { "id": "rust-systems", "label": "SYSTEMS DIVER — SHIPPED RUST", "test": "hasRust==true" },
+    { "id": "shipped-recently", "label": "ACTIVE THIS WEEK", "test": "pushedWithinDays<=7" }
+  ]
+}

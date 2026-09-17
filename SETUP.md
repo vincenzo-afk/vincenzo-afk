@@ -1,48 +1,44 @@
-# Profile Dashboard — Setup Notes
+# BK // DEVELOPER OS — Setup Notes
 
-This repo now drives a live, self-updating GitHub profile README. Everything
-below is genuinely runnable — no external accounts required beyond GitHub
-itself (WakaTime is optional, see `waka.yml`).
+This repo is a living, self-updating GitHub profile. No numbers are
+hand-maintained: everything dynamic is regenerated from the real GitHub API.
 
 ## What runs automatically
 
 | Workflow | Trigger | What it does |
 |---|---|---|
-| `.github/workflows/dashboard.yml` | every 6h, on push to `data/**`/scripts, or manual | Regenerates all 7 live SVG cards in `assets/generated/` from real GitHub data and commits them back to `main` (includes the new **Top Repositories** card) |
-| `.github/workflows/snake.yml` | on push to `main`, every 12h, or manual | Regenerates the neon contribution snake, pushes to the `output` branch |
-| `.github/workflows/activity.yml` | daily, or manual | Updates the "⚡ Latest GitHub Activity" feed section in README.md |
-| `.github/workflows/waka.yml` | manual only until you enable it | Optional WakaTime coding-time stats — see the comment block at the top of the file for the 4 setup steps |
+| `.github/workflows/update-profile.yml` | every 6h, on push to `data/**` / `scripts/generate-os.mjs` / `README.md`, or manual | Runs the generator and commits back `README.md` + `assets/*.svg` + `data/telemetry.json` + `data/transmissions.json` |
+| `.github/workflows/update-contributions.yml` | daily, or manual | Same generator on its own cadence for the season / XP / achievements art |
+| `.github/workflows/health-check.yml` | daily, or manual | Read-only: asserts all 7 SVGs + all 16 README markers exist with no `undefined`/`NaN` leaks. Never commits |
+| `.github/workflows/snake.yml` | on push to `main`, every 12h, or manual | Contribution snake on the `output` branch |
+| `.github/workflows/waka.yml` | manual until enabled | Optional WakaTime stats — see the file header for setup |
 
-No workflow needs a token you have to create — they all use the
-automatically-provided `GITHUB_TOKEN`, which already has the permissions
-needed to read public GitHub data and push back to this repo.
+All workflows use the automatic `GITHUB_TOKEN` — no secrets to create.
+Commits are authored as `vincenzo-afk` so automation shows up on the graph.
 
-## What to edit by hand
+## The data model
 
-| File | Controls |
-|---|---|
-| `data/live_status.json` | The "🔥 NOW BUILDING" card — current project, module, ETA, progress |
-| `data/projects.json` | The Steam-style project cards — add a `"repo": "owner/name"` to pull live stars/last-update, or leave `null` and it'll fall back to the numbers you set |
-| `data/feature_stats.json` | The feature-stat cards GitHub's API can't derive (years coding, certificates, etc.) — repositories/stars/followers are always pulled live regardless of this file |
-| `data/skills.json` | The non-language axes of the skill radar (AI/ML, DevOps, Systems) — the language axes (Python/Rust/TS-JS) are computed automatically from your repos |
+| File | Controls | By hand? |
+|---|---|---|
+| `data/profile.json` | Identity, currently, quests, research, experiment, player card, loadout, lore templates (`{{repos}}`, `{{stars}}`, `{{fresh3}}`, `{{created}}`) | ✅ edit freely |
+| `data/projects.json` | Mission manifest: which repos are missions, plus `status` / `progress` / `objective` | ✅ edit freely |
+| `data/achievements.json` | Unlock rules evaluated against live data | ✅ edit freely |
+| `data/telemetry.json`, `data/transmissions.json` | Last fetched API snapshot | ❌ generated — never edit |
+| `assets/*.svg` | All profile visuals | ❌ generated — never edit |
+| `README.md` (inside `<!-- OS:… -->` markers) | Every number, date, table | ❌ generated — edit prose/structure only |
 
-Commit a change to any of those and the dashboard workflow picks it up on
-the next push (or within 6 hours via the schedule).
-
-## Re-running things locally (optional)
+## Re-running locally
 
 ```bash
-npm install -g node   # Node 18+ has global fetch, nothing else needed
-GITHUB_TOKEN=ghp_xxx GH_USERNAME=vincenzo-afk node scripts/generate-dashboard.mjs
-node scripts/generate-icons.mjs   # only needed if you add/change a tech badge
+node scripts/generate-os.mjs
+# GITHUB_TOKEN=ghp_xxx GH_USERNAME=vincenzo-afk node scripts/generate-os.mjs
 ```
 
-Without a token the script falls back to sample data so you can still
-sanity-check layout changes offline.
+Node 18+ only, zero dependencies. Without API access it reuses the last
+snapshot; with no snapshot it renders an honest "temporarily unavailable"
+state instead of fake numbers.
 
-## One manual step after you upload this repo
+## One manual step after pushing
 
-GitHub Actions needs **Workflow permissions → Read and write** enabled for
-`dashboard.yml`'s `git push` to succeed:
-`Settings → Actions → General → Workflow permissions → Read and write permissions`.
-Everything else works out of the box.
+`Settings → Actions → General → Workflow permissions → Read and write
+permissions`, otherwise the workflows can't push their updates back.

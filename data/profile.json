@@ -1,0 +1,142 @@
+{
+  "_readme": "BK // DEVELOPER OS — manual identity layer. GitHub-derived numbers (repos/stars/followers/activity) are NEVER hand-edited here; they are fetched live by scripts/generate-os.mjs. Edit only the human parts: status, currently, quests, research, experiment.",
+  "profile": {
+    "name": "Bharani Kumar S",
+    "username": "vincenzo-afk",
+    "tagline": "BK // DEVELOPER OS",
+    "roles": [
+      "Full Stack Developer",
+      "AI Systems Builder",
+      "AI Engineer",
+      "Researcher"
+    ],
+    "location": "Tamil Nadu, India",
+    "blog": "https://vincenzo-afk.vercel.app/",
+    "twitter": "abnormal84662",
+    "email": "itsmebk2007@gmail.com",
+    "hireable": true,
+    "status": "building",
+    "philosophy": "Build intelligent systems that solve real problems rather than simply wrapping an API."
+  },
+  "currently": {
+    "building": "NOVA-exe — local-first desktop AI agent platform (TypeScript + Electron + React + SQLite)",
+    "experimenting": "Autonomous tool-using agents with auditable, permission-aware execution (Kernel-One)",
+    "learning": "Systems + Rust (NEXUS-ENGINE search engine: BM25 + PageRank)",
+    "researching": "How far autonomous software agents can operate reliably without continuous human intervention",
+    "next": "Ship something people actually use"
+  },
+  "quests": {
+    "main": {
+      "title": "Build a genuinely useful AI system",
+      "status": "IN PROGRESS"
+    },
+    "side": [
+      {
+        "title": "Ship Kernel-One as a permission-aware AI execution environment",
+        "done": false
+      },
+      {
+        "title": "Push NOVA-exe to a stable local-first release",
+        "done": false
+      },
+      {
+        "title": "Scale Zen-2 beyond 124M params with a reproducible pipeline",
+        "done": false
+      },
+      {
+        "title": "Publish technical research notes on agents + retrieval",
+        "done": false
+      },
+      {
+        "title": "Contribute to open-source AI tooling",
+        "done": false
+      }
+    ]
+  },
+  "research": {
+    "investigating": [
+      "AI Agents",
+      "Speech AI",
+      "AI Systems",
+      "Systems",
+      "Multimodal AI"
+    ],
+    "experimenting": [
+      "MCP",
+      "Local LLMs",
+      "Tool Calling",
+      "Agent Memory",
+      "Browser AI"
+    ],
+    "understanding": [
+      "Transformers",
+      "RAG",
+      "Inference",
+      "Distributed Systems",
+      "Compilers"
+    ],
+    "current_question": "How far can autonomous software agents operate reliably without continuous human intervention?"
+  },
+  "experiment_of_the_week": {
+    "title": "Can an LLM autonomously research a technical question using grounded tools while maintaining source reliability?",
+    "status": "RUNNING",
+    "vehicle": "AgentWeb + browserbrain"
+  },
+  "player": {
+    "class": "Full Stack Developer / AI Engineer",
+    "specialization": "AI Systems · LLMs · Agents · Automation",
+    "objective": "Build useful systems beyond the demo.",
+    "primary": "AI Systems",
+    "active": "Full Stack Engineering",
+    "exploring": "Systems / Rust",
+    "experimental": "Speech / Multimodal / Blockchain identity"
+  },
+  "loadout": {
+    "equipped": [
+      "TypeScript",
+      "Python",
+      "React/Next.js",
+      "FastAPI",
+      "PyTorch",
+      "Transformers",
+      "RAG",
+      "MCP",
+      "Agents",
+      "PostgreSQL",
+      "Redis",
+      "Docker",
+      "GitHub Actions"
+    ],
+    "learning": [
+      "Rust",
+      "Systems",
+      "Search ranking (BM25/PageRank)",
+      "Distributed training"
+    ],
+    "experimental": [
+      "Speech AI",
+      "Multimodal AI",
+      "WebGPU/WASM inference",
+      "WiFi CSI sensing",
+      "On-chain identity"
+    ]
+  },
+  "lore": [
+    {
+      "year": "2025",
+      "text": "Account created {{created}} — first repos, full-stack experiments, Developer-OS portfolio"
+    },
+    {
+      "year": "2025-26",
+      "text": "AI systems enter the lab — NOVA, Zen-2 (124M LLM from scratch), OpenAgentNet, AgentWeb"
+    },
+    {
+      "year": "2026",
+      "text": "{{repos}} public repos, {{stars}} stars — search engines in Rust, WiFi sensing, RAG, agent infrastructure"
+    },
+    {
+      "year": "NOW",
+      "text": "Building systems instead of demos — {{fresh3}} in active development"
+    }
+  ]
+}

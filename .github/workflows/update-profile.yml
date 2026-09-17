@@ -1,0 +1,49 @@
+name: 🖥️ Update Profile OS
+
+# Fully self-updating profile: fetches live GitHub data, regenerates all
+# SVG assets + every dynamic README region, and commits back — no human
+# edits to numbers ever needed. Numbers come from the API, curation from
+# data/*.json, prose structure from README.md markers.
+on:
+  push:
+    branches: [main]
+    paths:
+      - "data/**"
+      - "scripts/generate-os.mjs"
+      - ".github/workflows/update-profile.yml"
+      - "README.md"
+  schedule:
+    - cron: "0 */6 * * *" # every 6 hours — stars, pushes, events stay fresh
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-os
+  cancel-in-progress: true
+
+jobs:
+  build-os:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Generate BK // DEVELOPER OS assets + README
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USERNAME: vincenzo-afk
+        run: node scripts/generate-os.mjs
+
+      - name: Commit changes
+        run: |
+          git config user.name "vincenzo-afk"
+          git config user.email "itsmebk2007@gmail.com"
+          git add README.md assets data/telemetry.json data/transmissions.json
+          git diff --cached --quiet && echo "No changes to commit" && exit 0
+          git commit -m "🖥️ Auto-update BK // DEVELOPER OS"
+          git push

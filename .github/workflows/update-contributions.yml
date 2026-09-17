@@ -1,0 +1,41 @@
+name: 🛰️ Update Contributions Season
+
+# Daily refresh of the game-like contribution season (space-mission fuel,
+# XP/level, achievements, transmissions). Same generator as update-profile,
+# separate schedule so the season art evolves on its own cadence.
+on:
+  schedule:
+    - cron: "15 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-os
+  cancel-in-progress: true
+
+jobs:
+  season:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Regenerate contribution season
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USERNAME: vincenzo-afk
+        run: node scripts/generate-os.mjs
+
+      - name: Commit changes
+        run: |
+          git config user.name "vincenzo-afk"
+          git config user.email "itsmebk2007@gmail.com"
+          git add README.md assets data/telemetry.json data/transmissions.json
+          git diff --cached --quiet && echo "No changes to commit" && exit 0
+          git commit -m "🛰️ Auto-update contribution season"
+          git push
