@@ -37,7 +37,7 @@ CLASS ............. Full Stack Developer / AI Engineer
 SPECIALIZATION .... AI Systems · LLMs · Agents · Automation
 LOCATION .......... Tamil Nadu, India
 OBJECTIVE ......... Build useful systems beyond the demo.
-STATUS ............ ● BUILDING (IRIS pushed 2h ago)
+STATUS ............ ● BUILDING (vincenzo-afk pushed 2h ago)
 
 PRIMARY ........... AI Systems
 ACTIVE ............ Full Stack Engineering
@@ -65,11 +65,11 @@ Live language mix behind this tree (real repo data, Sep 2026): **TypeScript 28 �
 |---|---|---|
 | Public repositories | **97** | `api.github.com/users/vincenzo-afk` |
 | Stars earned | **2,275** | sum of `stargazers_count` over all repos |
-| Contributions (1y) | **2,252** | public contribution graph (parsed, no auth) |
-| Followers / Following | **115 / 95** | user profile |
+| Contributions (1y) | **2,254** | public contribution graph (parsed, no auth) |
+| Followers / Following | **115 / 96** | user profile |
 | Forks | **11** | sum of `forks_count` |
-| Last push | **IRIS, 2h ago** | repos sorted by `pushed_at` |
-| Fresh builds | IRIS · vincenzo-afk · anthropic-sdk-python | last 3 pushes |
+| Last push | **vincenzo-afk, 2h ago** | repos sorted by `pushed_at` |
+| Fresh builds | vincenzo-afk · CypherID · IRIS | last 3 pushes |
 
 Regenerated every 6h by `.github/workflows/update-profile.yml`. If the API is unreachable the cards show the last known state instead of an error.
 <!-- /OS:telemetry-table -->
@@ -84,13 +84,13 @@ Regenerated every 6h by `.github/workflows/update-profile.yml`. If the API is un
 |---|---|---|---|
 | 001 | **DEVNEXUS** — AI-powered developer command center: GitHub context, progress narratives, smart TODOs, hackathon planning. | ● OPERATIONAL | [vincenzo-afk/DEVNEXUS](https://github.com/vincenzo-afk/DEVNEXUS) · 34★ · 16d ago |
 | 002 | **NEXUS-ENGINE** — Full-featured search engine in Rust — local filesystem + web crawl with BM25+PageRank ranking. | ● OPERATIONAL | [vincenzo-afk/NEXUS-ENGINE](https://github.com/vincenzo-afk/NEXUS-ENGINE) · 33★ · 27d ago |
-| 003 | **Zen-2** — 124M-parameter decoder-only LLM from scratch — RoPE, RMSNorm, SwiGLU, GQA, KV Cache, BPE. | ● RESEARCH | [vincenzo-afk/Zen-2](https://github.com/vincenzo-afk/Zen-2) · 32★ · 23d ago |
+| 003 | **Zen-2** — 124M-parameter decoder-only LLM from scratch — RoPE, RMSNorm, SwiGLU, GQA, KV Cache, BPE. | ● RESEARCH | [vincenzo-afk/Zen-2](https://github.com/vincenzo-afk/Zen-2) · 32★ · 24d ago |
 | 004 | **NOVA-exe** — Local-first desktop AI agent platform. Most recently pushed repo — under active construction. | ● BUILDING | [vincenzo-afk/NOVA-exe](https://github.com/vincenzo-afk/NOVA-exe) · 9★ · yesterday |
-| 005 | **Kernel-One** — Industrial AI operating environment — every AI action controlled, auditable, permission-aware. | ● BUILDING | [vincenzo-afk/Kernel-One](https://github.com/vincenzo-afk/Kernel-One) · 7★ · 19h ago |
-| 006 | **CypherID** — Blockchain-based secure platform for identity, access control, and digital asset management. | ● BUILDING | [vincenzo-afk/CypherID](https://github.com/vincenzo-afk/CypherID) · 7★ · 16h ago |
-| 007 | **WIFI-SENSE** — WiFi CSI-based human presence, occupancy, zone and activity detection dashboard. No cameras. | ● OPERATIONAL | [vincenzo-afk/WIFI-based-human-presence-detection-system](https://github.com/vincenzo-afk/WIFI-based-human-presence-detection-system) · 35★ · 26d ago |
-| 008 | **PrivatePulse-AI** — RAG-powered confidential document intelligence with grounded, cited answers. Hackathon-built. | ● OPERATIONAL | [vincenzo-afk/PrivatePulse-AI](https://github.com/vincenzo-afk/PrivatePulse-AI) · 33★ · 7h ago |
-| 009 | **browserbrain** — Browser-first local AI research workspace — on-device inference with free web grounding. | ● EXPERIMENTAL | [vincenzo-afk/browserbrain](https://github.com/vincenzo-afk/browserbrain) · 33★ · 5d ago |
+| 005 | **Kernel-One** — Industrial AI operating environment — every AI action controlled, auditable, permission-aware. | ● BUILDING | [vincenzo-afk/Kernel-One](https://github.com/vincenzo-afk/Kernel-One) · 7★ · yesterday |
+| 006 | **CypherID** — Blockchain-based secure platform for identity, access control, and digital asset management. | ● BUILDING | [vincenzo-afk/CypherID](https://github.com/vincenzo-afk/CypherID) · 7★ · 3h ago |
+| 007 | **WIFI-SENSE** — WiFi CSI-based human presence, occupancy, zone and activity detection dashboard. No cameras. | ● OPERATIONAL | [vincenzo-afk/WIFI-based-human-presence-detection-system](https://github.com/vincenzo-afk/WIFI-based-human-presence-detection-system) · 35★ · 27d ago |
+| 008 | **PrivatePulse-AI** — RAG-powered confidential document intelligence with grounded, cited answers. Hackathon-built. | ● OPERATIONAL | [vincenzo-afk/PrivatePulse-AI](https://github.com/vincenzo-afk/PrivatePulse-AI) · 33★ · 12h ago |
+| 009 | **browserbrain** — Browser-first local AI research workspace — on-device inference with free web grounding. | ● EXPERIMENTAL | [vincenzo-afk/browserbrain](https://github.com/vincenzo-afk/browserbrain) · 33★ · 6d ago |
 
 Progress bars are manual build estimates; stars + last-push are live from the API. Edit `data/projects.json` to change the manifest.
 <!-- /OS:missions-table -->
@@ -101,7 +101,7 @@ Progress bars are manual build estimates; stars + last-push are live from the AP
 [![live game — click for the real contribution graph](assets/contribution-game.svg)](https://github.com/vincenzo-afk)
 
 <!-- OS:season-note -->
-**🌌 NOW PLAYING: GALAXY** — fueled by **2,252 real contributions** across **132 active days**. Season rotates automatically every week: 🚀 SPACE MISSION → 🐍 SNAKE RUN → 👾 PAC-MAN → 🏎️ CODE RACING → 🌌 GALAXY. Next up: **🚀 SPACE MISSION**. The game changes; the grind data never lies.
+**🌌 NOW PLAYING: GALAXY** — fueled by **2,254 real contributions** across **132 active days**. Season rotates automatically every week: 🚀 SPACE MISSION → 🐍 SNAKE RUN → 👾 PAC-MAN → 🏎️ CODE RACING → 🌌 GALAXY. Next up: **🚀 SPACE MISSION**. The game changes; the grind data never lies.
 <!-- /OS:season-note -->
 
 ## 🎮 LEVEL SYSTEM *(custom profile gamification — not an official GitHub score)*
@@ -110,12 +110,12 @@ Progress bars are manual build estimates; stars + last-push are live from the AP
 ```text
 BK // LEVEL 8
 
-XP  ███████████████████░░░  86%  (9,427 XP)
+XP  ███████████████████░░░  86%  (9,429 XP)
 
 REPOS ×97 ............ +20 XP each
 STARS ×2,275 ......... +2 XP each
 FOLLOWERS ×115 ....... +5 XP each
-GRIND ×2,252 .... +1 XP each
+GRIND ×2,254 .... +1 XP each
 ```
 <!-- /OS:level -->
 
@@ -237,7 +237,7 @@ Every node links back to its mission row above — one engineering journey, not 
 └── 97 public repos, 2200+ stars — search engines in Rust, WiFi sensing, RAG, agent infrastructure
 
 NOW
-└── Building systems instead of demos — IRIS, vincenzo-afk, anthropic-sdk-python in active development
+└── Building systems instead of demos — vincenzo-afk, CypherID, IRIS in active development
 ```
 <!-- /OS:lore -->
 
