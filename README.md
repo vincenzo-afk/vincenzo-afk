@@ -37,7 +37,7 @@ CLASS ............. Full Stack Developer / AI Engineer
 SPECIALIZATION .... AI Systems · LLMs · Agents · Automation
 LOCATION .......... Tamil Nadu, India
 OBJECTIVE ......... Build useful systems beyond the demo.
-STATUS ............ ● BUILDING (PrivatePulse-AI pushed 24m ago)
+STATUS ............ ● BUILDING (vincenzo-afk pushed 34m ago)
 
 PRIMARY ........... AI Systems
 ACTIVE ............ Full Stack Engineering
@@ -65,11 +65,11 @@ Live language mix behind this tree (real repo data, Sep 2026): **TypeScript 28 �
 |---|---|---|
 | Public repositories | **97** | `api.github.com/users/vincenzo-afk` |
 | Stars earned | **2,275** | sum of `stargazers_count` over all repos |
-| Contributions (1y) | **2,250** | public contribution graph (parsed, no auth) |
+| Contributions (1y) | **2,251** | public contribution graph (parsed, no auth) |
 | Followers / Following | **115 / 95** | user profile |
 | Forks | **11** | sum of `forks_count` |
-| Last push | **PrivatePulse-AI, 24m ago** | repos sorted by `pushed_at` |
-| Fresh builds | PrivatePulse-AI · SocialGuard-RL · vincenzo-afk | last 3 pushes |
+| Last push | **vincenzo-afk, 34m ago** | repos sorted by `pushed_at` |
+| Fresh builds | vincenzo-afk · anthropic-sdk-python · PrivatePulse-AI | last 3 pushes |
 
 Regenerated every 6h by `.github/workflows/update-profile.yml`. If the API is unreachable the cards show the last known state instead of an error.
 <!-- /OS:telemetry-table -->
@@ -87,9 +87,9 @@ Regenerated every 6h by `.github/workflows/update-profile.yml`. If the API is un
 | 003 | **Zen-2** — 124M-parameter decoder-only LLM from scratch — RoPE, RMSNorm, SwiGLU, GQA, KV Cache, BPE. | ● RESEARCH | [vincenzo-afk/Zen-2](https://github.com/vincenzo-afk/Zen-2) · 32★ · 23d ago |
 | 004 | **NOVA-exe** — Local-first desktop AI agent platform. Most recently pushed repo — under active construction. | ● BUILDING | [vincenzo-afk/NOVA-exe](https://github.com/vincenzo-afk/NOVA-exe) · 9★ · yesterday |
 | 005 | **Kernel-One** — Industrial AI operating environment — every AI action controlled, auditable, permission-aware. | ● BUILDING | [vincenzo-afk/Kernel-One](https://github.com/vincenzo-afk/Kernel-One) · 7★ · 13h ago |
-| 006 | **CypherID** — Blockchain-based secure platform for identity, access control, and digital asset management. | ● BUILDING | [vincenzo-afk/CypherID](https://github.com/vincenzo-afk/CypherID) · 7★ · 9h ago |
+| 006 | **CypherID** — Blockchain-based secure platform for identity, access control, and digital asset management. | ● BUILDING | [vincenzo-afk/CypherID](https://github.com/vincenzo-afk/CypherID) · 7★ · 10h ago |
 | 007 | **WIFI-SENSE** — WiFi CSI-based human presence, occupancy, zone and activity detection dashboard. No cameras. | ● OPERATIONAL | [vincenzo-afk/WIFI-based-human-presence-detection-system](https://github.com/vincenzo-afk/WIFI-based-human-presence-detection-system) · 35★ · 26d ago |
-| 008 | **PrivatePulse-AI** — RAG-powered confidential document intelligence with grounded, cited answers. Hackathon-built. | ● OPERATIONAL | [vincenzo-afk/PrivatePulse-AI](https://github.com/vincenzo-afk/PrivatePulse-AI) · 33★ · 24m ago |
+| 008 | **PrivatePulse-AI** — RAG-powered confidential document intelligence with grounded, cited answers. Hackathon-built. | ● OPERATIONAL | [vincenzo-afk/PrivatePulse-AI](https://github.com/vincenzo-afk/PrivatePulse-AI) · 33★ · 1h ago |
 | 009 | **browserbrain** — Browser-first local AI research workspace — on-device inference with free web grounding. | ● EXPERIMENTAL | [vincenzo-afk/browserbrain](https://github.com/vincenzo-afk/browserbrain) · 33★ · 5d ago |
 
 Progress bars are manual build estimates; stars + last-push are live from the API. Edit `data/projects.json` to change the manifest.
@@ -101,7 +101,7 @@ Progress bars are manual build estimates; stars + last-push are live from the AP
 [![live game — click for the real contribution graph](assets/contribution-game.svg)](https://github.com/vincenzo-afk)
 
 <!-- OS:season-note -->
-**🌌 NOW PLAYING: GALAXY** — fueled by **2,250 real contributions** across **131 active days**. Season rotates automatically every week: 🚀 SPACE MISSION → 🐍 SNAKE RUN → 👾 PAC-MAN → 🏎️ CODE RACING → 🌌 GALAXY. Next up: **🚀 SPACE MISSION**. The game changes; the grind data never lies.
+**🌌 NOW PLAYING: GALAXY** — fueled by **2,251 real contributions** across **132 active days**. Season rotates automatically every week: 🚀 SPACE MISSION → 🐍 SNAKE RUN → 👾 PAC-MAN → 🏎️ CODE RACING → 🌌 GALAXY. Next up: **🚀 SPACE MISSION**. The game changes; the grind data never lies.
 <!-- /OS:season-note -->
 
 ## 🎮 LEVEL SYSTEM *(custom profile gamification — not an official GitHub score)*
@@ -110,12 +110,12 @@ Progress bars are manual build estimates; stars + last-push are live from the AP
 ```text
 BK // LEVEL 8
 
-XP  ███████████████████░░░  86%  (9,425 XP)
+XP  ███████████████████░░░  86%  (9,426 XP)
 
 REPOS ×97 ............ +20 XP each
 STARS ×2,275 ......... +2 XP each
 FOLLOWERS ×115 ....... +5 XP each
-GRIND ×2,250 .... +1 XP each
+GRIND ×2,251 .... +1 XP each
 ```
 <!-- /OS:level -->
 
@@ -237,7 +237,7 @@ Every node links back to its mission row above — one engineering journey, not 
 └── 97 public repos, 2200+ stars — search engines in Rust, WiFi sensing, RAG, agent infrastructure
 
 NOW
-└── Building systems instead of demos — PrivatePulse-AI, SocialGuard-RL, vincenzo-afk in active development
+└── Building systems instead of demos — vincenzo-afk, anthropic-sdk-python, PrivatePulse-AI in active development
 ```
 <!-- /OS:lore -->
 
@@ -304,7 +304,7 @@ Top repositories by stars (live, 2026-09-19) — click any row to warp in:
 |---|---|---|---|
 | [WIFI-based-human-presence-detection-system](https://github.com/vincenzo-afk/WIFI-based-human-presence-detection-system) | 35 | Python | Aug 23 |
 | [PORTFOLIO](https://github.com/vincenzo-afk/PORTFOLIO) | 35 | HTML | Aug 22 |
-| [vincenzo-afk](https://github.com/vincenzo-afk/vincenzo-afk) | 34 | JavaScript | Sep 18 |
+| [vincenzo-afk](https://github.com/vincenzo-afk/vincenzo-afk) | 34 | JavaScript | Sep 19 |
 | [KingstonConnect](https://github.com/vincenzo-afk/KingstonConnect) | 34 | TypeScript | Sep 10 |
 | [xithsense](https://github.com/vincenzo-afk/xithsense) | 34 | Python | Sep 03 |
 | [DEVNEXUS](https://github.com/vincenzo-afk/DEVNEXUS) | 34 | TypeScript | Sep 03 |
