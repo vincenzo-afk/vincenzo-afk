@@ -37,7 +37,7 @@ CLASS ............. Full Stack Developer / AI Engineer
 SPECIALIZATION .... AI Systems · LLMs · Agents · Automation
 LOCATION .......... Tamil Nadu, India
 OBJECTIVE ......... Build useful systems beyond the demo.
-STATUS ............ ● BUILDING (vincenzo-afk pushed 4h ago)
+STATUS ............ ● BUILDING (browserbrain pushed 1h ago)
 
 PRIMARY ........... AI Systems
 ACTIVE ............ Full Stack Engineering
@@ -61,15 +61,15 @@ Live language mix behind this tree (real repo data, Sep 2026): **TypeScript 29 �
 [![telemetry — click for live profile](assets/telemetry.svg)](https://github.com/vincenzo-afk)
 
 <!-- OS:telemetry-table -->
-| Metric | Live value (2026-09-20) | Source |
+| Metric | Live value (2026-09-21) | Source |
 |---|---|---|
 | Public repositories | **99** | `api.github.com/users/vincenzo-afk` |
 | Stars earned | **2,282** | sum of `stargazers_count` over all repos |
-| Contributions (1y) | **2,477** | public contribution graph (parsed, no auth) |
-| Followers / Following | **119 / 98** | user profile |
+| Contributions (1y) | **2,479** | public contribution graph (parsed, no auth) |
+| Followers / Following | **120 / 99** | user profile |
 | Forks | **11** | sum of `forks_count` |
-| Last push | **vincenzo-afk, 4h ago** | repos sorted by `pushed_at` |
-| Fresh builds | vincenzo-afk · see · Medibook | last 3 pushes |
+| Last push | **browserbrain, 1h ago** | repos sorted by `pushed_at` |
+| Fresh builds | browserbrain · vincenzo-afk · see | last 3 pushes |
 
 Regenerated every 6h by `.github/workflows/update-profile.yml`. If the API is unreachable the cards show the last known state instead of an error.
 <!-- /OS:telemetry-table -->
@@ -85,12 +85,12 @@ Regenerated every 6h by `.github/workflows/update-profile.yml`. If the API is un
 | 001 | **DEVNEXUS** — AI-powered developer command center: GitHub context, progress narratives, smart TODOs, hackathon planning. | ● OPERATIONAL | [vincenzo-afk/DEVNEXUS](https://github.com/vincenzo-afk/DEVNEXUS) · 34★ · 17d ago |
 | 002 | **NEXUS-ENGINE** — Full-featured search engine in Rust — local filesystem + web crawl with BM25+PageRank ranking. | ● OPERATIONAL | [vincenzo-afk/NEXUS-ENGINE](https://github.com/vincenzo-afk/NEXUS-ENGINE) · 33★ · 28d ago |
 | 003 | **Zen-2** — 124M-parameter decoder-only LLM from scratch — RoPE, RMSNorm, SwiGLU, GQA, KV Cache, BPE. | ● RESEARCH | [vincenzo-afk/Zen-2](https://github.com/vincenzo-afk/Zen-2) · 32★ · 25d ago |
-| 004 | **NOVA-exe** — Local-first desktop AI agent platform. Most recently pushed repo — under active construction. | ● BUILDING | [vincenzo-afk/NOVA-exe](https://github.com/vincenzo-afk/NOVA-exe) · 9★ · 2d ago |
+| 004 | **NOVA-exe** — Local-first desktop AI agent platform. Most recently pushed repo — under active construction. | ● BUILDING | [vincenzo-afk/NOVA-exe](https://github.com/vincenzo-afk/NOVA-exe) · 9★ · 3d ago |
 | 005 | **Kernel-One** — Industrial AI operating environment — every AI action controlled, auditable, permission-aware. | ● BUILDING | [vincenzo-afk/Kernel-One](https://github.com/vincenzo-afk/Kernel-One) · 7★ · 2d ago |
 | 006 | **CypherID** — Blockchain-based secure platform for identity, access control, and digital asset management. | ● BUILDING | [vincenzo-afk/CypherID](https://github.com/vincenzo-afk/CypherID) · 8★ · yesterday |
 | 007 | **WIFI-SENSE** — WiFi CSI-based human presence, occupancy, zone and activity detection dashboard. No cameras. | ● OPERATIONAL | [vincenzo-afk/WIFI-based-human-presence-detection-system](https://github.com/vincenzo-afk/WIFI-based-human-presence-detection-system) · 35★ · 28d ago |
-| 008 | **PrivatePulse-AI** — RAG-powered confidential document intelligence with grounded, cited answers. Hackathon-built. | ● OPERATIONAL | [vincenzo-afk/PrivatePulse-AI](https://github.com/vincenzo-afk/PrivatePulse-AI) · 33★ · yesterday |
-| 009 | **browserbrain** — Browser-first local AI research workspace — on-device inference with free web grounding. | ● EXPERIMENTAL | [vincenzo-afk/browserbrain](https://github.com/vincenzo-afk/browserbrain) · 33★ · 7d ago |
+| 008 | **PrivatePulse-AI** — RAG-powered confidential document intelligence with grounded, cited answers. Hackathon-built. | ● OPERATIONAL | [vincenzo-afk/PrivatePulse-AI](https://github.com/vincenzo-afk/PrivatePulse-AI) · 33★ · 2d ago |
+| 009 | **browserbrain** — Browser-first local AI research workspace — on-device inference with free web grounding. | ● EXPERIMENTAL | [vincenzo-afk/browserbrain](https://github.com/vincenzo-afk/browserbrain) · 33★ · 1h ago |
 
 Progress bars are manual build estimates; stars + last-push are live from the API. Edit `data/projects.json` to change the manifest.
 <!-- /OS:missions-table -->
@@ -101,7 +101,7 @@ Progress bars are manual build estimates; stars + last-push are live from the AP
 [![live game — click for the real contribution graph](assets/contribution-game.svg)](https://github.com/vincenzo-afk)
 
 <!-- OS:season-note -->
-**🌌 NOW PLAYING: GALAXY** — fueled by **2,477 real contributions** across **132 active days**. Season rotates automatically every week: 🚀 SPACE MISSION → 🐍 SNAKE RUN → 👾 PAC-MAN → 🏎️ CODE RACING → 🌌 GALAXY. Next up: **🚀 SPACE MISSION**. The game changes; the grind data never lies.
+**🌌 NOW PLAYING: GALAXY** — fueled by **2,479 real contributions** across **133 active days**. Season rotates automatically every week: 🚀 SPACE MISSION → 🐍 SNAKE RUN → 👾 PAC-MAN → 🏎️ CODE RACING → 🌌 GALAXY. Next up: **🚀 SPACE MISSION**. The game changes; the grind data never lies.
 <!-- /OS:season-note -->
 
 ## 🎮 LEVEL SYSTEM *(custom profile gamification — not an official GitHub score)*
@@ -110,12 +110,12 @@ Progress bars are manual build estimates; stars + last-push are live from the AP
 ```text
 BK // LEVEL 9
 
-XP  ░░░░░░░░░░░░░░░░░░░░░░  1%  (9,726 XP)
+XP  ░░░░░░░░░░░░░░░░░░░░░░  1%  (9,733 XP)
 
 REPOS ×99 ............ +20 XP each
 STARS ×2,282 ......... +2 XP each
-FOLLOWERS ×119 ....... +5 XP each
-GRIND ×2,477 .... +1 XP each
+FOLLOWERS ×120 ....... +5 XP each
+GRIND ×2,479 .... +1 XP each
 ```
 <!-- /OS:level -->
 
@@ -169,13 +169,13 @@ Real public events, refreshed by the pipeline (`data/transmissions.json`):
 
 <!-- OS:transmissions -->
 ```text
+02:13  deleted branch in browserbrain
+01:31  pushed to browserbrain
+01:31  merged PR #4 in browserbrain
+01:31  opened PR #4 in browserbrain
+01:30  created branch in browserbrain
 05:26  pushed to see
 09:12  pushed to see
-00:35  pushed to Medibook
-02:50  pushed to see
-01:58  starred see
-01:36  pushed to Medibook
-01:08  created branch in see
 ```
 <!-- /OS:transmissions -->
 
@@ -193,7 +193,7 @@ Real public events, refreshed by the pipeline (`data/transmissions.json`):
 │ Kernel-One        ● DEVELOPMENT     │
 │ CypherID          ● DEVELOPMENT     │
 │                                     │
-│ LAST SYNC         2026-09-20 UTC    │
+│ LAST SYNC         2026-09-21 UTC    │
 └─────────────────────────────────────┘
 ```
 
@@ -237,7 +237,7 @@ Every node links back to its mission row above — one engineering journey, not 
 └── 99 public repos, 2200+ stars — search engines in Rust, WiFi sensing, RAG, agent infrastructure
 
 NOW
-└── Building systems instead of demos — vincenzo-afk, see, Medibook in active development
+└── Building systems instead of demos — browserbrain, vincenzo-afk, see in active development
 ```
 <!-- /OS:lore -->
 
@@ -298,7 +298,7 @@ SIDE QUESTS
 ## 📊 DEVELOPER TELEMETRY
 
 <!-- OS:top-repos -->
-Top repositories by stars (live, 2026-09-20) — click any row to warp in:
+Top repositories by stars (live, 2026-09-21) — click any row to warp in:
 
 | Repo | ★ | Lang | Last push |
 |---|---|---|---|
@@ -308,7 +308,7 @@ Top repositories by stars (live, 2026-09-20) — click any row to warp in:
 | [KingstonConnect](https://github.com/vincenzo-afk/KingstonConnect) | 34 | TypeScript | Sep 10 |
 | [xithsense](https://github.com/vincenzo-afk/xithsense) | 34 | Python | Sep 03 |
 | [DEVNEXUS](https://github.com/vincenzo-afk/DEVNEXUS) | 34 | TypeScript | Sep 03 |
-| [PrivatePulse-AI](https://github.com/vincenzo-afk/PrivatePulse-AI) | 33 | TypeScript | Sep 19 |
+| [browserbrain](https://github.com/vincenzo-afk/browserbrain) | 33 | TypeScript | Sep 21 |
 <!-- /OS:top-repos -->
 
 <details>
@@ -343,8 +343,8 @@ Something better was installed.
 <!-- OS:footer -->
 ```
 ────────────────────────────────────────
-BK.DEV SYSTEM · VERSION 26.09.20
-LAST SYNCHRONIZED 2026-09-20 UTC · SOURCE api.github.com/users/vincenzo-afk
+BK.DEV SYSTEM · VERSION 26.09.21
+LAST SYNCHRONIZED 2026-09-21 UTC · SOURCE api.github.com/users/vincenzo-afk
 Built with: GitHub API · GitHub Actions · Node · SVG · SMIL
 [ SOURCE ] [ PROJECTS ] [ CONTACT: itsmebk2007@gmail.com ]
 ────────────────────────────────────────
