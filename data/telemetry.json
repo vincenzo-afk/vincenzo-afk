@@ -3,8 +3,8 @@
   "created": "2025-09-19T10:45:52Z",
   "repos": 99,
   "followers": 127,
-  "following": 103,
-  "stars": 2752,
+  "following": 102,
+  "stars": 2783,
   "forks": 12,
   "langs": {
     "JavaScript": 26,
@@ -18,7 +18,7 @@
     "Kotlin": 2
   },
   "cal": {
-    "total": 2500,
+    "total": 2501,
     "days": [
       {
         "d": "2025-09-21",
@@ -1343,7 +1343,7 @@
       {
         "d": "2026-09-24",
         "l": 1,
-        "c": 1
+        "c": 2
       },
       {
         "d": "2025-09-26",
@@ -1869,6 +1869,41 @@
   },
   "top": [
     {
+      "name": "vincenzo-afk",
+      "stars": 38,
+      "forks": 0,
+      "lang": "JavaScript",
+      "pushed": "2026-09-24T04:42:24Z"
+    },
+    {
+      "name": "PrivatePulse-AI",
+      "stars": 38,
+      "forks": 0,
+      "lang": "TypeScript",
+      "pushed": "2026-09-19T03:19:38Z"
+    },
+    {
+      "name": "KingstonConnect",
+      "stars": 38,
+      "forks": 0,
+      "lang": "TypeScript",
+      "pushed": "2026-09-10T00:23:23Z"
+    },
+    {
+      "name": "xithsense",
+      "stars": 38,
+      "forks": 0,
+      "lang": "Python",
+      "pushed": "2026-09-03T22:44:08Z"
+    },
+    {
+      "name": "DEVNEXUS",
+      "stars": 38,
+      "forks": 0,
+      "lang": "TypeScript",
+      "pushed": "2026-09-03T09:44:51Z"
+    },
+    {
       "name": "WIFI-based-human-presence-detection-system",
       "stars": 38,
       "forks": 2,
@@ -1881,47 +1916,12 @@
       "forks": 0,
       "lang": "HTML",
       "pushed": "2026-08-22T02:00:53Z"
-    },
-    {
-      "name": "vincenzo-afk",
-      "stars": 37,
-      "forks": 0,
-      "lang": "JavaScript",
-      "pushed": "2026-09-24T04:01:54Z"
-    },
-    {
-      "name": "PrivatePulse-AI",
-      "stars": 37,
-      "forks": 0,
-      "lang": "TypeScript",
-      "pushed": "2026-09-19T03:19:38Z"
-    },
-    {
-      "name": "KingstonConnect",
-      "stars": 37,
-      "forks": 0,
-      "lang": "TypeScript",
-      "pushed": "2026-09-10T00:23:23Z"
-    },
-    {
-      "name": "xithsense",
-      "stars": 37,
-      "forks": 0,
-      "lang": "Python",
-      "pushed": "2026-09-03T22:44:08Z"
-    },
-    {
-      "name": "DEVNEXUS",
-      "stars": 37,
-      "forks": 0,
-      "lang": "TypeScript",
-      "pushed": "2026-09-03T09:44:51Z"
     }
   ],
   "fresh": [
     {
       "name": "vincenzo-afk",
-      "pushed": "2026-09-24T04:01:54Z",
+      "pushed": "2026-09-24T04:42:24Z",
       "lang": "JavaScript"
     },
     {
@@ -1945,12 +1945,12 @@
       "lang": "TypeScript"
     }
   ],
-  "lastPush": "2026-09-24T04:01:54Z",
-  "fetchedAt": "2026-09-24T04:42:22.277Z",
+  "lastPush": "2026-09-24T04:42:24Z",
+  "fetchedAt": "2026-09-24T11:19:18.234Z",
   "live": true,
-  "xp": 10739,
+  "xp": 10802,
   "level": 9,
-  "xpPct": 45,
+  "xpPct": 47,
   "transmissions": [
     {
       "t": "12:05",
