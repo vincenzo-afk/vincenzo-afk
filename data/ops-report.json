@@ -1,11 +1,11 @@
 {
-  "checkedAt": "2026-09-24T13:55:39.848Z",
-  "day": "2026-09-24",
+  "checkedAt": "2026-09-25T14:19:41.719Z",
+  "day": "2026-09-25",
   "blog": {
     "url": "https://vincenzo-afk.vercel.app/",
     "ok": true,
     "http": 200,
-    "ms": 361,
+    "ms": 175,
     "error": null
   },
   "summary": {
@@ -24,7 +24,7 @@
       "lastPush": "2026-09-03",
       "openIssues": 1,
       "archived": false,
-      "ms": 281,
+      "ms": 322,
       "note": null
     },
     {
@@ -36,7 +36,7 @@
       "lastPush": "2026-08-23",
       "openIssues": 0,
       "archived": false,
-      "ms": 223,
+      "ms": 244,
       "note": null
     },
     {
@@ -48,7 +48,7 @@
       "lastPush": "2026-08-26",
       "openIssues": 0,
       "archived": false,
-      "ms": 238,
+      "ms": 243,
       "note": null
     },
     {
@@ -60,7 +60,7 @@
       "lastPush": "2026-09-17",
       "openIssues": 0,
       "archived": false,
-      "ms": 388,
+      "ms": 248,
       "note": null
     },
     {
@@ -72,7 +72,7 @@
       "lastPush": "2026-09-18",
       "openIssues": 0,
       "archived": false,
-      "ms": 218,
+      "ms": 217,
       "note": null
     },
     {
@@ -84,7 +84,7 @@
       "lastPush": "2026-09-19",
       "openIssues": 0,
       "archived": false,
-      "ms": 279,
+      "ms": 310,
       "note": null
     },
     {
@@ -96,7 +96,7 @@
       "lastPush": "2026-08-23",
       "openIssues": 0,
       "archived": false,
-      "ms": 249,
+      "ms": 291,
       "note": null
     },
     {
@@ -108,7 +108,7 @@
       "lastPush": "2026-09-19",
       "openIssues": 2,
       "archived": false,
-      "ms": 230,
+      "ms": 264,
       "note": null
     },
     {
@@ -120,7 +120,7 @@
       "lastPush": "2026-09-21",
       "openIssues": 0,
       "archived": false,
-      "ms": 236,
+      "ms": 200,
       "note": null
     }
   ]
