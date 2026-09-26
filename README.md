@@ -37,7 +37,7 @@ CLASS ............. Full Stack Developer / AI Engineer
 SPECIALIZATION .... AI Systems · LLMs · Agents · Automation
 LOCATION .......... Tamil Nadu, India
 OBJECTIVE ......... Build useful systems beyond the demo.
-STATUS ............ ● BUILDING (vincenzo-afk pushed 2h ago)
+STATUS ............ ● BUILDING (Vernacular pushed 4h ago)
 
 PRIMARY ........... AI Systems
 ACTIVE ............ Full Stack Engineering
@@ -65,11 +65,11 @@ Live language mix behind this tree (real repo data, Sep 2026): **TypeScript 29 �
 |---|---|---|
 | Public repositories | **100** | `api.github.com/users/vincenzo-afk` |
 | Stars earned | **2,785** | sum of `stargazers_count` over all repos |
-| Contributions (1y) | **2,527** | public contribution graph (parsed, no auth) |
-| Followers / Following | **130 / 105** | user profile |
+| Contributions (1y) | **2,538** | public contribution graph (parsed, no auth) |
+| Followers / Following | **131 / 106** | user profile |
 | Forks | **12** | sum of `forks_count` |
-| Last push | **vincenzo-afk, 2h ago** | repos sorted by `pushed_at` |
-| Fresh builds | vincenzo-afk · Vernacular · AgentWeb | last 3 pushes |
+| Last push | **Vernacular, 4h ago** | repos sorted by `pushed_at` |
+| Fresh builds | Vernacular · vincenzo-afk · AgentWeb | last 3 pushes |
 
 Regenerated every 6h by `.github/workflows/update-profile.yml`. If the API is unreachable the cards show the last known state instead of an error.
 <!-- /OS:telemetry-table -->
@@ -101,7 +101,7 @@ Progress bars are manual build estimates; stars + last-push are live from the AP
 [![live game — click for the real contribution graph](assets/contribution-game.svg)](https://github.com/vincenzo-afk)
 
 <!-- OS:season-note -->
-**🚀 NOW PLAYING: SPACE MISSION** — fueled by **2,527 real contributions** across **137 active days**. Season rotates automatically every week: 🚀 SPACE MISSION → 🐍 SNAKE RUN → 👾 PAC-MAN → 🏎️ CODE RACING → 🌌 GALAXY. Next up: **🐍 SNAKE RUN**. The game changes; the grind data never lies.
+**🚀 NOW PLAYING: SPACE MISSION** — fueled by **2,538 real contributions** across **137 active days**. Season rotates automatically every week: 🚀 SPACE MISSION → 🐍 SNAKE RUN → 👾 PAC-MAN → 🏎️ CODE RACING → 🌌 GALAXY. Next up: **🐍 SNAKE RUN**. The game changes; the grind data never lies.
 <!-- /OS:season-note -->
 
 ## 🎮 LEVEL SYSTEM *(custom profile gamification — not an official GitHub score)*
@@ -110,12 +110,12 @@ Progress bars are manual build estimates; stars + last-push are live from the AP
 ```text
 BK // LEVEL 9
 
-XP  ███████████░░░░░░░░░░░  50%  (10,867 XP)
+XP  ███████████░░░░░░░░░░░  51%  (10,883 XP)
 
 REPOS ×100 ............ +20 XP each
 STARS ×2,785 ......... +2 XP each
-FOLLOWERS ×130 ....... +5 XP each
-GRIND ×2,527 .... +1 XP each
+FOLLOWERS ×131 ....... +5 XP each
+GRIND ×2,538 .... +1 XP each
 ```
 <!-- /OS:level -->
 
@@ -237,7 +237,7 @@ Every node links back to its mission row above — one engineering journey, not 
 └── 100 public repos, 2700+ stars — search engines in Rust, WiFi sensing, RAG, agent infrastructure
 
 NOW
-└── Building systems instead of demos — vincenzo-afk, Vernacular, AgentWeb in active development
+└── Building systems instead of demos — Vernacular, vincenzo-afk, AgentWeb in active development
 ```
 <!-- /OS:lore -->
 
