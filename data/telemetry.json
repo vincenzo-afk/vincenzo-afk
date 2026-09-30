@@ -4,7 +4,7 @@
   "repos": 100,
   "followers": 130,
   "following": 106,
-  "stars": 2785,
+  "stars": 2786,
   "forks": 13,
   "langs": {
     "JavaScript": 26,
@@ -18,7 +18,7 @@
     "Kotlin": 2
   },
   "cal": {
-    "total": 2620,
+    "total": 2621,
     "days": [
       {
         "d": "2025-09-28",
@@ -813,7 +813,7 @@
       {
         "d": "2026-09-29",
         "l": 1,
-        "c": 4
+        "c": 5
       },
       {
         "d": "2025-10-01",
@@ -1074,6 +1074,11 @@
         "d": "2026-09-23",
         "l": 1,
         "c": 6
+      },
+      {
+        "d": "2026-09-30",
+        "l": 0,
+        "c": 0
       },
       {
         "d": "2025-10-02",
@@ -1859,11 +1864,18 @@
   },
   "top": [
     {
+      "name": "WIFI-based-human-presence-detection-system",
+      "stars": 39,
+      "forks": 2,
+      "lang": "Python",
+      "pushed": "2026-08-23T14:34:47Z"
+    },
+    {
       "name": "vincenzo-afk",
       "stars": 38,
       "forks": 0,
       "lang": "JavaScript",
-      "pushed": "2026-09-29T17:54:30Z"
+      "pushed": "2026-09-29T21:59:54Z"
     },
     {
       "name": "PrivatePulse-AI",
@@ -1894,13 +1906,6 @@
       "pushed": "2026-09-03T09:44:51Z"
     },
     {
-      "name": "WIFI-based-human-presence-detection-system",
-      "stars": 38,
-      "forks": 2,
-      "lang": "Python",
-      "pushed": "2026-08-23T14:34:47Z"
-    },
-    {
       "name": "PORTFOLIO",
       "stars": 38,
       "forks": 0,
@@ -1911,7 +1916,7 @@
   "fresh": [
     {
       "name": "vincenzo-afk",
-      "pushed": "2026-09-29T17:54:30Z",
+      "pushed": "2026-09-29T21:59:54Z",
       "lang": "JavaScript"
     },
     {
@@ -1935,10 +1940,10 @@
       "lang": "TypeScript"
     }
   ],
-  "lastPush": "2026-09-29T17:54:30Z",
-  "fetchedAt": "2026-09-29T21:59:51.733Z",
+  "lastPush": "2026-09-29T21:59:54Z",
+  "fetchedAt": "2026-09-30T04:37:10.508Z",
   "live": true,
-  "xp": 10970,
+  "xp": 10973,
   "level": 9,
   "xpPct": 55,
   "transmissions": [
