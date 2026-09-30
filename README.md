@@ -37,7 +37,7 @@ CLASS ............. Full Stack Developer / AI Engineer
 SPECIALIZATION .... AI Systems · LLMs · Agents · Automation
 LOCATION .......... Tamil Nadu, India
 OBJECTIVE ......... Build useful systems beyond the demo.
-STATUS ............ ● BUILDING (vincenzo-afk pushed 6h ago)
+STATUS ............ ● BUILDING (vincenzo-afk pushed 33m ago)
 
 PRIMARY ........... AI Systems
 ACTIVE ............ Full Stack Engineering
@@ -68,7 +68,7 @@ Live language mix behind this tree (real repo data, Sep 2026): **TypeScript 29 �
 | Contributions (1y) | **2,621** | public contribution graph (parsed, no auth) |
 | Followers / Following | **130 / 106** | user profile |
 | Forks | **13** | sum of `forks_count` |
-| Last push | **vincenzo-afk, 6h ago** | repos sorted by `pushed_at` |
+| Last push | **vincenzo-afk, 33m ago** | repos sorted by `pushed_at` |
 | Fresh builds | vincenzo-afk · Vernacular · AgentWeb | last 3 pushes |
 
 Regenerated every 6h by `.github/workflows/update-profile.yml`. If the API is unreachable the cards show the last known state instead of an error.
@@ -303,7 +303,7 @@ Top repositories by stars (live, 2026-09-30) — click any row to warp in:
 | Repo | ★ | Lang | Last push |
 |---|---|---|---|
 | [WIFI-based-human-presence-detection-system](https://github.com/vincenzo-afk/WIFI-based-human-presence-detection-system) | 39 | Python | Aug 23 |
-| [vincenzo-afk](https://github.com/vincenzo-afk/vincenzo-afk) | 38 | JavaScript | Sep 29 |
+| [vincenzo-afk](https://github.com/vincenzo-afk/vincenzo-afk) | 38 | JavaScript | Sep 30 |
 | [PrivatePulse-AI](https://github.com/vincenzo-afk/PrivatePulse-AI) | 38 | TypeScript | Sep 19 |
 | [KingstonConnect](https://github.com/vincenzo-afk/KingstonConnect) | 38 | TypeScript | Sep 10 |
 | [xithsense](https://github.com/vincenzo-afk/xithsense) | 38 | Python | Sep 03 |
