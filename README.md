@@ -37,7 +37,7 @@ CLASS ............. Full Stack Developer / AI Engineer
 SPECIALIZATION .... AI Systems · LLMs · Agents · Automation
 LOCATION .......... Tamil Nadu, India
 OBJECTIVE ......... Build useful systems beyond the demo.
-STATUS ............ ● BUILDING (vincenzo-afk pushed 5h ago)
+STATUS ............ ● BUILDING (vincenzo-afk pushed 31m ago)
 
 PRIMARY ........... AI Systems
 ACTIVE ............ Full Stack Engineering
@@ -65,10 +65,10 @@ Live language mix behind this tree (real repo data, Oct 2026): **TypeScript 29 �
 |---|---|---|
 | Public repositories | **102** | `api.github.com/users/vincenzo-afk` |
 | Stars earned | **3,016** | sum of `stargazers_count` over all repos |
-| Contributions (1y) | **2,727** | public contribution graph (parsed, no auth) |
+| Contributions (1y) | **2,728** | public contribution graph (parsed, no auth) |
 | Followers / Following | **131 / 109** | user profile |
 | Forks | **14** | sum of `forks_count` |
-| Last push | **vincenzo-afk, 5h ago** | repos sorted by `pushed_at` |
+| Last push | **vincenzo-afk, 31m ago** | repos sorted by `pushed_at` |
 | Fresh builds | vincenzo-afk · pytest · browserbrain | last 3 pushes |
 
 Regenerated every 6h by `.github/workflows/update-profile.yml`. If the API is unreachable the cards show the last known state instead of an error.
@@ -101,7 +101,7 @@ Progress bars are manual build estimates; stars + last-push are live from the AP
 [![live game — click for the real contribution graph](assets/contribution-game.svg)](https://github.com/vincenzo-afk)
 
 <!-- OS:season-note -->
-**🐍 NOW PLAYING: SNAKE RUN** — fueled by **2,727 real contributions** across **146 active days**. Season rotates automatically every week: 🚀 SPACE MISSION → 🐍 SNAKE RUN → 👾 PAC-MAN → 🏎️ CODE RACING → 🌌 GALAXY. Next up: **👾 PAC-MAN**. The game changes; the grind data never lies.
+**🐍 NOW PLAYING: SNAKE RUN** — fueled by **2,728 real contributions** across **147 active days**. Season rotates automatically every week: 🚀 SPACE MISSION → 🐍 SNAKE RUN → 👾 PAC-MAN → 🏎️ CODE RACING → 🌌 GALAXY. Next up: **👾 PAC-MAN**. The game changes; the grind data never lies.
 <!-- /OS:season-note -->
 
 ## 🎮 LEVEL SYSTEM *(custom profile gamification — not an official GitHub score)*
@@ -110,12 +110,12 @@ Progress bars are manual build estimates; stars + last-push are live from the AP
 ```text
 BK // LEVEL 9
 
-XP  ██████████████████░░░░  82%  (11,594 XP)
+XP  ██████████████████░░░░  82%  (11,595 XP)
 
 REPOS ×102 ............ +20 XP each
 STARS ×3,016 ......... +2 XP each
 FOLLOWERS ×131 ....... +5 XP each
-GRIND ×2,727 .... +1 XP each
+GRIND ×2,728 .... +1 XP each
 ```
 <!-- /OS:level -->
 
@@ -304,7 +304,7 @@ Top repositories by stars (live, 2026-10-06) — click any row to warp in:
 |---|---|---|---|
 | [KingstonConnect](https://github.com/vincenzo-afk/KingstonConnect) | 40 | TypeScript | Sep 10 |
 | [WIFI-based-human-presence-detection-system](https://github.com/vincenzo-afk/WIFI-based-human-presence-detection-system) | 40 | Python | Aug 23 |
-| [vincenzo-afk](https://github.com/vincenzo-afk/vincenzo-afk) | 39 | JavaScript | Oct 05 |
+| [vincenzo-afk](https://github.com/vincenzo-afk/vincenzo-afk) | 39 | JavaScript | Oct 06 |
 | [PrivatePulse-AI](https://github.com/vincenzo-afk/PrivatePulse-AI) | 39 | TypeScript | Sep 19 |
 | [xithsense](https://github.com/vincenzo-afk/xithsense) | 39 | Python | Sep 03 |
 | [DEVNEXUS](https://github.com/vincenzo-afk/DEVNEXUS) | 39 | TypeScript | Sep 03 |
