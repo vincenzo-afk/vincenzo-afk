@@ -37,7 +37,7 @@ CLASS ............. Full Stack Developer / AI Engineer
 SPECIALIZATION .... AI Systems · LLMs · Agents · Automation
 LOCATION .......... Tamil Nadu, India
 OBJECTIVE ......... Build useful systems beyond the demo.
-STATUS ............ ● BUILDING (pytest pushed 1h ago)
+STATUS ............ ● BUILDING (crewplane pushed 3h ago)
 
 PRIMARY ........... AI Systems
 ACTIVE ............ Full Stack Engineering
@@ -64,12 +64,12 @@ Live language mix behind this tree (real repo data, Oct 2026): **TypeScript 29 �
 | Metric | Live value (2026-10-09) | Source |
 |---|---|---|
 | Public repositories | **103** | `api.github.com/users/vincenzo-afk` |
-| Stars earned | **3,062** | sum of `stargazers_count` over all repos |
-| Contributions (1y) | **2,753** | public contribution graph (parsed, no auth) |
-| Followers / Following | **129 / 105** | user profile |
+| Stars earned | **3,063** | sum of `stargazers_count` over all repos |
+| Contributions (1y) | **2,755** | public contribution graph (parsed, no auth) |
+| Followers / Following | **130 / 105** | user profile |
 | Forks | **14** | sum of `forks_count` |
-| Last push | **pytest, 1h ago** | repos sorted by `pushed_at` |
-| Fresh builds | pytest · vincenzo-afk · Medibook | last 3 pushes |
+| Last push | **crewplane, 3h ago** | repos sorted by `pushed_at` |
+| Fresh builds | crewplane · vincenzo-afk · pytest | last 3 pushes |
 
 Regenerated every 6h by `.github/workflows/update-profile.yml`. If the API is unreachable the cards show the last known state instead of an error.
 <!-- /OS:telemetry-table -->
@@ -86,11 +86,11 @@ Regenerated every 6h by `.github/workflows/update-profile.yml`. If the API is un
 | 002 | **NEXUS-ENGINE** — Full-featured search engine in Rust — local filesystem + web crawl with BM25+PageRank ranking. | ● OPERATIONAL | [vincenzo-afk/NEXUS-ENGINE](https://github.com/vincenzo-afk/NEXUS-ENGINE) · 37★ · 1mo ago |
 | 003 | **Zen-2** — 124M-parameter decoder-only LLM from scratch — RoPE, RMSNorm, SwiGLU, GQA, KV Cache, BPE. | ● RESEARCH | [vincenzo-afk/Zen-2](https://github.com/vincenzo-afk/Zen-2) · 36★ · 1mo ago |
 | 004 | **NOVA-exe** — Local-first desktop AI agent platform. Most recently pushed repo — under active construction. | ● BUILDING | [vincenzo-afk/NOVA-exe](https://github.com/vincenzo-afk/NOVA-exe) · 22★ · 6d ago |
-| 005 | **Kernel-One** — Industrial AI operating environment — every AI action controlled, auditable, permission-aware. | ● BUILDING | [vincenzo-afk/Kernel-One](https://github.com/vincenzo-afk/Kernel-One) · 22★ · 20d ago |
+| 005 | **Kernel-One** — Industrial AI operating environment — every AI action controlled, auditable, permission-aware. | ● BUILDING | [vincenzo-afk/Kernel-One](https://github.com/vincenzo-afk/Kernel-One) · 22★ · 21d ago |
 | 006 | **CypherID** — Blockchain-based secure platform for identity, access control, and digital asset management. | ● BUILDING | [vincenzo-afk/CypherID](https://github.com/vincenzo-afk/CypherID) · 24★ · 20d ago |
 | 007 | **WIFI-SENSE** — WiFi CSI-based human presence, occupancy, zone and activity detection dashboard. No cameras. | ● OPERATIONAL | [vincenzo-afk/WIFI-based-human-presence-detection-system](https://github.com/vincenzo-afk/WIFI-based-human-presence-detection-system) · 40★ · 1mo ago |
 | 008 | **PrivatePulse-AI** — RAG-powered confidential document intelligence with grounded, cited answers. Hackathon-built. | ● OPERATIONAL | [vincenzo-afk/PrivatePulse-AI](https://github.com/vincenzo-afk/PrivatePulse-AI) · 39★ · 20d ago |
-| 009 | **browserbrain** — Browser-first local AI research workspace — on-device inference with free web grounding. | ● EXPERIMENTAL | [vincenzo-afk/browserbrain](https://github.com/vincenzo-afk/browserbrain) · 38★ · 3d ago |
+| 009 | **browserbrain** — Browser-first local AI research workspace — on-device inference with free web grounding. | ● EXPERIMENTAL | [vincenzo-afk/browserbrain](https://github.com/vincenzo-afk/browserbrain) · 38★ · 4d ago |
 
 Progress bars are manual build estimates; stars + last-push are live from the API. Edit `data/projects.json` to change the manifest.
 <!-- /OS:missions-table -->
@@ -101,7 +101,7 @@ Progress bars are manual build estimates; stars + last-push are live from the AP
 [![live game — click for the real contribution graph](assets/contribution-game.svg)](https://github.com/vincenzo-afk)
 
 <!-- OS:season-note -->
-**👾 NOW PLAYING: PAC-MAN** — fueled by **2,753 real contributions** across **150 active days**. Season rotates automatically every week: 🚀 SPACE MISSION → 🐍 SNAKE RUN → 👾 PAC-MAN → 🏎️ CODE RACING → 🌌 GALAXY. Next up: **🏎️ CODE RACING**. The game changes; the grind data never lies.
+**👾 NOW PLAYING: PAC-MAN** — fueled by **2,755 real contributions** across **150 active days**. Season rotates automatically every week: 🚀 SPACE MISSION → 🐍 SNAKE RUN → 👾 PAC-MAN → 🏎️ CODE RACING → 🌌 GALAXY. Next up: **🏎️ CODE RACING**. The game changes; the grind data never lies.
 <!-- /OS:season-note -->
 
 ## 🎮 LEVEL SYSTEM *(custom profile gamification — not an official GitHub score)*
@@ -110,12 +110,12 @@ Progress bars are manual build estimates; stars + last-push are live from the AP
 ```text
 BK // LEVEL 9
 
-XP  ███████████████████░░░  88%  (11,722 XP)
+XP  ███████████████████░░░  88%  (11,731 XP)
 
 REPOS ×103 ............ +20 XP each
-STARS ×3,062 ......... +2 XP each
-FOLLOWERS ×129 ....... +5 XP each
-GRIND ×2,753 .... +1 XP each
+STARS ×3,063 ......... +2 XP each
+FOLLOWERS ×130 ....... +5 XP each
+GRIND ×2,755 .... +1 XP each
 ```
 <!-- /OS:level -->
 
@@ -237,7 +237,7 @@ Every node links back to its mission row above — one engineering journey, not 
 └── 103 public repos, 3000+ stars — search engines in Rust, WiFi sensing, RAG, agent infrastructure
 
 NOW
-└── Building systems instead of demos — pytest, vincenzo-afk, Medibook in active development
+└── Building systems instead of demos — crewplane, vincenzo-afk, pytest in active development
 ```
 <!-- /OS:lore -->
 
