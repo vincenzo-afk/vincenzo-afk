@@ -1,6 +1,10 @@
 {
-  "updated": "2026-10-09T06:02:19.282Z",
+  "updated": "2026-10-09T12:47:35.869Z",
   "items": [
+    {
+      "t": "01:25",
+      "text": "pushed to INDIA.GOV"
+    },
     {
       "t": "18:46",
       "text": "pushed to INDIA.GOV"
@@ -24,10 +28,6 @@
     {
       "t": "09:52",
       "text": "pushed to Vernacular"
-    },
-    {
-      "t": "14:40",
-      "text": "pushed to Pod"
     }
   ]
 }
