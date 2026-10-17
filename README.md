@@ -37,7 +37,7 @@ CLASS ............. Full Stack Developer / AI Engineer
 SPECIALIZATION .... AI Systems · LLMs · Agents · Automation
 LOCATION .......... Tamil Nadu, India
 OBJECTIVE ......... Build useful systems beyond the demo.
-STATUS ............ ● BUILDING (vincenzo-afk pushed 2h ago)
+STATUS ............ ● BUILDING (vincenzo-afk pushed 5h ago)
 
 PRIMARY ........... AI Systems
 ACTIVE ............ Full Stack Engineering
@@ -65,10 +65,10 @@ Live language mix behind this tree (real repo data, Oct 2026): **TypeScript 29 �
 |---|---|---|
 | Public repositories | **103** | `api.github.com/users/vincenzo-afk` |
 | Stars earned | **3,184** | sum of `stargazers_count` over all repos |
-| Contributions (1y) | **2,799** | public contribution graph (parsed, no auth) |
+| Contributions (1y) | **2,800** | public contribution graph (parsed, no auth) |
 | Followers / Following | **137 / 112** | user profile |
 | Forks | **20** | sum of `forks_count` |
-| Last push | **vincenzo-afk, 2h ago** | repos sorted by `pushed_at` |
+| Last push | **vincenzo-afk, 5h ago** | repos sorted by `pushed_at` |
 | Fresh builds | vincenzo-afk · MeshOS · DropLink | last 3 pushes |
 
 Regenerated every 6h by `.github/workflows/update-profile.yml`. If the API is unreachable the cards show the last known state instead of an error.
@@ -101,7 +101,7 @@ Progress bars are manual build estimates; stars + last-push are live from the AP
 [![live game — click for the real contribution graph](assets/contribution-game.svg)](https://github.com/vincenzo-afk)
 
 <!-- OS:season-note -->
-**🏎️ NOW PLAYING: CODE RACING** — fueled by **2,799 real contributions** across **158 active days**. Season rotates automatically every week: 🚀 SPACE MISSION → 🐍 SNAKE RUN → 👾 PAC-MAN → 🏎️ CODE RACING → 🌌 GALAXY. Next up: **🌌 GALAXY**. The game changes; the grind data never lies.
+**🏎️ NOW PLAYING: CODE RACING** — fueled by **2,800 real contributions** across **158 active days**. Season rotates automatically every week: 🚀 SPACE MISSION → 🐍 SNAKE RUN → 👾 PAC-MAN → 🏎️ CODE RACING → 🌌 GALAXY. Next up: **🌌 GALAXY**. The game changes; the grind data never lies.
 <!-- /OS:season-note -->
 
 ## 🎮 LEVEL SYSTEM *(custom profile gamification — not an official GitHub score)*
@@ -110,12 +110,12 @@ Progress bars are manual build estimates; stars + last-push are live from the AP
 ```text
 BK // LEVEL 10
 
-XP  █░░░░░░░░░░░░░░░░░░░░░  4%  (12,112 XP)
+XP  █░░░░░░░░░░░░░░░░░░░░░  4%  (12,113 XP)
 
 REPOS ×103 ............ +20 XP each
 STARS ×3,184 ......... +2 XP each
 FOLLOWERS ×137 ....... +5 XP each
-GRIND ×2,799 .... +1 XP each
+GRIND ×2,800 .... +1 XP each
 ```
 <!-- /OS:level -->
 
