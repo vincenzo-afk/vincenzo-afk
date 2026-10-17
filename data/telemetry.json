@@ -3,7 +3,7 @@
   "created": "2025-09-19T10:45:52Z",
   "repos": 103,
   "followers": 137,
-  "following": 111,
+  "following": 112,
   "stars": 3184,
   "forks": 20,
   "langs": {
@@ -18,7 +18,7 @@
     "Kotlin": 2
   },
   "cal": {
-    "total": 2797,
+    "total": 2799,
     "days": [
       {
         "d": "2025-10-12",
@@ -1873,7 +1873,7 @@
       {
         "d": "2026-10-17",
         "l": 1,
-        "c": 2
+        "c": 4
       }
     ]
   },
@@ -1897,7 +1897,7 @@
       "stars": 40,
       "forks": 0,
       "lang": "JavaScript",
-      "pushed": "2026-10-17T04:18:35Z"
+      "pushed": "2026-10-17T12:35:55Z"
     },
     {
       "name": "browserbrain",
@@ -1930,6 +1930,11 @@
   ],
   "fresh": [
     {
+      "name": "vincenzo-afk",
+      "pushed": "2026-10-17T12:35:55Z",
+      "lang": "JavaScript"
+    },
+    {
       "name": "MeshOS",
       "pushed": "2026-10-17T08:19:46Z",
       "lang": "JavaScript"
@@ -1937,11 +1942,6 @@
     {
       "name": "DropLink",
       "pushed": "2026-10-17T07:07:19Z",
-      "lang": "JavaScript"
-    },
-    {
-      "name": "vincenzo-afk",
-      "pushed": "2026-10-17T04:18:35Z",
       "lang": "JavaScript"
     },
     {
@@ -1955,10 +1955,10 @@
       "lang": null
     }
   ],
-  "lastPush": "2026-10-17T08:19:46Z",
-  "fetchedAt": "2026-10-17T10:18:52.575Z",
+  "lastPush": "2026-10-17T12:35:55Z",
+  "fetchedAt": "2026-10-17T15:11:23.566Z",
   "live": true,
-  "xp": 12110,
+  "xp": 12112,
   "level": 10,
   "xpPct": 4,
   "transmissions": [
