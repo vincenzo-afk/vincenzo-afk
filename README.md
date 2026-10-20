@@ -37,7 +37,7 @@ CLASS ............. Full Stack Developer / AI Engineer
 SPECIALIZATION .... AI Systems · LLMs · Agents · Automation
 LOCATION .......... Tamil Nadu, India
 OBJECTIVE ......... Build useful systems beyond the demo.
-STATUS ............ ● BUILDING (MOMS-AT-TEMPLE pushed 48m ago)
+STATUS ............ ● BUILDING (vincenzo-afk pushed 2h ago)
 
 PRIMARY ........... AI Systems
 ACTIVE ............ Full Stack Engineering
@@ -65,11 +65,11 @@ Live language mix behind this tree (real repo data, Oct 2026): **TypeScript 30 �
 |---|---|---|
 | Public repositories | **104** | `api.github.com/users/vincenzo-afk` |
 | Stars earned | **3,187** | sum of `stargazers_count` over all repos |
-| Contributions (1y) | **2,826** | public contribution graph (parsed, no auth) |
-| Followers / Following | **140 / 114** | user profile |
+| Contributions (1y) | **2,828** | public contribution graph (parsed, no auth) |
+| Followers / Following | **141 / 115** | user profile |
 | Forks | **20** | sum of `forks_count` |
-| Last push | **MOMS-AT-TEMPLE, 48m ago** | repos sorted by `pushed_at` |
-| Fresh builds | MOMS-AT-TEMPLE · vincenzo-afk · Synapse | last 3 pushes |
+| Last push | **vincenzo-afk, 2h ago** | repos sorted by `pushed_at` |
+| Fresh builds | vincenzo-afk · MOMS-AT-TEMPLE · Synapse | last 3 pushes |
 
 Regenerated every 6h by `.github/workflows/update-profile.yml`. If the API is unreachable the cards show the last known state instead of an error.
 <!-- /OS:telemetry-table -->
@@ -87,10 +87,10 @@ Regenerated every 6h by `.github/workflows/update-profile.yml`. If the API is un
 | 003 | **Zen-2** — 124M-parameter decoder-only LLM from scratch — RoPE, RMSNorm, SwiGLU, GQA, KV Cache, BPE. | ● RESEARCH | [vincenzo-afk/Zen-2](https://github.com/vincenzo-afk/Zen-2) · 38★ · 1mo ago |
 | 004 | **NOVA-exe** — Local-first desktop AI agent platform. Most recently pushed repo — under active construction. | ● BUILDING | [vincenzo-afk/NOVA-exe](https://github.com/vincenzo-afk/NOVA-exe) · 23★ · 17d ago |
 | 005 | **Kernel-One** — Industrial AI operating environment — every AI action controlled, auditable, permission-aware. | ● BUILDING | [vincenzo-afk/Kernel-One](https://github.com/vincenzo-afk/Kernel-One) · 23★ · 1mo ago |
-| 006 | **CypherID** — Blockchain-based secure platform for identity, access control, and digital asset management. | ● BUILDING | [vincenzo-afk/CypherID](https://github.com/vincenzo-afk/CypherID) · 25★ · yesterday |
+| 006 | **CypherID** — Blockchain-based secure platform for identity, access control, and digital asset management. | ● BUILDING | [vincenzo-afk/CypherID](https://github.com/vincenzo-afk/CypherID) · 25★ · 2d ago |
 | 007 | **WIFI-SENSE** — WiFi CSI-based human presence, occupancy, zone and activity detection dashboard. No cameras. | ● OPERATIONAL | [vincenzo-afk/WIFI-based-human-presence-detection-system](https://github.com/vincenzo-afk/WIFI-based-human-presence-detection-system) · 42★ · 1mo ago |
 | 008 | **PrivatePulse-AI** — RAG-powered confidential document intelligence with grounded, cited answers. Hackathon-built. | ● OPERATIONAL | [vincenzo-afk/PrivatePulse-AI](https://github.com/vincenzo-afk/PrivatePulse-AI) · 40★ · 1mo ago |
-| 009 | **browserbrain** — Browser-first local AI research workspace — on-device inference with free web grounding. | ● EXPERIMENTAL | [vincenzo-afk/browserbrain](https://github.com/vincenzo-afk/browserbrain) · 40★ · 14d ago |
+| 009 | **browserbrain** — Browser-first local AI research workspace — on-device inference with free web grounding. | ● EXPERIMENTAL | [vincenzo-afk/browserbrain](https://github.com/vincenzo-afk/browserbrain) · 40★ · 15d ago |
 
 Progress bars are manual build estimates; stars + last-push are live from the API. Edit `data/projects.json` to change the manifest.
 <!-- /OS:missions-table -->
@@ -101,7 +101,7 @@ Progress bars are manual build estimates; stars + last-push are live from the AP
 [![live game — click for the real contribution graph](assets/contribution-game.svg)](https://github.com/vincenzo-afk)
 
 <!-- OS:season-note -->
-**🏎️ NOW PLAYING: CODE RACING** — fueled by **2,826 real contributions** across **161 active days**. Season rotates automatically every week: 🚀 SPACE MISSION → 🐍 SNAKE RUN → 👾 PAC-MAN → 🏎️ CODE RACING → 🌌 GALAXY. Next up: **🌌 GALAXY**. The game changes; the grind data never lies.
+**🏎️ NOW PLAYING: CODE RACING** — fueled by **2,828 real contributions** across **161 active days**. Season rotates automatically every week: 🚀 SPACE MISSION → 🐍 SNAKE RUN → 👾 PAC-MAN → 🏎️ CODE RACING → 🌌 GALAXY. Next up: **🌌 GALAXY**. The game changes; the grind data never lies.
 <!-- /OS:season-note -->
 
 ## 🎮 LEVEL SYSTEM *(custom profile gamification — not an official GitHub score)*
@@ -110,12 +110,12 @@ Progress bars are manual build estimates; stars + last-push are live from the AP
 ```text
 BK // LEVEL 10
 
-XP  ██░░░░░░░░░░░░░░░░░░░░  7%  (12,180 XP)
+XP  ██░░░░░░░░░░░░░░░░░░░░  7%  (12,187 XP)
 
 REPOS ×104 ............ +20 XP each
 STARS ×3,187 ......... +2 XP each
-FOLLOWERS ×140 ....... +5 XP each
-GRIND ×2,826 .... +1 XP each
+FOLLOWERS ×141 ....... +5 XP each
+GRIND ×2,828 .... +1 XP each
 ```
 <!-- /OS:level -->
 
@@ -237,7 +237,7 @@ Every node links back to its mission row above — one engineering journey, not 
 └── 104 public repos, 3100+ stars — search engines in Rust, WiFi sensing, RAG, agent infrastructure
 
 NOW
-└── Building systems instead of demos — MOMS-AT-TEMPLE, vincenzo-afk, Synapse in active development
+└── Building systems instead of demos — vincenzo-afk, MOMS-AT-TEMPLE, Synapse in active development
 ```
 <!-- /OS:lore -->
 
