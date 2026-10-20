@@ -1,14 +1,14 @@
 {
   "name": "BHARANI KUMAR S",
   "created": "2025-09-19T10:45:52Z",
-  "repos": 103,
-  "followers": 138,
-  "following": 113,
-  "stars": 3184,
+  "repos": 104,
+  "followers": 139,
+  "following": 114,
+  "stars": 3186,
   "forks": 20,
   "langs": {
+    "TypeScript": 30,
     "JavaScript": 27,
-    "TypeScript": 29,
     "Java": 1,
     "Python": 20,
     "CSS": 2,
@@ -18,7 +18,7 @@
     "Kotlin": 2
   },
   "cal": {
-    "total": 2811,
+    "total": 2815,
     "days": [
       {
         "d": "2025-10-19",
@@ -153,7 +153,7 @@
       {
         "d": "2026-04-19",
         "l": 1,
-        "c": 18
+        "c": 17
       },
       {
         "d": "2026-04-26",
@@ -548,7 +548,7 @@
       {
         "d": "2026-10-19",
         "l": 1,
-        "c": 4
+        "c": 5
       },
       {
         "d": "2025-10-21",
@@ -809,6 +809,11 @@
         "d": "2026-10-13",
         "l": 1,
         "c": 5
+      },
+      {
+        "d": "2026-10-20",
+        "l": 1,
+        "c": 4
       },
       {
         "d": "2025-10-22",
@@ -1854,6 +1859,13 @@
   },
   "top": [
     {
+      "name": "WIFI-based-human-presence-detection-system",
+      "stars": 42,
+      "forks": 2,
+      "lang": "Python",
+      "pushed": "2026-08-23T14:34:47Z"
+    },
+    {
       "name": "KingstonConnect",
       "stars": 41,
       "forks": 1,
@@ -1861,18 +1873,11 @@
       "pushed": "2026-09-10T00:23:23Z"
     },
     {
-      "name": "WIFI-based-human-presence-detection-system",
-      "stars": 41,
-      "forks": 2,
-      "lang": "Python",
-      "pushed": "2026-08-23T14:34:47Z"
-    },
-    {
       "name": "vincenzo-afk",
       "stars": 40,
       "forks": 0,
       "lang": "JavaScript",
-      "pushed": "2026-10-19T18:33:30Z"
+      "pushed": "2026-10-19T22:06:36Z"
     },
     {
       "name": "browserbrain",
@@ -1905,8 +1910,13 @@
   ],
   "fresh": [
     {
+      "name": "MOMS-AT-TEMPLE",
+      "pushed": "2026-10-20T02:42:07Z",
+      "lang": "TypeScript"
+    },
+    {
       "name": "vincenzo-afk",
-      "pushed": "2026-10-19T18:33:30Z",
+      "pushed": "2026-10-19T22:06:36Z",
       "lang": "JavaScript"
     },
     {
@@ -1923,20 +1933,19 @@
       "name": "TRIPPLANNER",
       "pushed": "2026-10-18T12:42:09Z",
       "lang": "JavaScript"
-    },
-    {
-      "name": "Atmosphere",
-      "pushed": "2026-10-18T11:24:55Z",
-      "lang": "JavaScript"
     }
   ],
-  "lastPush": "2026-10-19T18:33:30Z",
-  "fetchedAt": "2026-10-19T22:06:33.903Z",
+  "lastPush": "2026-10-20T02:42:07Z",
+  "fetchedAt": "2026-10-20T03:58:12.609Z",
   "live": true,
-  "xp": 12129,
+  "xp": 12162,
   "level": 10,
-  "xpPct": 5,
+  "xpPct": 6,
   "transmissions": [
+    {
+      "t": "02:42",
+      "text": "pushed to MOMS-AT-TEMPLE"
+    },
     {
       "t": "18:43",
       "text": "created branch in INDIA.GOV"
@@ -1960,10 +1969,6 @@
     {
       "t": "14:35",
       "text": "created branch in Jolt"
-    },
-    {
-      "t": "14:37",
-      "text": "pushed to Jolt"
     }
   ]
 }
