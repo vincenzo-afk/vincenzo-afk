@@ -37,7 +37,7 @@ CLASS ............. Full Stack Developer / AI Engineer
 SPECIALIZATION .... AI Systems · LLMs · Agents · Automation
 LOCATION .......... Tamil Nadu, India
 OBJECTIVE ......... Build useful systems beyond the demo.
-STATUS ............ ● BUILDING (BASIC-JARVIS pushed 1h ago)
+STATUS ............ ● BUILDING (vincenzo-afk pushed 4h ago)
 
 PRIMARY ........... AI Systems
 ACTIVE ............ Full Stack Engineering
@@ -65,11 +65,11 @@ Live language mix behind this tree (real repo data, Oct 2026): **TypeScript 30 �
 |---|---|---|
 | Public repositories | **104** | `api.github.com/users/vincenzo-afk` |
 | Stars earned | **3,188** | sum of `stargazers_count` over all repos |
-| Contributions (1y) | **2,917** | public contribution graph (parsed, no auth) |
+| Contributions (1y) | **2,918** | public contribution graph (parsed, no auth) |
 | Followers / Following | **143 / 118** | user profile |
 | Forks | **22** | sum of `forks_count` |
-| Last push | **BASIC-JARVIS, 1h ago** | repos sorted by `pushed_at` |
-| Fresh builds | BASIC-JARVIS · xithsense · vincenzo-afk | last 3 pushes |
+| Last push | **vincenzo-afk, 4h ago** | repos sorted by `pushed_at` |
+| Fresh builds | vincenzo-afk · BASIC-JARVIS · xithsense | last 3 pushes |
 
 Regenerated every 6h by `.github/workflows/update-profile.yml`. If the API is unreachable the cards show the last known state instead of an error.
 <!-- /OS:telemetry-table -->
@@ -101,7 +101,7 @@ Progress bars are manual build estimates; stars + last-push are live from the AP
 [![live game — click for the real contribution graph](assets/contribution-game.svg)](https://github.com/vincenzo-afk)
 
 <!-- OS:season-note -->
-**🏎️ NOW PLAYING: CODE RACING** — fueled by **2,917 real contributions** across **162 active days**. Season rotates automatically every week: 🚀 SPACE MISSION → 🐍 SNAKE RUN → 👾 PAC-MAN → 🏎️ CODE RACING → 🌌 GALAXY. Next up: **🌌 GALAXY**. The game changes; the grind data never lies.
+**🏎️ NOW PLAYING: CODE RACING** — fueled by **2,918 real contributions** across **162 active days**. Season rotates automatically every week: 🚀 SPACE MISSION → 🐍 SNAKE RUN → 👾 PAC-MAN → 🏎️ CODE RACING → 🌌 GALAXY. Next up: **🌌 GALAXY**. The game changes; the grind data never lies.
 <!-- /OS:season-note -->
 
 ## 🎮 LEVEL SYSTEM *(custom profile gamification — not an official GitHub score)*
@@ -110,12 +110,12 @@ Progress bars are manual build estimates; stars + last-push are live from the AP
 ```text
 BK // LEVEL 10
 
-XP  ███░░░░░░░░░░░░░░░░░░░  12%  (12,308 XP)
+XP  ███░░░░░░░░░░░░░░░░░░░  12%  (12,309 XP)
 
 REPOS ×104 ............ +20 XP each
 STARS ×3,188 ......... +2 XP each
 FOLLOWERS ×143 ....... +5 XP each
-GRIND ×2,917 .... +1 XP each
+GRIND ×2,918 .... +1 XP each
 ```
 <!-- /OS:level -->
 
@@ -169,13 +169,13 @@ Real public events, refreshed by the pipeline (`data/transmissions.json`):
 
 <!-- OS:transmissions -->
 ```text
+08:36  pushed to MOMS-AT-TEMPLE
 15:19  starred MOMS-AT-TEMPLE
 01:27  pushed to MOMS-AT-TEMPLE
 09:52  pushed to MOMS-AT-TEMPLE
 09:23  pushed to MOMS-AT-TEMPLE
 09:10  pushed to MOMS-AT-TEMPLE
 01:20  created branch in MOMS-AT-TEMPLE
-09:36  pushed to MOMS-AT-TEMPLE
 ```
 <!-- /OS:transmissions -->
 
@@ -237,7 +237,7 @@ Every node links back to its mission row above — one engineering journey, not 
 └── 104 public repos, 3100+ stars — search engines in Rust, WiFi sensing, RAG, agent infrastructure
 
 NOW
-└── Building systems instead of demos — BASIC-JARVIS, xithsense, vincenzo-afk in active development
+└── Building systems instead of demos — vincenzo-afk, BASIC-JARVIS, xithsense in active development
 ```
 <!-- /OS:lore -->
 
@@ -304,8 +304,8 @@ Top repositories by stars (live, 2026-10-21) — click any row to warp in:
 |---|---|---|---|
 | [WIFI-based-human-presence-detection-system](https://github.com/vincenzo-afk/WIFI-based-human-presence-detection-system) | 42 | Python | Aug 23 |
 | [KingstonConnect](https://github.com/vincenzo-afk/KingstonConnect) | 41 | TypeScript | Sep 10 |
-| [xithsense](https://github.com/vincenzo-afk/xithsense) | 40 | Python | Oct 21 |
 | [vincenzo-afk](https://github.com/vincenzo-afk/vincenzo-afk) | 40 | JavaScript | Oct 21 |
+| [xithsense](https://github.com/vincenzo-afk/xithsense) | 40 | Python | Oct 21 |
 | [browserbrain](https://github.com/vincenzo-afk/browserbrain) | 40 | TypeScript | Oct 05 |
 | [NOVA](https://github.com/vincenzo-afk/NOVA) | 40 | Python | Sep 19 |
 | [PrivatePulse-AI](https://github.com/vincenzo-afk/PrivatePulse-AI) | 40 | TypeScript | Sep 19 |
