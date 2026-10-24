@@ -37,7 +37,7 @@ CLASS ............. Full Stack Developer / AI Engineer
 SPECIALIZATION .... AI Systems · LLMs · Agents · Automation
 LOCATION .......... Tamil Nadu, India
 OBJECTIVE ......... Build useful systems beyond the demo.
-STATUS ............ ● BUILDING (hackerrank-orchestrate-ghost-data pushed 2h ago)
+STATUS ............ ● BUILDING (hackerrank-orchestrate-ghost-data pushed 1h ago)
 
 PRIMARY ........... AI Systems
 ACTIVE ............ Full Stack Engineering
@@ -52,7 +52,7 @@ EXPERIMENTAL ...... Speech / Multimodal / Blockchain identity
 [![skill tree — click for loadout](assets/skill-tree.svg)](#-loadout)
 
 <!-- OS:skill-mix -->
-Live language mix behind this tree (real repo data, Oct 2026): **TypeScript 30 · JavaScript 27 · Python 20 · Rust 3 · HTML 3 · CSS 2 · Dart 2 · Kotlin 2 · Java 1** — 105 public repos. Language counts describe the repos, not skill claims.
+Live language mix behind this tree (real repo data, Oct 2026): **TypeScript 30 · JavaScript 27 · Python 21 · Rust 3 · HTML 3 · CSS 2 · Dart 2 · Kotlin 2 · Java 1** — 105 public repos. Language counts describe the repos, not skill claims.
 <!-- /OS:skill-mix -->
 
 ---
@@ -65,10 +65,10 @@ Live language mix behind this tree (real repo data, Oct 2026): **TypeScript 30 �
 |---|---|---|
 | Public repositories | **105** | `api.github.com/users/vincenzo-afk` |
 | Stars earned | **3,191** | sum of `stargazers_count` over all repos |
-| Contributions (1y) | **2,936** | public contribution graph (parsed, no auth) |
+| Contributions (1y) | **2,939** | public contribution graph (parsed, no auth) |
 | Followers / Following | **144 / 119** | user profile |
 | Forks | **23** | sum of `forks_count` |
-| Last push | **hackerrank-orchestrate-ghost-data, 2h ago** | repos sorted by `pushed_at` |
+| Last push | **hackerrank-orchestrate-ghost-data, 1h ago** | repos sorted by `pushed_at` |
 | Fresh builds | hackerrank-orchestrate-ghost-data · vincenzo-afk · BASIC-JARVIS | last 3 pushes |
 
 Regenerated every 6h by `.github/workflows/update-profile.yml`. If the API is unreachable the cards show the last known state instead of an error.
@@ -101,7 +101,7 @@ Progress bars are manual build estimates; stars + last-push are live from the AP
 [![live game — click for the real contribution graph](assets/contribution-game.svg)](https://github.com/vincenzo-afk)
 
 <!-- OS:season-note -->
-**🌌 NOW PLAYING: GALAXY** — fueled by **2,936 real contributions** across **165 active days**. Season rotates automatically every week: 🚀 SPACE MISSION → 🐍 SNAKE RUN → 👾 PAC-MAN → 🏎️ CODE RACING → 🌌 GALAXY. Next up: **🚀 SPACE MISSION**. The game changes; the grind data never lies.
+**🌌 NOW PLAYING: GALAXY** — fueled by **2,939 real contributions** across **165 active days**. Season rotates automatically every week: 🚀 SPACE MISSION → 🐍 SNAKE RUN → 👾 PAC-MAN → 🏎️ CODE RACING → 🌌 GALAXY. Next up: **🚀 SPACE MISSION**. The game changes; the grind data never lies.
 <!-- /OS:season-note -->
 
 ## 🎮 LEVEL SYSTEM *(custom profile gamification — not an official GitHub score)*
@@ -110,12 +110,12 @@ Progress bars are manual build estimates; stars + last-push are live from the AP
 ```text
 BK // LEVEL 10
 
-XP  ███░░░░░░░░░░░░░░░░░░░  15%  (12,368 XP)
+XP  ███░░░░░░░░░░░░░░░░░░░  15%  (12,371 XP)
 
 REPOS ×105 ............ +20 XP each
 STARS ×3,191 ......... +2 XP each
 FOLLOWERS ×144 ....... +5 XP each
-GRIND ×2,936 .... +1 XP each
+GRIND ×2,939 .... +1 XP each
 ```
 <!-- /OS:level -->
 
@@ -169,13 +169,13 @@ Real public events, refreshed by the pipeline (`data/transmissions.json`):
 
 <!-- OS:transmissions -->
 ```text
+18:50  pushed to hackerrank-orchestrate-ghost-data
+18:45  pushed to hackerrank-orchestrate-ghost-data
 13:30  starred hackerrank-orchestrate-ghost-data
 16:43  pushed to xithsense
 10:17  pushed to MOMS-AT-TEMPLE
 08:36  pushed to MOMS-AT-TEMPLE
 15:19  starred MOMS-AT-TEMPLE
-01:27  pushed to MOMS-AT-TEMPLE
-09:52  pushed to MOMS-AT-TEMPLE
 ```
 <!-- /OS:transmissions -->
 
