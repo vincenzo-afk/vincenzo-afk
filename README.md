@@ -37,7 +37,7 @@ CLASS ............. Full Stack Developer / AI Engineer
 SPECIALIZATION .... AI Systems · LLMs · Agents · Automation
 LOCATION .......... Tamil Nadu, India
 OBJECTIVE ......... Build useful systems beyond the demo.
-STATUS ............ ● BUILDING (hackerrank-orchestrate-ghost-data pushed 1h ago)
+STATUS ............ ● BUILDING (vincenzo-afk pushed 2h ago)
 
 PRIMARY ........... AI Systems
 ACTIVE ............ Full Stack Engineering
@@ -64,12 +64,12 @@ Live language mix behind this tree (real repo data, Oct 2026): **TypeScript 30 �
 | Metric | Live value (2026-10-25) | Source |
 |---|---|---|
 | Public repositories | **105** | `api.github.com/users/vincenzo-afk` |
-| Stars earned | **3,191** | sum of `stargazers_count` over all repos |
-| Contributions (1y) | **2,966** | public contribution graph (parsed, no auth) |
-| Followers / Following | **145 / 120** | user profile |
+| Stars earned | **3,192** | sum of `stargazers_count` over all repos |
+| Contributions (1y) | **2,968** | public contribution graph (parsed, no auth) |
+| Followers / Following | **144 / 120** | user profile |
 | Forks | **23** | sum of `forks_count` |
-| Last push | **hackerrank-orchestrate-ghost-data, 1h ago** | repos sorted by `pushed_at` |
-| Fresh builds | hackerrank-orchestrate-ghost-data · vincenzo-afk · BASIC-JARVIS | last 3 pushes |
+| Last push | **vincenzo-afk, 2h ago** | repos sorted by `pushed_at` |
+| Fresh builds | vincenzo-afk · hackerrank-orchestrate-ghost-data · BASIC-JARVIS | last 3 pushes |
 
 Regenerated every 6h by `.github/workflows/update-profile.yml`. If the API is unreachable the cards show the last known state instead of an error.
 <!-- /OS:telemetry-table -->
@@ -84,13 +84,13 @@ Regenerated every 6h by `.github/workflows/update-profile.yml`. If the API is un
 |---|---|---|---|
 | 001 | **DEVNEXUS** — AI-powered developer command center: GitHub context, progress narratives, smart TODOs, hackathon planning. | ● OPERATIONAL | [vincenzo-afk/DEVNEXUS](https://github.com/vincenzo-afk/DEVNEXUS) · 40★ · 1mo ago |
 | 002 | **NEXUS-ENGINE** — Full-featured search engine in Rust — local filesystem + web crawl with BM25+PageRank ranking. | ● OPERATIONAL | [vincenzo-afk/NEXUS-ENGINE](https://github.com/vincenzo-afk/NEXUS-ENGINE) · 38★ · 2mo ago |
-| 003 | **Zen-2** — 124M-parameter decoder-only LLM from scratch — RoPE, RMSNorm, SwiGLU, GQA, KV Cache, BPE. | ● RESEARCH | [vincenzo-afk/Zen-2](https://github.com/vincenzo-afk/Zen-2) · 38★ · 1mo ago |
+| 003 | **Zen-2** — 124M-parameter decoder-only LLM from scratch — RoPE, RMSNorm, SwiGLU, GQA, KV Cache, BPE. | ● RESEARCH | [vincenzo-afk/Zen-2](https://github.com/vincenzo-afk/Zen-2) · 38★ · 2mo ago |
 | 004 | **NOVA-exe** — Local-first desktop AI agent platform. Most recently pushed repo — under active construction. | ● BUILDING | [vincenzo-afk/NOVA-exe](https://github.com/vincenzo-afk/NOVA-exe) · 23★ · 22d ago |
 | 005 | **Kernel-One** — Industrial AI operating environment — every AI action controlled, auditable, permission-aware. | ● BUILDING | [vincenzo-afk/Kernel-One](https://github.com/vincenzo-afk/Kernel-One) · 23★ · 1mo ago |
-| 006 | **CypherID** — Blockchain-based secure platform for identity, access control, and digital asset management. | ● BUILDING | [vincenzo-afk/CypherID](https://github.com/vincenzo-afk/CypherID) · 25★ · 6d ago |
-| 007 | **WIFI-SENSE** — WiFi CSI-based human presence, occupancy, zone and activity detection dashboard. No cameras. | ● OPERATIONAL | [vincenzo-afk/WIFI-based-human-presence-detection-system](https://github.com/vincenzo-afk/WIFI-based-human-presence-detection-system) · 43★ · 2mo ago |
+| 006 | **CypherID** — Blockchain-based secure platform for identity, access control, and digital asset management. | ● BUILDING | [vincenzo-afk/CypherID](https://github.com/vincenzo-afk/CypherID) · 25★ · 7d ago |
+| 007 | **WIFI-SENSE** — WiFi CSI-based human presence, occupancy, zone and activity detection dashboard. No cameras. | ● OPERATIONAL | [vincenzo-afk/WIFI-based-human-presence-detection-system](https://github.com/vincenzo-afk/WIFI-based-human-presence-detection-system) · 44★ · 2mo ago |
 | 008 | **PrivatePulse-AI** — RAG-powered confidential document intelligence with grounded, cited answers. Hackathon-built. | ● OPERATIONAL | [vincenzo-afk/PrivatePulse-AI](https://github.com/vincenzo-afk/PrivatePulse-AI) · 40★ · 1mo ago |
-| 009 | **browserbrain** — Browser-first local AI research workspace — on-device inference with free web grounding. | ● EXPERIMENTAL | [vincenzo-afk/browserbrain](https://github.com/vincenzo-afk/browserbrain) · 40★ · 19d ago |
+| 009 | **browserbrain** — Browser-first local AI research workspace — on-device inference with free web grounding. | ● EXPERIMENTAL | [vincenzo-afk/browserbrain](https://github.com/vincenzo-afk/browserbrain) · 40★ · 20d ago |
 
 Progress bars are manual build estimates; stars + last-push are live from the API. Edit `data/projects.json` to change the manifest.
 <!-- /OS:missions-table -->
@@ -101,7 +101,7 @@ Progress bars are manual build estimates; stars + last-push are live from the AP
 [![live game — click for the real contribution graph](assets/contribution-game.svg)](https://github.com/vincenzo-afk)
 
 <!-- OS:season-note -->
-**🌌 NOW PLAYING: GALAXY** — fueled by **2,966 real contributions** across **166 active days**. Season rotates automatically every week: 🚀 SPACE MISSION → 🐍 SNAKE RUN → 👾 PAC-MAN → 🏎️ CODE RACING → 🌌 GALAXY. Next up: **🚀 SPACE MISSION**. The game changes; the grind data never lies.
+**🌌 NOW PLAYING: GALAXY** — fueled by **2,968 real contributions** across **166 active days**. Season rotates automatically every week: 🚀 SPACE MISSION → 🐍 SNAKE RUN → 👾 PAC-MAN → 🏎️ CODE RACING → 🌌 GALAXY. Next up: **🚀 SPACE MISSION**. The game changes; the grind data never lies.
 <!-- /OS:season-note -->
 
 ## 🎮 LEVEL SYSTEM *(custom profile gamification — not an official GitHub score)*
@@ -110,12 +110,12 @@ Progress bars are manual build estimates; stars + last-push are live from the AP
 ```text
 BK // LEVEL 10
 
-XP  ████░░░░░░░░░░░░░░░░░░  16%  (12,403 XP)
+XP  ████░░░░░░░░░░░░░░░░░░  16%  (12,402 XP)
 
 REPOS ×105 ............ +20 XP each
-STARS ×3,191 ......... +2 XP each
-FOLLOWERS ×145 ....... +5 XP each
-GRIND ×2,966 .... +1 XP each
+STARS ×3,192 ......... +2 XP each
+FOLLOWERS ×144 ....... +5 XP each
+GRIND ×2,968 .... +1 XP each
 ```
 <!-- /OS:level -->
 
@@ -169,12 +169,12 @@ Real public events, refreshed by the pipeline (`data/transmissions.json`):
 
 <!-- OS:transmissions -->
 ```text
+13:29  created branch in hackerrank-orchestrate-ghost-data
 13:29  public activity in hackerrank-orchestrate-ghost-data
 04:31  pushed to hackerrank-orchestrate-ghost-data
 04:30  pushed to hackerrank-orchestrate-ghost-data
 18:41  pushed to hackerrank-orchestrate-ghost-data
 21:22  pushed to hackerrank-orchestrate-ghost-data
-20:40  pushed to hackerrank-orchestrate-ghost-data
 20:40  pushed to hackerrank-orchestrate-ghost-data
 ```
 <!-- /OS:transmissions -->
@@ -237,7 +237,7 @@ Every node links back to its mission row above — one engineering journey, not 
 └── 105 public repos, 3100+ stars — search engines in Rust, WiFi sensing, RAG, agent infrastructure
 
 NOW
-└── Building systems instead of demos — hackerrank-orchestrate-ghost-data, vincenzo-afk, BASIC-JARVIS in active development
+└── Building systems instead of demos — vincenzo-afk, hackerrank-orchestrate-ghost-data, BASIC-JARVIS in active development
 ```
 <!-- /OS:lore -->
 
@@ -302,7 +302,7 @@ Top repositories by stars (live, 2026-10-25) — click any row to warp in:
 
 | Repo | ★ | Lang | Last push |
 |---|---|---|---|
-| [WIFI-based-human-presence-detection-system](https://github.com/vincenzo-afk/WIFI-based-human-presence-detection-system) | 43 | Python | Aug 23 |
+| [WIFI-based-human-presence-detection-system](https://github.com/vincenzo-afk/WIFI-based-human-presence-detection-system) | 44 | Python | Aug 23 |
 | [KingstonConnect](https://github.com/vincenzo-afk/KingstonConnect) | 41 | TypeScript | Sep 10 |
 | [vincenzo-afk](https://github.com/vincenzo-afk/vincenzo-afk) | 40 | JavaScript | Oct 25 |
 | [xithsense](https://github.com/vincenzo-afk/xithsense) | 40 | Python | Oct 21 |
