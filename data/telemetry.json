@@ -2,13 +2,13 @@
   "name": "BHARANI KUMAR S",
   "created": "2025-09-19T10:45:52Z",
   "repos": 105,
-  "followers": 146,
+  "followers": 145,
   "following": 121,
-  "stars": 3198,
+  "stars": 3199,
   "forks": 23,
   "langs": {
-    "Python": 21,
     "JavaScript": 27,
+    "Python": 21,
     "TypeScript": 30,
     "Java": 1,
     "CSS": 2,
@@ -18,7 +18,7 @@
     "Kotlin": 2
   },
   "cal": {
-    "total": 2986,
+    "total": 2987,
     "days": [
       {
         "d": "2025-10-26",
@@ -1078,7 +1078,7 @@
       {
         "d": "2026-10-28",
         "l": 1,
-        "c": 4
+        "c": 5
       },
       {
         "d": "2025-10-30",
@@ -1339,6 +1339,11 @@
         "d": "2026-10-22",
         "l": 1,
         "c": 6
+      },
+      {
+        "d": "2026-10-29",
+        "l": 0,
+        "c": 0
       },
       {
         "d": "2025-10-31",
@@ -1878,18 +1883,18 @@
       "pushed": "2026-09-10T00:23:23Z"
     },
     {
+      "name": "vincenzo-afk",
+      "stars": 40,
+      "forks": 0,
+      "lang": "JavaScript",
+      "pushed": "2026-10-28T22:19:35Z"
+    },
+    {
       "name": "xithsense",
       "stars": 40,
       "forks": 0,
       "lang": "Python",
       "pushed": "2026-10-28T19:13:45Z"
-    },
-    {
-      "name": "vincenzo-afk",
-      "stars": 40,
-      "forks": 0,
-      "lang": "JavaScript",
-      "pushed": "2026-10-28T18:09:12Z"
     },
     {
       "name": "browserbrain",
@@ -1915,14 +1920,14 @@
   ],
   "fresh": [
     {
+      "name": "vincenzo-afk",
+      "pushed": "2026-10-28T22:19:35Z",
+      "lang": "JavaScript"
+    },
+    {
       "name": "xithsense",
       "pushed": "2026-10-28T19:13:45Z",
       "lang": "Python"
-    },
-    {
-      "name": "vincenzo-afk",
-      "pushed": "2026-10-28T18:09:12Z",
-      "lang": "JavaScript"
     },
     {
       "name": "cinebench",
@@ -1940,12 +1945,12 @@
       "lang": "Python"
     }
   ],
-  "lastPush": "2026-10-28T19:13:45Z",
-  "fetchedAt": "2026-10-28T22:19:32.852Z",
+  "lastPush": "2026-10-28T22:19:35Z",
+  "fetchedAt": "2026-10-29T04:52:59.856Z",
   "live": true,
-  "xp": 12442,
+  "xp": 12440,
   "level": 10,
-  "xpPct": 18,
+  "xpPct": 17,
   "transmissions": [
     {
       "t": "12:12",

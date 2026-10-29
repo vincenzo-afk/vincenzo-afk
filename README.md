@@ -37,7 +37,7 @@ CLASS ............. Full Stack Developer / AI Engineer
 SPECIALIZATION .... AI Systems · LLMs · Agents · Automation
 LOCATION .......... Tamil Nadu, India
 OBJECTIVE ......... Build useful systems beyond the demo.
-STATUS ............ ● BUILDING (xithsense pushed 3h ago)
+STATUS ............ ● BUILDING (vincenzo-afk pushed 6h ago)
 
 PRIMARY ........... AI Systems
 ACTIVE ............ Full Stack Engineering
@@ -61,15 +61,15 @@ Live language mix behind this tree (real repo data, Oct 2026): **TypeScript 30 �
 [![telemetry — click for live profile](assets/telemetry.svg)](https://github.com/vincenzo-afk)
 
 <!-- OS:telemetry-table -->
-| Metric | Live value (2026-10-28) | Source |
+| Metric | Live value (2026-10-29) | Source |
 |---|---|---|
 | Public repositories | **105** | `api.github.com/users/vincenzo-afk` |
-| Stars earned | **3,198** | sum of `stargazers_count` over all repos |
-| Contributions (1y) | **2,986** | public contribution graph (parsed, no auth) |
-| Followers / Following | **146 / 121** | user profile |
+| Stars earned | **3,199** | sum of `stargazers_count` over all repos |
+| Contributions (1y) | **2,987** | public contribution graph (parsed, no auth) |
+| Followers / Following | **145 / 121** | user profile |
 | Forks | **23** | sum of `forks_count` |
-| Last push | **xithsense, 3h ago** | repos sorted by `pushed_at` |
-| Fresh builds | xithsense · vincenzo-afk · cinebench | last 3 pushes |
+| Last push | **vincenzo-afk, 6h ago** | repos sorted by `pushed_at` |
+| Fresh builds | vincenzo-afk · xithsense · cinebench | last 3 pushes |
 
 Regenerated every 6h by `.github/workflows/update-profile.yml`. If the API is unreachable the cards show the last known state instead of an error.
 <!-- /OS:telemetry-table -->
@@ -101,7 +101,7 @@ Progress bars are manual build estimates; stars + last-push are live from the AP
 [![live game — click for the real contribution graph](assets/contribution-game.svg)](https://github.com/vincenzo-afk)
 
 <!-- OS:season-note -->
-**🌌 NOW PLAYING: GALAXY** — fueled by **2,986 real contributions** across **169 active days**. Season rotates automatically every week: 🚀 SPACE MISSION → 🐍 SNAKE RUN → 👾 PAC-MAN → 🏎️ CODE RACING → 🌌 GALAXY. Next up: **🚀 SPACE MISSION**. The game changes; the grind data never lies.
+**🚀 NOW PLAYING: SPACE MISSION** — fueled by **2,987 real contributions** across **169 active days**. Season rotates automatically every week: 🚀 SPACE MISSION → 🐍 SNAKE RUN → 👾 PAC-MAN → 🏎️ CODE RACING → 🌌 GALAXY. Next up: **🐍 SNAKE RUN**. The game changes; the grind data never lies.
 <!-- /OS:season-note -->
 
 ## 🎮 LEVEL SYSTEM *(custom profile gamification — not an official GitHub score)*
@@ -110,12 +110,12 @@ Progress bars are manual build estimates; stars + last-push are live from the AP
 ```text
 BK // LEVEL 10
 
-XP  ████░░░░░░░░░░░░░░░░░░  18%  (12,442 XP)
+XP  ████░░░░░░░░░░░░░░░░░░  17%  (12,440 XP)
 
 REPOS ×105 ............ +20 XP each
-STARS ×3,198 ......... +2 XP each
-FOLLOWERS ×146 ....... +5 XP each
-GRIND ×2,986 .... +1 XP each
+STARS ×3,199 ......... +2 XP each
+FOLLOWERS ×145 ....... +5 XP each
+GRIND ×2,987 .... +1 XP each
 ```
 <!-- /OS:level -->
 
@@ -193,7 +193,7 @@ Real public events, refreshed by the pipeline (`data/transmissions.json`):
 │ Kernel-One        ● DEVELOPMENT     │
 │ CypherID          ● DEVELOPMENT     │
 │                                     │
-│ LAST SYNC         2026-10-28 UTC    │
+│ LAST SYNC         2026-10-29 UTC    │
 └─────────────────────────────────────┘
 ```
 
@@ -237,7 +237,7 @@ Every node links back to its mission row above — one engineering journey, not 
 └── 105 public repos, 3100+ stars — search engines in Rust, WiFi sensing, RAG, agent infrastructure
 
 NOW
-└── Building systems instead of demos — xithsense, vincenzo-afk, cinebench in active development
+└── Building systems instead of demos — vincenzo-afk, xithsense, cinebench in active development
 ```
 <!-- /OS:lore -->
 
@@ -298,14 +298,14 @@ SIDE QUESTS
 ## 📊 DEVELOPER TELEMETRY
 
 <!-- OS:top-repos -->
-Top repositories by stars (live, 2026-10-28) — click any row to warp in:
+Top repositories by stars (live, 2026-10-29) — click any row to warp in:
 
 | Repo | ★ | Lang | Last push |
 |---|---|---|---|
 | [WIFI-based-human-presence-detection-system](https://github.com/vincenzo-afk/WIFI-based-human-presence-detection-system) | 45 | Python | Aug 23 |
 | [KingstonConnect](https://github.com/vincenzo-afk/KingstonConnect) | 41 | TypeScript | Sep 10 |
-| [xithsense](https://github.com/vincenzo-afk/xithsense) | 40 | Python | Oct 28 |
 | [vincenzo-afk](https://github.com/vincenzo-afk/vincenzo-afk) | 40 | JavaScript | Oct 28 |
+| [xithsense](https://github.com/vincenzo-afk/xithsense) | 40 | Python | Oct 28 |
 | [browserbrain](https://github.com/vincenzo-afk/browserbrain) | 40 | TypeScript | Oct 05 |
 | [NOVA](https://github.com/vincenzo-afk/NOVA) | 40 | Python | Sep 19 |
 | [PrivatePulse-AI](https://github.com/vincenzo-afk/PrivatePulse-AI) | 40 | TypeScript | Sep 19 |
@@ -343,8 +343,8 @@ Something better was installed.
 <!-- OS:footer -->
 ```
 ────────────────────────────────────────
-BK.DEV SYSTEM · VERSION 26.10.28
-LAST SYNCHRONIZED 2026-10-28 UTC · SOURCE api.github.com/users/vincenzo-afk
+BK.DEV SYSTEM · VERSION 26.10.29
+LAST SYNCHRONIZED 2026-10-29 UTC · SOURCE api.github.com/users/vincenzo-afk
 Built with: GitHub API · GitHub Actions · Node · SVG · SMIL
 [ SOURCE ] [ PROJECTS ] [ CONTACT: itsmebk2007@gmail.com ]
 ────────────────────────────────────────
