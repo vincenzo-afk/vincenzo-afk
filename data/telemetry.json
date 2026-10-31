@@ -2,13 +2,13 @@
   "name": "BHARANI KUMAR S",
   "created": "2025-09-19T10:45:52Z",
   "repos": 109,
-  "followers": 147,
+  "followers": 146,
   "following": 123,
   "stars": 3206,
   "forks": 23,
   "langs": {
-    "Python": 24,
     "JavaScript": 27,
+    "Python": 24,
     "TypeScript": 30,
     "Java": 1,
     "CSS": 2,
@@ -18,7 +18,7 @@
     "Kotlin": 2
   },
   "cal": {
-    "total": 3097,
+    "total": 3098,
     "days": [
       {
         "d": "2025-10-26",
@@ -1873,7 +1873,7 @@
       {
         "d": "2026-10-31",
         "l": 4,
-        "c": 104
+        "c": 105
       }
     ]
   },
@@ -1904,7 +1904,7 @@
       "stars": 40,
       "forks": 0,
       "lang": "JavaScript",
-      "pushed": "2026-10-31T14:55:19Z"
+      "pushed": "2026-10-31T17:03:46Z"
     },
     {
       "name": "xithsense",
@@ -1930,14 +1930,14 @@
   ],
   "fresh": [
     {
+      "name": "vincenzo-afk",
+      "pushed": "2026-10-31T17:03:46Z",
+      "lang": "JavaScript"
+    },
+    {
       "name": "CrewPilot",
       "pushed": "2026-10-31T15:44:04Z",
       "lang": "Python"
-    },
-    {
-      "name": "vincenzo-afk",
-      "pushed": "2026-10-31T14:55:19Z",
-      "lang": "JavaScript"
     },
     {
       "name": "Glyph",
@@ -1955,10 +1955,10 @@
       "lang": "Python"
     }
   ],
-  "lastPush": "2026-10-31T15:44:04Z",
-  "fetchedAt": "2026-10-31T16:58:40.700Z",
+  "lastPush": "2026-10-31T17:03:46Z",
+  "fetchedAt": "2026-10-31T21:10:01.393Z",
   "live": true,
-  "xp": 12654,
+  "xp": 12650,
   "level": 10,
   "xpPct": 26,
   "transmissions": [
