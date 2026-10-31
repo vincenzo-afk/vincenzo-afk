@@ -37,7 +37,7 @@ CLASS ............. Full Stack Developer / AI Engineer
 SPECIALIZATION .... AI Systems · LLMs · Agents · Automation
 LOCATION .......... Tamil Nadu, India
 OBJECTIVE ......... Build useful systems beyond the demo.
-STATUS ............ ● BUILDING (vincenzo-afk pushed 4h ago)
+STATUS ............ ● BUILDING (Glyph pushed 1h ago)
 
 PRIMARY ........... AI Systems
 ACTIVE ............ Full Stack Engineering
@@ -52,7 +52,7 @@ EXPERIMENTAL ...... Speech / Multimodal / Blockchain identity
 [![skill tree — click for loadout](assets/skill-tree.svg)](#-loadout)
 
 <!-- OS:skill-mix -->
-Live language mix behind this tree (real repo data, Oct 2026): **TypeScript 30 · JavaScript 27 · Python 21 · Rust 3 · HTML 3 · CSS 2 · Dart 2 · Kotlin 2 · Java 1** — 105 public repos. Language counts describe the repos, not skill claims.
+Live language mix behind this tree (real repo data, Oct 2026): **TypeScript 30 · JavaScript 27 · Python 22 · Rust 3 · HTML 3 · CSS 2 · Dart 2 · Kotlin 2 · Java 1** — 107 public repos. Language counts describe the repos, not skill claims.
 <!-- /OS:skill-mix -->
 
 ---
@@ -61,15 +61,15 @@ Live language mix behind this tree (real repo data, Oct 2026): **TypeScript 30 �
 [![telemetry — click for live profile](assets/telemetry.svg)](https://github.com/vincenzo-afk)
 
 <!-- OS:telemetry-table -->
-| Metric | Live value (2026-10-30) | Source |
+| Metric | Live value (2026-10-31) | Source |
 |---|---|---|
-| Public repositories | **105** | `api.github.com/users/vincenzo-afk` |
-| Stars earned | **3,201** | sum of `stargazers_count` over all repos |
-| Contributions (1y) | **2,996** | public contribution graph (parsed, no auth) |
+| Public repositories | **107** | `api.github.com/users/vincenzo-afk` |
+| Stars earned | **3,203** | sum of `stargazers_count` over all repos |
+| Contributions (1y) | **3,003** | public contribution graph (parsed, no auth) |
 | Followers / Following | **147 / 123** | user profile |
 | Forks | **23** | sum of `forks_count` |
-| Last push | **vincenzo-afk, 4h ago** | repos sorted by `pushed_at` |
-| Fresh builds | vincenzo-afk · xithsense · cinebench | last 3 pushes |
+| Last push | **Glyph, 1h ago** | repos sorted by `pushed_at` |
+| Fresh builds | Glyph · claude-cookbooks · ariadne-web-agent | last 3 pushes |
 
 Regenerated every 6h by `.github/workflows/update-profile.yml`. If the API is unreachable the cards show the last known state instead of an error.
 <!-- /OS:telemetry-table -->
@@ -101,7 +101,7 @@ Progress bars are manual build estimates; stars + last-push are live from the AP
 [![live game — click for the real contribution graph](assets/contribution-game.svg)](https://github.com/vincenzo-afk)
 
 <!-- OS:season-note -->
-**🚀 NOW PLAYING: SPACE MISSION** — fueled by **2,996 real contributions** across **171 active days**. Season rotates automatically every week: 🚀 SPACE MISSION → 🐍 SNAKE RUN → 👾 PAC-MAN → 🏎️ CODE RACING → 🌌 GALAXY. Next up: **🐍 SNAKE RUN**. The game changes; the grind data never lies.
+**🚀 NOW PLAYING: SPACE MISSION** — fueled by **3,003 real contributions** across **172 active days**. Season rotates automatically every week: 🚀 SPACE MISSION → 🐍 SNAKE RUN → 👾 PAC-MAN → 🏎️ CODE RACING → 🌌 GALAXY. Next up: **🐍 SNAKE RUN**. The game changes; the grind data never lies.
 <!-- /OS:season-note -->
 
 ## 🎮 LEVEL SYSTEM *(custom profile gamification — not an official GitHub score)*
@@ -110,12 +110,12 @@ Progress bars are manual build estimates; stars + last-push are live from the AP
 ```text
 BK // LEVEL 10
 
-XP  ████░░░░░░░░░░░░░░░░░░  18%  (12,463 XP)
+XP  ████░░░░░░░░░░░░░░░░░░  20%  (12,514 XP)
 
-REPOS ×105 ............ +20 XP each
-STARS ×3,201 ......... +2 XP each
+REPOS ×107 ............ +20 XP each
+STARS ×3,203 ......... +2 XP each
 FOLLOWERS ×147 ....... +5 XP each
-GRIND ×2,996 .... +1 XP each
+GRIND ×3,003 .... +1 XP each
 ```
 <!-- /OS:level -->
 
@@ -169,13 +169,13 @@ Real public events, refreshed by the pipeline (`data/transmissions.json`):
 
 <!-- OS:transmissions -->
 ```text
+02:34  starred ariadne-web-agent
+02:33  starred Glyph
 12:12  pushed to hackerrank-orchestrate-ghost-data
 16:11  pushed to hackerrank-orchestrate-ghost-data
 13:29  created branch in hackerrank-orchestrate-ghost-data
 13:29  public activity in hackerrank-orchestrate-ghost-data
 04:31  pushed to hackerrank-orchestrate-ghost-data
-04:30  pushed to hackerrank-orchestrate-ghost-data
-18:41  pushed to hackerrank-orchestrate-ghost-data
 ```
 <!-- /OS:transmissions -->
 
@@ -193,7 +193,7 @@ Real public events, refreshed by the pipeline (`data/transmissions.json`):
 │ Kernel-One        ● DEVELOPMENT     │
 │ CypherID          ● DEVELOPMENT     │
 │                                     │
-│ LAST SYNC         2026-10-30 UTC    │
+│ LAST SYNC         2026-10-31 UTC    │
 └─────────────────────────────────────┘
 ```
 
@@ -234,10 +234,10 @@ Every node links back to its mission row above — one engineering journey, not 
 └── AI systems enter the lab — NOVA, Zen-2 (124M LLM from scratch), OpenAgentNet, AgentWeb
 
 2026
-└── 105 public repos, 3200+ stars — search engines in Rust, WiFi sensing, RAG, agent infrastructure
+└── 107 public repos, 3200+ stars — search engines in Rust, WiFi sensing, RAG, agent infrastructure
 
 NOW
-└── Building systems instead of demos — vincenzo-afk, xithsense, cinebench in active development
+└── Building systems instead of demos — Glyph, claude-cookbooks, ariadne-web-agent in active development
 ```
 <!-- /OS:lore -->
 
@@ -298,7 +298,7 @@ SIDE QUESTS
 ## 📊 DEVELOPER TELEMETRY
 
 <!-- OS:top-repos -->
-Top repositories by stars (live, 2026-10-30) — click any row to warp in:
+Top repositories by stars (live, 2026-10-31) — click any row to warp in:
 
 | Repo | ★ | Lang | Last push |
 |---|---|---|---|
@@ -343,8 +343,8 @@ Something better was installed.
 <!-- OS:footer -->
 ```
 ────────────────────────────────────────
-BK.DEV SYSTEM · VERSION 26.10.30
-LAST SYNCHRONIZED 2026-10-30 UTC · SOURCE api.github.com/users/vincenzo-afk
+BK.DEV SYSTEM · VERSION 26.10.31
+LAST SYNCHRONIZED 2026-10-31 UTC · SOURCE api.github.com/users/vincenzo-afk
 Built with: GitHub API · GitHub Actions · Node · SVG · SMIL
 [ SOURCE ] [ PROJECTS ] [ CONTACT: itsmebk2007@gmail.com ]
 ────────────────────────────────────────
