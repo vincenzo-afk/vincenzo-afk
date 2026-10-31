@@ -37,7 +37,7 @@ CLASS ............. Full Stack Developer / AI Engineer
 SPECIALIZATION .... AI Systems · LLMs · Agents · Automation
 LOCATION .......... Tamil Nadu, India
 OBJECTIVE ......... Build useful systems beyond the demo.
-STATUS ............ ● BUILDING (vincenzo-afk pushed 38m ago)
+STATUS ............ ● BUILDING (Glyph pushed 5h ago)
 
 PRIMARY ........... AI Systems
 ACTIVE ............ Full Stack Engineering
@@ -52,7 +52,7 @@ EXPERIMENTAL ...... Speech / Multimodal / Blockchain identity
 [![skill tree — click for loadout](assets/skill-tree.svg)](#-loadout)
 
 <!-- OS:skill-mix -->
-Live language mix behind this tree (real repo data, Oct 2026): **TypeScript 30 · JavaScript 27 · Python 22 · Rust 3 · HTML 3 · CSS 2 · Dart 2 · Kotlin 2 · Java 1** — 108 public repos. Language counts describe the repos, not skill claims.
+Live language mix behind this tree (real repo data, Oct 2026): **TypeScript 30 · JavaScript 27 · Python 23 · Rust 3 · HTML 3 · CSS 2 · Dart 2 · Kotlin 2 · Java 1** — 108 public repos. Language counts describe the repos, not skill claims.
 <!-- /OS:skill-mix -->
 
 ---
@@ -65,11 +65,11 @@ Live language mix behind this tree (real repo data, Oct 2026): **TypeScript 30 �
 |---|---|---|
 | Public repositories | **108** | `api.github.com/users/vincenzo-afk` |
 | Stars earned | **3,204** | sum of `stargazers_count` over all repos |
-| Contributions (1y) | **3,006** | public contribution graph (parsed, no auth) |
+| Contributions (1y) | **3,086** | public contribution graph (parsed, no auth) |
 | Followers / Following | **147 / 123** | user profile |
 | Forks | **23** | sum of `forks_count` |
-| Last push | **vincenzo-afk, 38m ago** | repos sorted by `pushed_at` |
-| Fresh builds | vincenzo-afk · enterprise-rag-rocm · ariadne-web-agent | last 3 pushes |
+| Last push | **Glyph, 5h ago** | repos sorted by `pushed_at` |
+| Fresh builds | Glyph · vincenzo-afk · enterprise-rag-rocm | last 3 pushes |
 
 Regenerated every 6h by `.github/workflows/update-profile.yml`. If the API is unreachable the cards show the last known state instead of an error.
 <!-- /OS:telemetry-table -->
@@ -101,7 +101,7 @@ Progress bars are manual build estimates; stars + last-push are live from the AP
 [![live game — click for the real contribution graph](assets/contribution-game.svg)](https://github.com/vincenzo-afk)
 
 <!-- OS:season-note -->
-**🚀 NOW PLAYING: SPACE MISSION** — fueled by **3,006 real contributions** across **172 active days**. Season rotates automatically every week: 🚀 SPACE MISSION → 🐍 SNAKE RUN → 👾 PAC-MAN → 🏎️ CODE RACING → 🌌 GALAXY. Next up: **🐍 SNAKE RUN**. The game changes; the grind data never lies.
+**🚀 NOW PLAYING: SPACE MISSION** — fueled by **3,086 real contributions** across **172 active days**. Season rotates automatically every week: 🚀 SPACE MISSION → 🐍 SNAKE RUN → 👾 PAC-MAN → 🏎️ CODE RACING → 🌌 GALAXY. Next up: **🐍 SNAKE RUN**. The game changes; the grind data never lies.
 <!-- /OS:season-note -->
 
 ## 🎮 LEVEL SYSTEM *(custom profile gamification — not an official GitHub score)*
@@ -110,12 +110,12 @@ Progress bars are manual build estimates; stars + last-push are live from the AP
 ```text
 BK // LEVEL 10
 
-XP  █████░░░░░░░░░░░░░░░░░  21%  (12,539 XP)
+XP  ██████░░░░░░░░░░░░░░░░  25%  (12,619 XP)
 
 REPOS ×108 ............ +20 XP each
 STARS ×3,204 ......... +2 XP each
 FOLLOWERS ×147 ....... +5 XP each
-GRIND ×3,006 .... +1 XP each
+GRIND ×3,086 .... +1 XP each
 ```
 <!-- /OS:level -->
 
@@ -237,7 +237,7 @@ Every node links back to its mission row above — one engineering journey, not 
 └── 108 public repos, 3200+ stars — search engines in Rust, WiFi sensing, RAG, agent infrastructure
 
 NOW
-└── Building systems instead of demos — vincenzo-afk, enterprise-rag-rocm, ariadne-web-agent in active development
+└── Building systems instead of demos — Glyph, vincenzo-afk, enterprise-rag-rocm in active development
 ```
 <!-- /OS:lore -->
 
