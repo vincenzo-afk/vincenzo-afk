@@ -37,7 +37,7 @@ CLASS ............. Full Stack Developer / AI Engineer
 SPECIALIZATION .... AI Systems · LLMs · Agents · Automation
 LOCATION .......... Tamil Nadu, India
 OBJECTIVE ......... Build useful systems beyond the demo.
-STATUS ............ ● BUILDING (Glyph pushed 5h ago)
+STATUS ............ ● BUILDING (CrewPilot pushed 1h ago)
 
 PRIMARY ........... AI Systems
 ACTIVE ............ Full Stack Engineering
@@ -52,7 +52,7 @@ EXPERIMENTAL ...... Speech / Multimodal / Blockchain identity
 [![skill tree — click for loadout](assets/skill-tree.svg)](#-loadout)
 
 <!-- OS:skill-mix -->
-Live language mix behind this tree (real repo data, Oct 2026): **TypeScript 30 · JavaScript 27 · Python 23 · Rust 3 · HTML 3 · CSS 2 · Dart 2 · Kotlin 2 · Java 1** — 108 public repos. Language counts describe the repos, not skill claims.
+Live language mix behind this tree (real repo data, Oct 2026): **TypeScript 30 · JavaScript 27 · Python 24 · Rust 3 · HTML 3 · CSS 2 · Dart 2 · Kotlin 2 · Java 1** — 109 public repos. Language counts describe the repos, not skill claims.
 <!-- /OS:skill-mix -->
 
 ---
@@ -63,13 +63,13 @@ Live language mix behind this tree (real repo data, Oct 2026): **TypeScript 30 �
 <!-- OS:telemetry-table -->
 | Metric | Live value (2026-10-31) | Source |
 |---|---|---|
-| Public repositories | **108** | `api.github.com/users/vincenzo-afk` |
-| Stars earned | **3,204** | sum of `stargazers_count` over all repos |
-| Contributions (1y) | **3,086** | public contribution graph (parsed, no auth) |
+| Public repositories | **109** | `api.github.com/users/vincenzo-afk` |
+| Stars earned | **3,206** | sum of `stargazers_count` over all repos |
+| Contributions (1y) | **3,097** | public contribution graph (parsed, no auth) |
 | Followers / Following | **147 / 123** | user profile |
 | Forks | **23** | sum of `forks_count` |
-| Last push | **Glyph, 5h ago** | repos sorted by `pushed_at` |
-| Fresh builds | Glyph · vincenzo-afk · enterprise-rag-rocm | last 3 pushes |
+| Last push | **CrewPilot, 1h ago** | repos sorted by `pushed_at` |
+| Fresh builds | CrewPilot · vincenzo-afk · Glyph | last 3 pushes |
 
 Regenerated every 6h by `.github/workflows/update-profile.yml`. If the API is unreachable the cards show the last known state instead of an error.
 <!-- /OS:telemetry-table -->
@@ -87,10 +87,10 @@ Regenerated every 6h by `.github/workflows/update-profile.yml`. If the API is un
 | 003 | **Zen-2** — 124M-parameter decoder-only LLM from scratch — RoPE, RMSNorm, SwiGLU, GQA, KV Cache, BPE. | ● RESEARCH | [vincenzo-afk/Zen-2](https://github.com/vincenzo-afk/Zen-2) · 38★ · 2mo ago |
 | 004 | **NOVA-exe** — Local-first desktop AI agent platform. Most recently pushed repo — under active construction. | ● BUILDING | [vincenzo-afk/NOVA-exe](https://github.com/vincenzo-afk/NOVA-exe) · 23★ · 28d ago |
 | 005 | **Kernel-One** — Industrial AI operating environment — every AI action controlled, auditable, permission-aware. | ● BUILDING | [vincenzo-afk/Kernel-One](https://github.com/vincenzo-afk/Kernel-One) · 23★ · 1mo ago |
-| 006 | **CypherID** — Blockchain-based secure platform for identity, access control, and digital asset management. | ● BUILDING | [vincenzo-afk/CypherID](https://github.com/vincenzo-afk/CypherID) · 25★ · 12d ago |
+| 006 | **CypherID** — Blockchain-based secure platform for identity, access control, and digital asset management. | ● BUILDING | [vincenzo-afk/CypherID](https://github.com/vincenzo-afk/CypherID) · 25★ · 13d ago |
 | 007 | **WIFI-SENSE** — WiFi CSI-based human presence, occupancy, zone and activity detection dashboard. No cameras. | ● OPERATIONAL | [vincenzo-afk/WIFI-based-human-presence-detection-system](https://github.com/vincenzo-afk/WIFI-based-human-presence-detection-system) · 45★ · 2mo ago |
 | 008 | **PrivatePulse-AI** — RAG-powered confidential document intelligence with grounded, cited answers. Hackathon-built. | ● OPERATIONAL | [vincenzo-afk/PrivatePulse-AI](https://github.com/vincenzo-afk/PrivatePulse-AI) · 40★ · 1mo ago |
-| 009 | **browserbrain** — Browser-first local AI research workspace — on-device inference with free web grounding. | ● EXPERIMENTAL | [vincenzo-afk/browserbrain](https://github.com/vincenzo-afk/browserbrain) · 40★ · 25d ago |
+| 009 | **browserbrain** — Browser-first local AI research workspace — on-device inference with free web grounding. | ● EXPERIMENTAL | [vincenzo-afk/browserbrain](https://github.com/vincenzo-afk/browserbrain) · 40★ · 26d ago |
 
 Progress bars are manual build estimates; stars + last-push are live from the API. Edit `data/projects.json` to change the manifest.
 <!-- /OS:missions-table -->
@@ -101,7 +101,7 @@ Progress bars are manual build estimates; stars + last-push are live from the AP
 [![live game — click for the real contribution graph](assets/contribution-game.svg)](https://github.com/vincenzo-afk)
 
 <!-- OS:season-note -->
-**🚀 NOW PLAYING: SPACE MISSION** — fueled by **3,086 real contributions** across **172 active days**. Season rotates automatically every week: 🚀 SPACE MISSION → 🐍 SNAKE RUN → 👾 PAC-MAN → 🏎️ CODE RACING → 🌌 GALAXY. Next up: **🐍 SNAKE RUN**. The game changes; the grind data never lies.
+**🚀 NOW PLAYING: SPACE MISSION** — fueled by **3,097 real contributions** across **172 active days**. Season rotates automatically every week: 🚀 SPACE MISSION → 🐍 SNAKE RUN → 👾 PAC-MAN → 🏎️ CODE RACING → 🌌 GALAXY. Next up: **🐍 SNAKE RUN**. The game changes; the grind data never lies.
 <!-- /OS:season-note -->
 
 ## 🎮 LEVEL SYSTEM *(custom profile gamification — not an official GitHub score)*
@@ -110,12 +110,12 @@ Progress bars are manual build estimates; stars + last-push are live from the AP
 ```text
 BK // LEVEL 10
 
-XP  ██████░░░░░░░░░░░░░░░░  25%  (12,619 XP)
+XP  ██████░░░░░░░░░░░░░░░░  26%  (12,654 XP)
 
-REPOS ×108 ............ +20 XP each
-STARS ×3,204 ......... +2 XP each
+REPOS ×109 ............ +20 XP each
+STARS ×3,206 ......... +2 XP each
 FOLLOWERS ×147 ....... +5 XP each
-GRIND ×3,086 .... +1 XP each
+GRIND ×3,097 .... +1 XP each
 ```
 <!-- /OS:level -->
 
@@ -169,13 +169,13 @@ Real public events, refreshed by the pipeline (`data/transmissions.json`):
 
 <!-- OS:transmissions -->
 ```text
+12:27  public activity in CrewPilot
+12:28  starred CrewPilot
 04:51  starred enterprise-rag-rocm
 02:34  starred ariadne-web-agent
 02:33  starred Glyph
 12:12  pushed to hackerrank-orchestrate-ghost-data
 16:11  pushed to hackerrank-orchestrate-ghost-data
-13:29  created branch in hackerrank-orchestrate-ghost-data
-13:29  public activity in hackerrank-orchestrate-ghost-data
 ```
 <!-- /OS:transmissions -->
 
@@ -234,10 +234,10 @@ Every node links back to its mission row above — one engineering journey, not 
 └── AI systems enter the lab — NOVA, Zen-2 (124M LLM from scratch), OpenAgentNet, AgentWeb
 
 2026
-└── 108 public repos, 3200+ stars — search engines in Rust, WiFi sensing, RAG, agent infrastructure
+└── 109 public repos, 3200+ stars — search engines in Rust, WiFi sensing, RAG, agent infrastructure
 
 NOW
-└── Building systems instead of demos — Glyph, vincenzo-afk, enterprise-rag-rocm in active development
+└── Building systems instead of demos — CrewPilot, vincenzo-afk, Glyph in active development
 ```
 <!-- /OS:lore -->
 
