@@ -37,7 +37,7 @@ CLASS ............. Full Stack Developer / AI Engineer
 SPECIALIZATION .... AI Systems · LLMs · Agents · Automation
 LOCATION .......... Tamil Nadu, India
 OBJECTIVE ......... Build useful systems beyond the demo.
-STATUS ............ ● BUILDING (vincenzo-afk pushed 4h ago)
+STATUS ............ ● BUILDING (NEXUS-ENGINE pushed 3h ago)
 
 PRIMARY ........... AI Systems
 ACTIVE ............ Full Stack Engineering
@@ -61,15 +61,15 @@ Live language mix behind this tree (real repo data, Nov 2026): **TypeScript 30 �
 [![telemetry — click for live profile](assets/telemetry.svg)](https://github.com/vincenzo-afk)
 
 <!-- OS:telemetry-table -->
-| Metric | Live value (2026-11-01) | Source |
+| Metric | Live value (2026-11-02) | Source |
 |---|---|---|
 | Public repositories | **109** | `api.github.com/users/vincenzo-afk` |
 | Stars earned | **3,207** | sum of `stargazers_count` over all repos |
-| Contributions (1y) | **3,106** | public contribution graph (parsed, no auth) |
-| Followers / Following | **145 / 123** | user profile |
+| Contributions (1y) | **3,107** | public contribution graph (parsed, no auth) |
+| Followers / Following | **146 / 123** | user profile |
 | Forks | **23** | sum of `forks_count` |
-| Last push | **vincenzo-afk, 4h ago** | repos sorted by `pushed_at` |
-| Fresh builds | vincenzo-afk · 3d · CrewPilot | last 3 pushes |
+| Last push | **NEXUS-ENGINE, 3h ago** | repos sorted by `pushed_at` |
+| Fresh builds | NEXUS-ENGINE · vincenzo-afk · 3d | last 3 pushes |
 
 Regenerated every 6h by `.github/workflows/update-profile.yml`. If the API is unreachable the cards show the last known state instead of an error.
 <!-- /OS:telemetry-table -->
@@ -83,9 +83,9 @@ Regenerated every 6h by `.github/workflows/update-profile.yml`. If the API is un
 | # | Mission | Status | Live repo |
 |---|---|---|---|
 | 001 | **DEVNEXUS** — AI-powered developer command center: GitHub context, progress narratives, smart TODOs, hackathon planning. | ● OPERATIONAL | [vincenzo-afk/DEVNEXUS](https://github.com/vincenzo-afk/DEVNEXUS) · 40★ · 1mo ago |
-| 002 | **NEXUS-ENGINE** — Full-featured search engine in Rust — local filesystem + web crawl with BM25+PageRank ranking. | ● OPERATIONAL | [vincenzo-afk/NEXUS-ENGINE](https://github.com/vincenzo-afk/NEXUS-ENGINE) · 38★ · 2mo ago |
+| 002 | **NEXUS-ENGINE** — Full-featured search engine in Rust — local filesystem + web crawl with BM25+PageRank ranking. | ● OPERATIONAL | [vincenzo-afk/NEXUS-ENGINE](https://github.com/vincenzo-afk/NEXUS-ENGINE) · 38★ · 3h ago |
 | 003 | **Zen-2** — 124M-parameter decoder-only LLM from scratch — RoPE, RMSNorm, SwiGLU, GQA, KV Cache, BPE. | ● RESEARCH | [vincenzo-afk/Zen-2](https://github.com/vincenzo-afk/Zen-2) · 38★ · 2mo ago |
-| 004 | **NOVA-exe** — Local-first desktop AI agent platform. Most recently pushed repo — under active construction. | ● BUILDING | [vincenzo-afk/NOVA-exe](https://github.com/vincenzo-afk/NOVA-exe) · 23★ · 29d ago |
+| 004 | **NOVA-exe** — Local-first desktop AI agent platform. Most recently pushed repo — under active construction. | ● BUILDING | [vincenzo-afk/NOVA-exe](https://github.com/vincenzo-afk/NOVA-exe) · 23★ · 1mo ago |
 | 005 | **Kernel-One** — Industrial AI operating environment — every AI action controlled, auditable, permission-aware. | ● BUILDING | [vincenzo-afk/Kernel-One](https://github.com/vincenzo-afk/Kernel-One) · 23★ · 1mo ago |
 | 006 | **CypherID** — Blockchain-based secure platform for identity, access control, and digital asset management. | ● BUILDING | [vincenzo-afk/CypherID](https://github.com/vincenzo-afk/CypherID) · 25★ · 14d ago |
 | 007 | **WIFI-SENSE** — WiFi CSI-based human presence, occupancy, zone and activity detection dashboard. No cameras. | ● OPERATIONAL | [vincenzo-afk/WIFI-based-human-presence-detection-system](https://github.com/vincenzo-afk/WIFI-based-human-presence-detection-system) · 45★ · 2mo ago |
@@ -101,7 +101,7 @@ Progress bars are manual build estimates; stars + last-push are live from the AP
 [![live game — click for the real contribution graph](assets/contribution-game.svg)](https://github.com/vincenzo-afk)
 
 <!-- OS:season-note -->
-**🚀 NOW PLAYING: SPACE MISSION** — fueled by **3,106 real contributions** across **173 active days**. Season rotates automatically every week: 🚀 SPACE MISSION → 🐍 SNAKE RUN → 👾 PAC-MAN → 🏎️ CODE RACING → 🌌 GALAXY. Next up: **🐍 SNAKE RUN**. The game changes; the grind data never lies.
+**🚀 NOW PLAYING: SPACE MISSION** — fueled by **3,107 real contributions** across **173 active days**. Season rotates automatically every week: 🚀 SPACE MISSION → 🐍 SNAKE RUN → 👾 PAC-MAN → 🏎️ CODE RACING → 🌌 GALAXY. Next up: **🐍 SNAKE RUN**. The game changes; the grind data never lies.
 <!-- /OS:season-note -->
 
 ## 🎮 LEVEL SYSTEM *(custom profile gamification — not an official GitHub score)*
@@ -110,12 +110,12 @@ Progress bars are manual build estimates; stars + last-push are live from the AP
 ```text
 BK // LEVEL 10
 
-XP  ██████░░░░░░░░░░░░░░░░  26%  (12,655 XP)
+XP  ██████░░░░░░░░░░░░░░░░  26%  (12,661 XP)
 
 REPOS ×109 ............ +20 XP each
 STARS ×3,207 ......... +2 XP each
-FOLLOWERS ×145 ....... +5 XP each
-GRIND ×3,106 .... +1 XP each
+FOLLOWERS ×146 ....... +5 XP each
+GRIND ×3,107 .... +1 XP each
 ```
 <!-- /OS:level -->
 
@@ -169,13 +169,13 @@ Real public events, refreshed by the pipeline (`data/transmissions.json`):
 
 <!-- OS:transmissions -->
 ```text
+06:26  pushed to Glyph
+06:09  created branch in Glyph
+04:51  created branch in enterprise-rag-rocm
 02:33  created branch in Glyph
 02:21  pushed to ariadne-web-agent
 02:10  pushed to ariadne-web-agent
 04:48  pushed to ariadne-web-agent
-02:11  pushed to ariadne-web-agent
-01:51  created branch in ariadne-web-agent
-02:39  pushed to Glyph
 ```
 <!-- /OS:transmissions -->
 
@@ -193,7 +193,7 @@ Real public events, refreshed by the pipeline (`data/transmissions.json`):
 │ Kernel-One        ● DEVELOPMENT     │
 │ CypherID          ● DEVELOPMENT     │
 │                                     │
-│ LAST SYNC         2026-11-01 UTC    │
+│ LAST SYNC         2026-11-02 UTC    │
 └─────────────────────────────────────┘
 ```
 
@@ -237,7 +237,7 @@ Every node links back to its mission row above — one engineering journey, not 
 └── 109 public repos, 3200+ stars — search engines in Rust, WiFi sensing, RAG, agent infrastructure
 
 NOW
-└── Building systems instead of demos — vincenzo-afk, 3d, CrewPilot in active development
+└── Building systems instead of demos — NEXUS-ENGINE, vincenzo-afk, 3d in active development
 ```
 <!-- /OS:lore -->
 
@@ -298,7 +298,7 @@ SIDE QUESTS
 ## 📊 DEVELOPER TELEMETRY
 
 <!-- OS:top-repos -->
-Top repositories by stars (live, 2026-11-01) — click any row to warp in:
+Top repositories by stars (live, 2026-11-02) — click any row to warp in:
 
 | Repo | ★ | Lang | Last push |
 |---|---|---|---|
@@ -343,8 +343,8 @@ Something better was installed.
 <!-- OS:footer -->
 ```
 ────────────────────────────────────────
-BK.DEV SYSTEM · VERSION 26.11.01
-LAST SYNCHRONIZED 2026-11-01 UTC · SOURCE api.github.com/users/vincenzo-afk
+BK.DEV SYSTEM · VERSION 26.11.02
+LAST SYNCHRONIZED 2026-11-02 UTC · SOURCE api.github.com/users/vincenzo-afk
 Built with: GitHub API · GitHub Actions · Node · SVG · SMIL
 [ SOURCE ] [ PROJECTS ] [ CONTACT: itsmebk2007@gmail.com ]
 ────────────────────────────────────────
