@@ -204,8 +204,8 @@ Health is verified read-only by `.github/workflows/health-check.yml` — it fail
 
 <!-- OS:ops -->
 ```text
-LAST OPS CHECK .... 2026-11-01 UTC
-PORTFOLIO ......... ● ONLINE (HTTP 200, 431ms)
+LAST OPS CHECK .... 2026-11-02 UTC
+PORTFOLIO ......... ● ONLINE (HTTP 200, 485ms)
 MISSIONS .......... 9/9 reachable via API
 VERDICT ........... ● ALL SYSTEMS NOMINAL
 ```
