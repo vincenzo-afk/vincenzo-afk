@@ -37,7 +37,7 @@ CLASS ............. Full Stack Developer / AI Engineer
 SPECIALIZATION .... AI Systems · LLMs · Agents · Automation
 LOCATION .......... Tamil Nadu, India
 OBJECTIVE ......... Build useful systems beyond the demo.
-STATUS ............ ● BUILDING (vincenzo-afk pushed 3h ago)
+STATUS ............ ● BUILDING (vincenzo-afk pushed 25m ago)
 
 PRIMARY ........... AI Systems
 ACTIVE ............ Full Stack Engineering
@@ -65,10 +65,10 @@ Live language mix behind this tree (real repo data, Nov 2026): **TypeScript 30 �
 |---|---|---|
 | Public repositories | **109** | `api.github.com/users/vincenzo-afk` |
 | Stars earned | **3,212** | sum of `stargazers_count` over all repos |
-| Contributions (1y) | **3,136** | public contribution graph (parsed, no auth) |
+| Contributions (1y) | **3,137** | public contribution graph (parsed, no auth) |
 | Followers / Following | **143 / 119** | user profile |
 | Forks | **24** | sum of `forks_count` |
-| Last push | **vincenzo-afk, 3h ago** | repos sorted by `pushed_at` |
+| Last push | **vincenzo-afk, 25m ago** | repos sorted by `pushed_at` |
 | Fresh builds | vincenzo-afk · CrewPilot · xithsense | last 3 pushes |
 
 Regenerated every 6h by `.github/workflows/update-profile.yml`. If the API is unreachable the cards show the last known state instead of an error.
@@ -83,7 +83,7 @@ Regenerated every 6h by `.github/workflows/update-profile.yml`. If the API is un
 | # | Mission | Status | Live repo |
 |---|---|---|---|
 | 001 | **DEVNEXUS** — AI-powered developer command center: GitHub context, progress narratives, smart TODOs, hackathon planning. | ● OPERATIONAL | [vincenzo-afk/DEVNEXUS](https://github.com/vincenzo-afk/DEVNEXUS) · 40★ · 2mo ago |
-| 002 | **NEXUS-ENGINE** — Full-featured search engine in Rust — local filesystem + web crawl with BM25+PageRank ranking. | ● OPERATIONAL | [vincenzo-afk/NEXUS-ENGINE](https://github.com/vincenzo-afk/NEXUS-ENGINE) · 38★ · 7d ago |
+| 002 | **NEXUS-ENGINE** — Full-featured search engine in Rust — local filesystem + web crawl with BM25+PageRank ranking. | ● OPERATIONAL | [vincenzo-afk/NEXUS-ENGINE](https://github.com/vincenzo-afk/NEXUS-ENGINE) · 38★ · 8d ago |
 | 003 | **Zen-2** — 124M-parameter decoder-only LLM from scratch — RoPE, RMSNorm, SwiGLU, GQA, KV Cache, BPE. | ● RESEARCH | [vincenzo-afk/Zen-2](https://github.com/vincenzo-afk/Zen-2) · 38★ · 2mo ago |
 | 004 | **NOVA-exe** — Local-first desktop AI agent platform. Most recently pushed repo — under active construction. | ● BUILDING | [vincenzo-afk/NOVA-exe](https://github.com/vincenzo-afk/NOVA-exe) · 23★ · 1mo ago |
 | 005 | **Kernel-One** — Industrial AI operating environment — every AI action controlled, auditable, permission-aware. | ● BUILDING | [vincenzo-afk/Kernel-One](https://github.com/vincenzo-afk/Kernel-One) · 23★ · 1mo ago |
@@ -101,7 +101,7 @@ Progress bars are manual build estimates; stars + last-push are live from the AP
 [![live game — click for the real contribution graph](assets/contribution-game.svg)](https://github.com/vincenzo-afk)
 
 <!-- OS:season-note -->
-**🐍 NOW PLAYING: SNAKE RUN** — fueled by **3,136 real contributions** across **179 active days**. Season rotates automatically every week: 🚀 SPACE MISSION → 🐍 SNAKE RUN → 👾 PAC-MAN → 🏎️ CODE RACING → 🌌 GALAXY. Next up: **👾 PAC-MAN**. The game changes; the grind data never lies.
+**🐍 NOW PLAYING: SNAKE RUN** — fueled by **3,137 real contributions** across **180 active days**. Season rotates automatically every week: 🚀 SPACE MISSION → 🐍 SNAKE RUN → 👾 PAC-MAN → 🏎️ CODE RACING → 🌌 GALAXY. Next up: **👾 PAC-MAN**. The game changes; the grind data never lies.
 <!-- /OS:season-note -->
 
 ## 🎮 LEVEL SYSTEM *(custom profile gamification — not an official GitHub score)*
@@ -110,12 +110,12 @@ Progress bars are manual build estimates; stars + last-push are live from the AP
 ```text
 BK // LEVEL 10
 
-XP  ██████░░░░░░░░░░░░░░░░  28%  (12,695 XP)
+XP  ██████░░░░░░░░░░░░░░░░  28%  (12,696 XP)
 
 REPOS ×109 ............ +20 XP each
 STARS ×3,212 ......... +2 XP each
 FOLLOWERS ×143 ....... +5 XP each
-GRIND ×3,136 .... +1 XP each
+GRIND ×3,137 .... +1 XP each
 ```
 <!-- /OS:level -->
 
@@ -305,7 +305,7 @@ Top repositories by stars (live, 2026-11-10) — click any row to warp in:
 | [WIFI-based-human-presence-detection-system](https://github.com/vincenzo-afk/WIFI-based-human-presence-detection-system) | 46 | Python | Aug 23 |
 | [NOVA](https://github.com/vincenzo-afk/NOVA) | 42 | Python | Sep 19 |
 | [KingstonConnect](https://github.com/vincenzo-afk/KingstonConnect) | 41 | TypeScript | Sep 10 |
-| [vincenzo-afk](https://github.com/vincenzo-afk/vincenzo-afk) | 40 | JavaScript | Nov 09 |
+| [vincenzo-afk](https://github.com/vincenzo-afk/vincenzo-afk) | 40 | JavaScript | Nov 10 |
 | [xithsense](https://github.com/vincenzo-afk/xithsense) | 40 | Python | Nov 05 |
 | [browserbrain](https://github.com/vincenzo-afk/browserbrain) | 40 | TypeScript | Oct 05 |
 | [PrivatePulse-AI](https://github.com/vincenzo-afk/PrivatePulse-AI) | 40 | TypeScript | Sep 19 |
