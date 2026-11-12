@@ -7,8 +7,8 @@
   "stars": 3212,
   "forks": 24,
   "langs": {
-    "TypeScript": 30,
     "JavaScript": 27,
+    "TypeScript": 30,
     "Python": 24,
     "Rust": 3,
     "Java": 1,
@@ -18,7 +18,7 @@
     "Kotlin": 2
   },
   "cal": {
-    "total": 3143,
+    "total": 3145,
     "days": [
       {
         "d": "2025-11-09",
@@ -1078,7 +1078,7 @@
       {
         "d": "2026-11-11",
         "l": 1,
-        "c": 2
+        "c": 4
       },
       {
         "d": "2025-11-13",
@@ -1339,6 +1339,11 @@
         "d": "2026-11-05",
         "l": 1,
         "c": 4
+      },
+      {
+        "d": "2026-11-12",
+        "l": 0,
+        "c": 0
       },
       {
         "d": "2025-11-14",
@@ -1889,7 +1894,7 @@
       "stars": 40,
       "forks": 0,
       "lang": "JavaScript",
-      "pushed": "2026-11-11T06:04:10Z"
+      "pushed": "2026-11-11T19:25:13Z"
     },
     {
       "name": "xithsense",
@@ -1915,14 +1920,14 @@
   ],
   "fresh": [
     {
+      "name": "vincenzo-afk",
+      "pushed": "2026-11-11T19:25:13Z",
+      "lang": "JavaScript"
+    },
+    {
       "name": "claude-quickstarts",
       "pushed": "2026-11-11T09:42:02Z",
       "lang": "TypeScript"
-    },
-    {
-      "name": "vincenzo-afk",
-      "pushed": "2026-11-11T06:04:10Z",
-      "lang": "JavaScript"
     },
     {
       "name": "CrewPilot",
@@ -1940,10 +1945,10 @@
       "lang": "Rust"
     }
   ],
-  "lastPush": "2026-11-11T09:42:02Z",
-  "fetchedAt": "2026-11-11T13:45:36.674Z",
+  "lastPush": "2026-11-11T19:25:13Z",
+  "fetchedAt": "2026-11-12T00:13:12.424Z",
   "live": true,
-  "xp": 12702,
+  "xp": 12704,
   "level": 10,
   "xpPct": 28,
   "transmissions": [
