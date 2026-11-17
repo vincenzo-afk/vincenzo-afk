@@ -37,7 +37,7 @@ CLASS ............. Full Stack Developer / AI Engineer
 SPECIALIZATION .... AI Systems · LLMs · Agents · Automation
 LOCATION .......... Tamil Nadu, India
 OBJECTIVE ......... Build useful systems beyond the demo.
-STATUS ............ ● BUILDING (vincenzo-afk pushed 8h ago)
+STATUS ............ ● BUILDING (vincenzo-afk pushed 3h ago)
 
 PRIMARY ........... AI Systems
 ACTIVE ............ Full Stack Engineering
@@ -61,15 +61,15 @@ Live language mix behind this tree (real repo data, Nov 2026): **TypeScript 30 �
 [![telemetry — click for live profile](assets/telemetry.svg)](https://github.com/vincenzo-afk)
 
 <!-- OS:telemetry-table -->
-| Metric | Live value (2026-11-16) | Source |
+| Metric | Live value (2026-11-17) | Source |
 |---|---|---|
 | Public repositories | **109** | `api.github.com/users/vincenzo-afk` |
 | Stars earned | **3,213** | sum of `stargazers_count` over all repos |
-| Contributions (1y) | **3,166** | public contribution graph (parsed, no auth) |
+| Contributions (1y) | **3,168** | public contribution graph (parsed, no auth) |
 | Followers / Following | **142 / 119** | user profile |
 | Forks | **24** | sum of `forks_count` |
-| Last push | **vincenzo-afk, 8h ago** | repos sorted by `pushed_at` |
-| Fresh builds | vincenzo-afk · claude-quickstarts · CrewPilot | last 3 pushes |
+| Last push | **vincenzo-afk, 3h ago** | repos sorted by `pushed_at` |
+| Fresh builds | vincenzo-afk · claude-cookbooks · claude-quickstarts | last 3 pushes |
 
 Regenerated every 6h by `.github/workflows/update-profile.yml`. If the API is unreachable the cards show the last known state instead of an error.
 <!-- /OS:telemetry-table -->
@@ -101,7 +101,7 @@ Progress bars are manual build estimates; stars + last-push are live from the AP
 [![live game — click for the real contribution graph](assets/contribution-game.svg)](https://github.com/vincenzo-afk)
 
 <!-- OS:season-note -->
-**👾 NOW PLAYING: PAC-MAN** — fueled by **3,166 real contributions** across **184 active days**. Season rotates automatically every week: 🚀 SPACE MISSION → 🐍 SNAKE RUN → 👾 PAC-MAN → 🏎️ CODE RACING → 🌌 GALAXY. Next up: **🏎️ CODE RACING**. The game changes; the grind data never lies.
+**👾 NOW PLAYING: PAC-MAN** — fueled by **3,168 real contributions** across **184 active days**. Season rotates automatically every week: 🚀 SPACE MISSION → 🐍 SNAKE RUN → 👾 PAC-MAN → 🏎️ CODE RACING → 🌌 GALAXY. Next up: **🏎️ CODE RACING**. The game changes; the grind data never lies.
 <!-- /OS:season-note -->
 
 ## 🎮 LEVEL SYSTEM *(custom profile gamification — not an official GitHub score)*
@@ -110,12 +110,12 @@ Progress bars are manual build estimates; stars + last-push are live from the AP
 ```text
 BK // LEVEL 10
 
-XP  ██████░░░░░░░░░░░░░░░░  29%  (12,722 XP)
+XP  ██████░░░░░░░░░░░░░░░░  29%  (12,724 XP)
 
 REPOS ×109 ............ +20 XP each
 STARS ×3,213 ......... +2 XP each
 FOLLOWERS ×142 ....... +5 XP each
-GRIND ×3,166 .... +1 XP each
+GRIND ×3,168 .... +1 XP each
 ```
 <!-- /OS:level -->
 
@@ -193,7 +193,7 @@ Real public events, refreshed by the pipeline (`data/transmissions.json`):
 │ Kernel-One        ● DEVELOPMENT     │
 │ CypherID          ● DEVELOPMENT     │
 │                                     │
-│ LAST SYNC         2026-11-16 UTC    │
+│ LAST SYNC         2026-11-17 UTC    │
 └─────────────────────────────────────┘
 ```
 
@@ -237,7 +237,7 @@ Every node links back to its mission row above — one engineering journey, not 
 └── 109 public repos, 3200+ stars — search engines in Rust, WiFi sensing, RAG, agent infrastructure
 
 NOW
-└── Building systems instead of demos — vincenzo-afk, claude-quickstarts, CrewPilot in active development
+└── Building systems instead of demos — vincenzo-afk, claude-cookbooks, claude-quickstarts in active development
 ```
 <!-- /OS:lore -->
 
@@ -298,7 +298,7 @@ SIDE QUESTS
 ## 📊 DEVELOPER TELEMETRY
 
 <!-- OS:top-repos -->
-Top repositories by stars (live, 2026-11-16) — click any row to warp in:
+Top repositories by stars (live, 2026-11-17) — click any row to warp in:
 
 | Repo | ★ | Lang | Last push |
 |---|---|---|---|
@@ -343,8 +343,8 @@ Something better was installed.
 <!-- OS:footer -->
 ```
 ────────────────────────────────────────
-BK.DEV SYSTEM · VERSION 26.11.16
-LAST SYNCHRONIZED 2026-11-16 UTC · SOURCE api.github.com/users/vincenzo-afk
+BK.DEV SYSTEM · VERSION 26.11.17
+LAST SYNCHRONIZED 2026-11-17 UTC · SOURCE api.github.com/users/vincenzo-afk
 Built with: GitHub API · GitHub Actions · Node · SVG · SMIL
 [ SOURCE ] [ PROJECTS ] [ CONTACT: itsmebk2007@gmail.com ]
 ────────────────────────────────────────
