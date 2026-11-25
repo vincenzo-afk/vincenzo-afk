@@ -37,7 +37,7 @@ CLASS ............. Full Stack Developer / AI Engineer
 SPECIALIZATION .... AI Systems · LLMs · Agents · Automation
 LOCATION .......... Tamil Nadu, India
 OBJECTIVE ......... Build useful systems beyond the demo.
-STATUS ............ ● BUILDING (vincenzo-afk pushed 33m ago)
+STATUS ............ ● BUILDING (vincenzo-afk pushed 2h ago)
 
 PRIMARY ........... AI Systems
 ACTIVE ............ Full Stack Engineering
@@ -65,10 +65,10 @@ Live language mix behind this tree (real repo data, Nov 2026): **TypeScript 30 �
 |---|---|---|
 | Public repositories | **109** | `api.github.com/users/vincenzo-afk` |
 | Stars earned | **3,221** | sum of `stargazers_count` over all repos |
-| Contributions (1y) | **3,193** | public contribution graph (parsed, no auth) |
+| Contributions (1y) | **3,195** | public contribution graph (parsed, no auth) |
 | Followers / Following | **140 / 117** | user profile |
 | Forks | **25** | sum of `forks_count` |
-| Last push | **vincenzo-afk, 33m ago** | repos sorted by `pushed_at` |
+| Last push | **vincenzo-afk, 2h ago** | repos sorted by `pushed_at` |
 | Fresh builds | vincenzo-afk · claude-cookbooks · claude-quickstarts | last 3 pushes |
 
 Regenerated every 6h by `.github/workflows/update-profile.yml`. If the API is unreachable the cards show the last known state instead of an error.
@@ -101,7 +101,7 @@ Progress bars are manual build estimates; stars + last-push are live from the AP
 [![live game — click for the real contribution graph](assets/contribution-game.svg)](https://github.com/vincenzo-afk)
 
 <!-- OS:season-note -->
-**🏎️ NOW PLAYING: CODE RACING** — fueled by **3,193 real contributions** across **191 active days**. Season rotates automatically every week: 🚀 SPACE MISSION → 🐍 SNAKE RUN → 👾 PAC-MAN → 🏎️ CODE RACING → 🌌 GALAXY. Next up: **🌌 GALAXY**. The game changes; the grind data never lies.
+**🏎️ NOW PLAYING: CODE RACING** — fueled by **3,195 real contributions** across **191 active days**. Season rotates automatically every week: 🚀 SPACE MISSION → 🐍 SNAKE RUN → 👾 PAC-MAN → 🏎️ CODE RACING → 🌌 GALAXY. Next up: **🌌 GALAXY**. The game changes; the grind data never lies.
 <!-- /OS:season-note -->
 
 ## 🎮 LEVEL SYSTEM *(custom profile gamification — not an official GitHub score)*
@@ -110,12 +110,12 @@ Progress bars are manual build estimates; stars + last-push are live from the AP
 ```text
 BK // LEVEL 10
 
-XP  ███████░░░░░░░░░░░░░░░  30%  (12,765 XP)
+XP  ███████░░░░░░░░░░░░░░░  30%  (12,767 XP)
 
 REPOS ×109 ............ +20 XP each
 STARS ×3,221 ......... +2 XP each
 FOLLOWERS ×140 ....... +5 XP each
-GRIND ×3,193 .... +1 XP each
+GRIND ×3,195 .... +1 XP each
 ```
 <!-- /OS:level -->
 
