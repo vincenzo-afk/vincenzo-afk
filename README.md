@@ -37,7 +37,7 @@ CLASS ............. Full Stack Developer / AI Engineer
 SPECIALIZATION .... AI Systems · LLMs · Agents · Automation
 LOCATION .......... Tamil Nadu, India
 OBJECTIVE ......... Build useful systems beyond the demo.
-STATUS ............ ● BUILDING (vincenzo-afk pushed 2h ago)
+STATUS ............ ● BUILDING (VantaDNS pushed 18m ago)
 
 PRIMARY ........... AI Systems
 ACTIVE ............ Full Stack Engineering
@@ -52,7 +52,7 @@ EXPERIMENTAL ...... Speech / Multimodal / Blockchain identity
 [![skill tree — click for loadout](assets/skill-tree.svg)](#-loadout)
 
 <!-- OS:skill-mix -->
-Live language mix behind this tree (real repo data, Nov 2026): **TypeScript 30 · JavaScript 27 · Python 24 · Rust 3 · HTML 3 · CSS 2 · Dart 2 · Kotlin 2 · Java 1** — 109 public repos. Language counts describe the repos, not skill claims.
+Live language mix behind this tree (real repo data, Nov 2026): **TypeScript 30 · JavaScript 27 · Python 24 · Rust 4 · HTML 3 · CSS 2 · Dart 2 · Kotlin 2 · Java 1** — 110 public repos. Language counts describe the repos, not skill claims.
 <!-- /OS:skill-mix -->
 
 ---
@@ -61,15 +61,15 @@ Live language mix behind this tree (real repo data, Nov 2026): **TypeScript 30 �
 [![telemetry — click for live profile](assets/telemetry.svg)](https://github.com/vincenzo-afk)
 
 <!-- OS:telemetry-table -->
-| Metric | Live value (2026-11-27) | Source |
+| Metric | Live value (2026-11-28) | Source |
 |---|---|---|
-| Public repositories | **109** | `api.github.com/users/vincenzo-afk` |
-| Stars earned | **3,222** | sum of `stargazers_count` over all repos |
-| Contributions (1y) | **3,203** | public contribution graph (parsed, no auth) |
-| Followers / Following | **138 / 115** | user profile |
+| Public repositories | **110** | `api.github.com/users/vincenzo-afk` |
+| Stars earned | **3,223** | sum of `stargazers_count` over all repos |
+| Contributions (1y) | **3,259** | public contribution graph (parsed, no auth) |
+| Followers / Following | **139 / 115** | user profile |
 | Forks | **26** | sum of `forks_count` |
-| Last push | **vincenzo-afk, 2h ago** | repos sorted by `pushed_at` |
-| Fresh builds | vincenzo-afk · claude-cookbooks · claude-quickstarts | last 3 pushes |
+| Last push | **VantaDNS, 18m ago** | repos sorted by `pushed_at` |
+| Fresh builds | VantaDNS · Mika · vincenzo-afk | last 3 pushes |
 
 Regenerated every 6h by `.github/workflows/update-profile.yml`. If the API is unreachable the cards show the last known state instead of an error.
 <!-- /OS:telemetry-table -->
@@ -83,7 +83,7 @@ Regenerated every 6h by `.github/workflows/update-profile.yml`. If the API is un
 | # | Mission | Status | Live repo |
 |---|---|---|---|
 | 001 | **DEVNEXUS** — AI-powered developer command center: GitHub context, progress narratives, smart TODOs, hackathon planning. | ● OPERATIONAL | [vincenzo-afk/DEVNEXUS](https://github.com/vincenzo-afk/DEVNEXUS) · 40★ · 2mo ago |
-| 002 | **NEXUS-ENGINE** — Full-featured search engine in Rust — local filesystem + web crawl with BM25+PageRank ranking. | ● OPERATIONAL | [vincenzo-afk/NEXUS-ENGINE](https://github.com/vincenzo-afk/NEXUS-ENGINE) · 38★ · 25d ago |
+| 002 | **NEXUS-ENGINE** — Full-featured search engine in Rust — local filesystem + web crawl with BM25+PageRank ranking. | ● OPERATIONAL | [vincenzo-afk/NEXUS-ENGINE](https://github.com/vincenzo-afk/NEXUS-ENGINE) · 38★ · 26d ago |
 | 003 | **Zen-2** — 124M-parameter decoder-only LLM from scratch — RoPE, RMSNorm, SwiGLU, GQA, KV Cache, BPE. | ● RESEARCH | [vincenzo-afk/Zen-2](https://github.com/vincenzo-afk/Zen-2) · 38★ · 3mo ago |
 | 004 | **NOVA-exe** — Local-first desktop AI agent platform. Most recently pushed repo — under active construction. | ● BUILDING | [vincenzo-afk/NOVA-exe](https://github.com/vincenzo-afk/NOVA-exe) · 23★ · 1mo ago |
 | 005 | **Kernel-One** — Industrial AI operating environment — every AI action controlled, auditable, permission-aware. | ● BUILDING | [vincenzo-afk/Kernel-One](https://github.com/vincenzo-afk/Kernel-One) · 23★ · 2mo ago |
@@ -101,7 +101,7 @@ Progress bars are manual build estimates; stars + last-push are live from the AP
 [![live game — click for the real contribution graph](assets/contribution-game.svg)](https://github.com/vincenzo-afk)
 
 <!-- OS:season-note -->
-**🌌 NOW PLAYING: GALAXY** — fueled by **3,203 real contributions** across **193 active days**. Season rotates automatically every week: 🚀 SPACE MISSION → 🐍 SNAKE RUN → 👾 PAC-MAN → 🏎️ CODE RACING → 🌌 GALAXY. Next up: **🚀 SPACE MISSION**. The game changes; the grind data never lies.
+**🌌 NOW PLAYING: GALAXY** — fueled by **3,259 real contributions** across **194 active days**. Season rotates automatically every week: 🚀 SPACE MISSION → 🐍 SNAKE RUN → 👾 PAC-MAN → 🏎️ CODE RACING → 🌌 GALAXY. Next up: **🚀 SPACE MISSION**. The game changes; the grind data never lies.
 <!-- /OS:season-note -->
 
 ## 🎮 LEVEL SYSTEM *(custom profile gamification — not an official GitHub score)*
@@ -110,12 +110,12 @@ Progress bars are manual build estimates; stars + last-push are live from the AP
 ```text
 BK // LEVEL 10
 
-XP  ███████░░░░░░░░░░░░░░░  31%  (12,777 XP)
+XP  ███████░░░░░░░░░░░░░░░  34%  (12,860 XP)
 
-REPOS ×109 ............ +20 XP each
-STARS ×3,222 ......... +2 XP each
-FOLLOWERS ×138 ....... +5 XP each
-GRIND ×3,203 .... +1 XP each
+REPOS ×110 ............ +20 XP each
+STARS ×3,223 ......... +2 XP each
+FOLLOWERS ×139 ....... +5 XP each
+GRIND ×3,259 .... +1 XP each
 ```
 <!-- /OS:level -->
 
@@ -169,13 +169,13 @@ Real public events, refreshed by the pipeline (`data/transmissions.json`):
 
 <!-- OS:transmissions -->
 ```text
+06:23  starred Mika
 15:10  pushed to CrewPilot
 12:27  created branch in CrewPilot
 06:26  pushed to Glyph
 06:09  created branch in Glyph
 04:51  created branch in enterprise-rag-rocm
 02:33  created branch in Glyph
-02:21  pushed to ariadne-web-agent
 ```
 <!-- /OS:transmissions -->
 
@@ -193,7 +193,7 @@ Real public events, refreshed by the pipeline (`data/transmissions.json`):
 │ Kernel-One        ● DEVELOPMENT     │
 │ CypherID          ● DEVELOPMENT     │
 │                                     │
-│ LAST SYNC         2026-11-27 UTC    │
+│ LAST SYNC         2026-11-28 UTC    │
 └─────────────────────────────────────┘
 ```
 
@@ -234,10 +234,10 @@ Every node links back to its mission row above — one engineering journey, not 
 └── AI systems enter the lab — NOVA, Zen-2 (124M LLM from scratch), OpenAgentNet, AgentWeb
 
 2026
-└── 109 public repos, 3200+ stars — search engines in Rust, WiFi sensing, RAG, agent infrastructure
+└── 110 public repos, 3200+ stars — search engines in Rust, WiFi sensing, RAG, agent infrastructure
 
 NOW
-└── Building systems instead of demos — vincenzo-afk, claude-cookbooks, claude-quickstarts in active development
+└── Building systems instead of demos — VantaDNS, Mika, vincenzo-afk in active development
 ```
 <!-- /OS:lore -->
 
@@ -298,7 +298,7 @@ SIDE QUESTS
 ## 📊 DEVELOPER TELEMETRY
 
 <!-- OS:top-repos -->
-Top repositories by stars (live, 2026-11-27) — click any row to warp in:
+Top repositories by stars (live, 2026-11-28) — click any row to warp in:
 
 | Repo | ★ | Lang | Last push |
 |---|---|---|---|
@@ -343,8 +343,8 @@ Something better was installed.
 <!-- OS:footer -->
 ```
 ────────────────────────────────────────
-BK.DEV SYSTEM · VERSION 26.11.27
-LAST SYNCHRONIZED 2026-11-27 UTC · SOURCE api.github.com/users/vincenzo-afk
+BK.DEV SYSTEM · VERSION 26.11.28
+LAST SYNCHRONIZED 2026-11-28 UTC · SOURCE api.github.com/users/vincenzo-afk
 Built with: GitHub API · GitHub Actions · Node · SVG · SMIL
 [ SOURCE ] [ PROJECTS ] [ CONTACT: itsmebk2007@gmail.com ]
 ────────────────────────────────────────

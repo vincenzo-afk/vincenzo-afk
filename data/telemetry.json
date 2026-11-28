@@ -1,16 +1,16 @@
 {
   "name": "BHARANI KUMAR S",
   "created": "2025-09-19T10:45:52Z",
-  "repos": 109,
-  "followers": 138,
+  "repos": 110,
+  "followers": 139,
   "following": 115,
-  "stars": 3222,
+  "stars": 3223,
   "forks": 26,
   "langs": {
+    "Rust": 4,
     "JavaScript": 27,
     "TypeScript": 30,
     "Python": 24,
-    "Rust": 3,
     "Java": 1,
     "CSS": 2,
     "Dart": 2,
@@ -18,7 +18,7 @@
     "Kotlin": 2
   },
   "cal": {
-    "total": 3203,
+    "total": 3259,
     "days": [
       {
         "d": "2025-11-23",
@@ -1078,7 +1078,7 @@
       {
         "d": "2026-11-25",
         "l": 1,
-        "c": 4
+        "c": 20
       },
       {
         "d": "2025-11-27",
@@ -1193,7 +1193,7 @@
       {
         "d": "2026-04-30",
         "l": 1,
-        "c": 8
+        "c": 7
       },
       {
         "d": "2026-05-07",
@@ -1608,7 +1608,7 @@
       {
         "d": "2026-11-27",
         "l": 1,
-        "c": 3
+        "c": 4
       },
       {
         "d": "2025-11-29",
@@ -1869,6 +1869,11 @@
         "d": "2026-11-21",
         "l": 1,
         "c": 4
+      },
+      {
+        "d": "2026-11-28",
+        "l": 2,
+        "c": 40
       }
     ]
   },
@@ -1899,7 +1904,7 @@
       "stars": 40,
       "forks": 0,
       "lang": "JavaScript",
-      "pushed": "2026-11-27T18:35:44Z"
+      "pushed": "2026-11-27T20:54:55Z"
     },
     {
       "name": "xithsense",
@@ -1925,8 +1930,18 @@
   ],
   "fresh": [
     {
+      "name": "VantaDNS",
+      "pushed": "2026-11-28T06:33:28Z",
+      "lang": "Rust"
+    },
+    {
+      "name": "Mika",
+      "pushed": "2026-11-28T06:16:06Z",
+      "lang": "Rust"
+    },
+    {
       "name": "vincenzo-afk",
-      "pushed": "2026-11-27T18:35:44Z",
+      "pushed": "2026-11-27T20:54:55Z",
       "lang": "JavaScript"
     },
     {
@@ -1938,25 +1953,19 @@
       "name": "claude-quickstarts",
       "pushed": "2026-11-11T09:42:02Z",
       "lang": "TypeScript"
-    },
-    {
-      "name": "CrewPilot",
-      "pushed": "2026-11-06T15:23:46Z",
-      "lang": "Python"
-    },
-    {
-      "name": "xithsense",
-      "pushed": "2026-11-05T07:42:30Z",
-      "lang": "Python"
     }
   ],
-  "lastPush": "2026-11-27T18:35:44Z",
-  "fetchedAt": "2026-11-27T20:50:01.507Z",
+  "lastPush": "2026-11-28T06:33:28Z",
+  "fetchedAt": "2026-11-28T06:51:54.390Z",
   "live": true,
-  "xp": 12777,
+  "xp": 12860,
   "level": 10,
-  "xpPct": 31,
+  "xpPct": 34,
   "transmissions": [
+    {
+      "t": "06:23",
+      "text": "starred Mika"
+    },
     {
       "t": "15:10",
       "text": "pushed to CrewPilot"
@@ -1980,10 +1989,6 @@
     {
       "t": "02:33",
       "text": "created branch in Glyph"
-    },
-    {
-      "t": "02:21",
-      "text": "pushed to ariadne-web-agent"
     }
   ]
 }
