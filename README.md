@@ -37,7 +37,7 @@ CLASS ............. Full Stack Developer / AI Engineer
 SPECIALIZATION .... AI Systems · LLMs · Agents · Automation
 LOCATION .......... Tamil Nadu, India
 OBJECTIVE ......... Build useful systems beyond the demo.
-STATUS ............ ● BUILDING (VantaDNS pushed 18m ago)
+STATUS ............ ● BUILDING (vincenzo-afk pushed 33m ago)
 
 PRIMARY ........... AI Systems
 ACTIVE ............ Full Stack Engineering
@@ -52,7 +52,7 @@ EXPERIMENTAL ...... Speech / Multimodal / Blockchain identity
 [![skill tree — click for loadout](assets/skill-tree.svg)](#-loadout)
 
 <!-- OS:skill-mix -->
-Live language mix behind this tree (real repo data, Nov 2026): **TypeScript 30 · JavaScript 27 · Python 24 · Rust 4 · HTML 3 · CSS 2 · Dart 2 · Kotlin 2 · Java 1** — 110 public repos. Language counts describe the repos, not skill claims.
+Live language mix behind this tree (real repo data, Nov 2026): **TypeScript 30 · JavaScript 27 · Python 24 · Rust 3 · HTML 3 · Java 2 · CSS 2 · Dart 2 · Kotlin 2** — 110 public repos. Language counts describe the repos, not skill claims.
 <!-- /OS:skill-mix -->
 
 ---
@@ -65,11 +65,11 @@ Live language mix behind this tree (real repo data, Nov 2026): **TypeScript 30 �
 |---|---|---|
 | Public repositories | **110** | `api.github.com/users/vincenzo-afk` |
 | Stars earned | **3,223** | sum of `stargazers_count` over all repos |
-| Contributions (1y) | **3,259** | public contribution graph (parsed, no auth) |
+| Contributions (1y) | **3,260** | public contribution graph (parsed, no auth) |
 | Followers / Following | **139 / 115** | user profile |
 | Forks | **26** | sum of `forks_count` |
-| Last push | **VantaDNS, 18m ago** | repos sorted by `pushed_at` |
-| Fresh builds | VantaDNS · Mika · vincenzo-afk | last 3 pushes |
+| Last push | **vincenzo-afk, 33m ago** | repos sorted by `pushed_at` |
+| Fresh builds | vincenzo-afk · VantaDNS · Mika | last 3 pushes |
 
 Regenerated every 6h by `.github/workflows/update-profile.yml`. If the API is unreachable the cards show the last known state instead of an error.
 <!-- /OS:telemetry-table -->
@@ -101,7 +101,7 @@ Progress bars are manual build estimates; stars + last-push are live from the AP
 [![live game — click for the real contribution graph](assets/contribution-game.svg)](https://github.com/vincenzo-afk)
 
 <!-- OS:season-note -->
-**🌌 NOW PLAYING: GALAXY** — fueled by **3,259 real contributions** across **194 active days**. Season rotates automatically every week: 🚀 SPACE MISSION → 🐍 SNAKE RUN → 👾 PAC-MAN → 🏎️ CODE RACING → 🌌 GALAXY. Next up: **🚀 SPACE MISSION**. The game changes; the grind data never lies.
+**🌌 NOW PLAYING: GALAXY** — fueled by **3,260 real contributions** across **194 active days**. Season rotates automatically every week: 🚀 SPACE MISSION → 🐍 SNAKE RUN → 👾 PAC-MAN → 🏎️ CODE RACING → 🌌 GALAXY. Next up: **🚀 SPACE MISSION**. The game changes; the grind data never lies.
 <!-- /OS:season-note -->
 
 ## 🎮 LEVEL SYSTEM *(custom profile gamification — not an official GitHub score)*
@@ -110,12 +110,12 @@ Progress bars are manual build estimates; stars + last-push are live from the AP
 ```text
 BK // LEVEL 10
 
-XP  ███████░░░░░░░░░░░░░░░  34%  (12,860 XP)
+XP  ███████░░░░░░░░░░░░░░░  34%  (12,861 XP)
 
 REPOS ×110 ............ +20 XP each
 STARS ×3,223 ......... +2 XP each
 FOLLOWERS ×139 ....... +5 XP each
-GRIND ×3,259 .... +1 XP each
+GRIND ×3,260 .... +1 XP each
 ```
 <!-- /OS:level -->
 
@@ -237,7 +237,7 @@ Every node links back to its mission row above — one engineering journey, not 
 └── 110 public repos, 3200+ stars — search engines in Rust, WiFi sensing, RAG, agent infrastructure
 
 NOW
-└── Building systems instead of demos — VantaDNS, Mika, vincenzo-afk in active development
+└── Building systems instead of demos — vincenzo-afk, VantaDNS, Mika in active development
 ```
 <!-- /OS:lore -->
 
@@ -305,7 +305,7 @@ Top repositories by stars (live, 2026-11-28) — click any row to warp in:
 | [WIFI-based-human-presence-detection-system](https://github.com/vincenzo-afk/WIFI-based-human-presence-detection-system) | 46 | Python | Aug 23 |
 | [NOVA](https://github.com/vincenzo-afk/NOVA) | 43 | Python | Sep 19 |
 | [KingstonConnect](https://github.com/vincenzo-afk/KingstonConnect) | 41 | TypeScript | Sep 10 |
-| [vincenzo-afk](https://github.com/vincenzo-afk/vincenzo-afk) | 40 | JavaScript | Nov 27 |
+| [vincenzo-afk](https://github.com/vincenzo-afk/vincenzo-afk) | 40 | JavaScript | Nov 28 |
 | [xithsense](https://github.com/vincenzo-afk/xithsense) | 40 | Python | Nov 05 |
 | [OpenAgentNet](https://github.com/vincenzo-afk/OpenAgentNet) | 40 | Python | Oct 16 |
 | [browserbrain](https://github.com/vincenzo-afk/browserbrain) | 40 | TypeScript | Oct 05 |

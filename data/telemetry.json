@@ -7,18 +7,18 @@
   "stars": 3223,
   "forks": 26,
   "langs": {
-    "Rust": 4,
     "JavaScript": 27,
+    "Java": 2,
+    "Rust": 3,
     "TypeScript": 30,
     "Python": 24,
-    "Java": 1,
     "CSS": 2,
     "Dart": 2,
     "HTML": 3,
     "Kotlin": 2
   },
   "cal": {
-    "total": 3259,
+    "total": 3260,
     "days": [
       {
         "d": "2025-11-23",
@@ -1873,7 +1873,7 @@
       {
         "d": "2026-11-28",
         "l": 2,
-        "c": 40
+        "c": 41
       }
     ]
   },
@@ -1904,7 +1904,7 @@
       "stars": 40,
       "forks": 0,
       "lang": "JavaScript",
-      "pushed": "2026-11-27T20:54:55Z"
+      "pushed": "2026-11-28T07:05:33Z"
     },
     {
       "name": "xithsense",
@@ -1930,19 +1930,19 @@
   ],
   "fresh": [
     {
+      "name": "vincenzo-afk",
+      "pushed": "2026-11-28T07:05:33Z",
+      "lang": "JavaScript"
+    },
+    {
       "name": "VantaDNS",
       "pushed": "2026-11-28T06:33:28Z",
-      "lang": "Rust"
+      "lang": "Java"
     },
     {
       "name": "Mika",
       "pushed": "2026-11-28T06:16:06Z",
       "lang": "Rust"
-    },
-    {
-      "name": "vincenzo-afk",
-      "pushed": "2026-11-27T20:54:55Z",
-      "lang": "JavaScript"
     },
     {
       "name": "claude-cookbooks",
@@ -1955,10 +1955,10 @@
       "lang": "TypeScript"
     }
   ],
-  "lastPush": "2026-11-28T06:33:28Z",
-  "fetchedAt": "2026-11-28T06:51:54.390Z",
+  "lastPush": "2026-11-28T07:05:33Z",
+  "fetchedAt": "2026-11-28T07:39:17.591Z",
   "live": true,
-  "xp": 12860,
+  "xp": 12861,
   "level": 10,
   "xpPct": 34,
   "transmissions": [
